@@ -1,6 +1,7 @@
 body{
       text-align: center;
-      background: black;
+      background: url("http://www.omgubuntu.co.uk/wp-content/uploads/2014/03/Forever-Shady-S.jpg");
+      background-size: cover;
+      background-position: center;
       color: white;
-      font-family: helvetica
-}
+      font-family: helvetica;
