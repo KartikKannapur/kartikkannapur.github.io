@@ -5,3 +5,10 @@ body{
       background-position: center;
       color: white;
       font-family: helvetica;
+}
+
+.profile_picture{
+	margin: 30px 0px 0px 0px;
+    border: 7px solid white;
+    border-radius: 20px;
+}
