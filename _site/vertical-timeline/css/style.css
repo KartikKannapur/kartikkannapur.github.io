@@ -261,6 +261,8 @@ header h1 {
 }
 .cd-timeline-content h2 {
   /*color: #303e49;*/
+  text-align: center;
+ 
 }
 .cd-timeline-content p, .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
   font-size: 13px;
@@ -296,7 +298,7 @@ header h1 {
   height: 0;
   width: 0;
   border: 7px solid transparent;
-  border-right: 7px solid white;
+  /*border-right: 7px solid white;*/
 }
 @media only screen and (min-width: 768px) {
   .cd-timeline-content h2 {
