@@ -11,6 +11,7 @@
 <link rel="stylesheet" href="../vertical-timeline/css/reset.css"> <!-- CSS reset -->
 <link rel="stylesheet" href="../vertical-timeline/css/style.css"> <!-- Resource style -->
 <script src="../vertical-timeline/js/modernizr.js"></script> <!-- Modernizr -->
+
 </head>
 
 <body class="post">
@@ -19,7 +20,13 @@
 
 {% include _navigation.html %}
 
-<!--Main Timeline Content START-->
+<div id="main" role="main">
+
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  
+  <!--Main Timeline Content START-->
 
 <section id="cd-timeline" class="cd-container">
     <div class="cd-timeline-block">
@@ -39,31 +46,20 @@
       </div> <!-- cd-timeline-img -->
 
       <div class="cd-timeline-content">
-        <h2>Title of section 3</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, obcaecati, quisquam id molestias eaque asperiores voluptatibus cupiditate error assumenda delectus odit similique earum voluptatem doloremque dolorem ipsam quae rerum quis. Odit, itaque, deserunt corporis vero ipsum nisi eius odio natus ullam provident pariatur temporibus quia eos repellat consequuntur perferendis enim amet quae quasi repudiandae sed quod veniam dolore possimus rem voluptatum eveniet eligendi quis fugiat aliquam sunt similique aut adipisci.</p>
-        <a href="#0" class="cd-read-more">Read more</a>
-        <span class="cd-date">Jan 24</span>
-      </div> <!-- cd-timeline-content -->
-    </div> <!-- cd-timeline-block -->
-
-    <div class="cd-timeline-block">
-      <div class="cd-timeline-img cd-picture">
-        <img src="../vertical-timeline/img/cd-icon-picture.svg" alt="Picture">
-      </div> <!-- cd-timeline-img -->
-
-      <div class="cd-timeline-content">
         <h2>Title of section 4</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
         <a href="#0" class="cd-read-more">Read more</a>
         <span class="cd-date">Feb 14</span>
       </div> <!-- cd-timeline-content -->
     </div> <!-- cd-timeline-block -->
-
     
     
   </section> <!-- cd-timeline -->
 
 <!--Main Timeline Content END-->
+
+</div><!-- /#main -->
+
 
 
 <div class="footer-wrap">
