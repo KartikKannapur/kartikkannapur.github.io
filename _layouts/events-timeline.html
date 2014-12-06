@@ -6,27 +6,28 @@
 <head>
 {% include _head.html %}
 
-<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
-
-<link rel="stylesheet" href="../vertical-timeline/css/reset.css"> <!-- CSS reset -->
+<!-- <link rel="stylesheet" href="../vertical-timeline/css/reset.css">-->
 <link rel="stylesheet" href="../vertical-timeline/css/style.css"> <!-- Resource style -->
-<script src="../vertical-timeline/js/modernizr.js"></script> <!-- Modernizr -->
+<!-- <script src="../vertical-timeline/js/modernizr.js"></script> -->
 
 </head>
 
-<body class="post">
+<body class="post-index">
 
 {% include _browser-upgrade.html %}
 
 {% include _navigation.html %}
 
-<div id="main" role="main">
 
+<div id="main" role="main">
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
-  
-  <!--Main Timeline Content START-->
+
+
+  <div id="index">
+
+    <!--Main Timeline Content START-->
 
 <section id="cd-timeline" class="cd-container">
     <div class="cd-timeline-block">
@@ -80,26 +81,16 @@
 
 <!--Main Timeline Content END-->
 
+  </div><!-- /#index -->
 </div><!-- /#main -->
 
-
-
 <div class="footer-wrap">
-  <div class="related-articles">
-  
-    <ul>
-    {% for post in site.related_posts limit:3 %}
-      <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-    {% endfor %}
-    </ul>
-    <hr />
-  </div><!-- /.related-articles -->
   <footer>
     {% include _footer.html %}
   </footer>
 </div><!-- /.footer-wrap -->
 
-{% include _scripts.html %}	        
-
+{% include _scripts.html %}
+  
 </body>
 </html>
