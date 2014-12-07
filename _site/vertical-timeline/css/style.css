@@ -15,20 +15,29 @@ html * {
 }
 
 body {
-  line-height: 1.3;
-
-  font-family: 'PT Sans Narrow';
+  line-height: normal;
+  font-size: 1em;
+  font-family: 'PT Serif';
   font-style: normal;
   font-weight: 400;
   src: local('PT Sans Narrow'), local('PTSans-Narrow'), url(http://themes.googleusercontent.com/static/fonts/ptsansnarrow/v5/UyYrYy3ltEffJV9QueSi4RdbPw3QSf9R-kE0EsQUn2A.woff) format('woff');
 }
 
-a {
-  color: #acb7c0;
+#homepage {
+  font-color: #181818;
   text-decoration: none;
   font-family: 'PT Sans Narrow';
   font-style: normal;
-  font-weight: 700;
+  font-weight: bold;
+  src: local('PT Sans Narrow Bold'), local('PTSans-NarrowBold'), url(http://themes.googleusercontent.com/static/fonts/ptsansnarrow/v5/Q_pTky3Sc3ubRibGToTAYiylde52zikAzebNtJS89aM.woff) format('woff');
+}
+
+a {
+  font-color: #181818;
+  text-decoration: none;
+  font-family: 'PT Sans Narrow';
+  font-style: normal;
+  font-weight: bold;
   src: local('PT Sans Narrow Bold'), local('PTSans-NarrowBold'), url(http://themes.googleusercontent.com/static/fonts/ptsansnarrow/v5/Q_pTky3Sc3ubRibGToTAYiylde52zikAzebNtJS89aM.woff) format('woff');
 }
 
