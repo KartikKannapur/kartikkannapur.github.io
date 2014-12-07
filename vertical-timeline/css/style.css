@@ -32,15 +32,6 @@ body {
   src: local('PT Sans Narrow Bold'), local('PTSans-NarrowBold'), url(http://themes.googleusercontent.com/static/fonts/ptsansnarrow/v5/Q_pTky3Sc3ubRibGToTAYiylde52zikAzebNtJS89aM.woff) format('woff');
 }
 
-a {
-  font-color: #181818;
-  text-decoration: none;
-  font-family: 'PT Sans Narrow';
-  font-style: normal;
-  font-weight: bold;
-  src: local('PT Sans Narrow Bold'), local('PTSans-NarrowBold'), url(http://themes.googleusercontent.com/static/fonts/ptsansnarrow/v5/Q_pTky3Sc3ubRibGToTAYiylde52zikAzebNtJS89aM.woff) format('woff');
-}
-
 img {
   max-width: 100%;
 }
