@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://kartikkannapur.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://kartikkannapur.com" />
-<updated>2014-12-08T21:39:04+05:30</updated>
+<updated>2014-12-10T15:17:57+05:30</updated>
 <id>http://kartikkannapur.com/</id>
 <author>
   <name>Kartik Kannapur</name>
@@ -16,19 +16,35 @@
   
 
 <entry>
-  <title type="html"><![CDATA[Hello World]]></title>
-  <link rel="alternate" type="text/html" href="http://kartikkannapur.com/hello-world/" />
-  <id>http://kartikkannapur.com/hello-world</id>
-  <published>2014-12-07T00:00:00+05:30</published>
-  <updated>2014-12-07T00:00:00+05:30</updated>
+  <title type="html"><![CDATA[About Me]]></title>
+  <link rel="alternate" type="text/html" href="http://kartikkannapur.com/about/" />
+  <id>http://kartikkannapur.com/about</id>
+  <published>2014-12-10T00:00:00+05:30</published>
+  <updated>2014-12-10T00:00:00+05:30</updated>
   <author>
     <name>Kartik Kannapur</name>
     <uri>http://kartikkannapur.com</uri>
     <email>kartikkannapur@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;Hello World!&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src=&quot;../images/KartikKannapur_Terminal.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://kartikkannapur.com/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by Kartik Kannapur at &lt;a href=&quot;http://kartikkannapur.com&quot;&gt;Kartik Kannapur&lt;/a&gt; on December 07, 2014.&lt;/p&gt;</content>
+&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;I am a Data Enthusiast with a background in Web development, Python and Community Management. I also have a degree in Electronics and Communication Engineering from PESIT, Bangalore. I have been a part of multiple communities such as Google Developer Group (GDG) Bangalore, IEEE and TEDx. I also blog at &lt;a href=&quot;http://singlequote.wordpress.com/&quot;&gt;SingleQuote&lt;/a&gt;.&lt;/center&gt;
+
+&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;Feel free to reach out to me at &lt;a href=&quot;mailto:kartikkannapur@gmail.com&quot;&gt;kartikkannapur@gmail.com&lt;/a&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;disclaimer--the-opinions-expressed-in-this-blog-are-my-own-and-in-no-way-related-to-my-employer-in-any-form&quot;&gt;Disclaimer : The opinions expressed in this blog are my own and in no way related to my employer in any form.&lt;/h5&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://kartikkannapur.com/about/&quot;&gt;About Me&lt;/a&gt; was originally published by Kartik Kannapur at &lt;a href=&quot;http://kartikkannapur.com&quot;&gt;Kartik Kannapur&lt;/a&gt; on December 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
