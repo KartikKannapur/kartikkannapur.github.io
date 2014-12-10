@@ -5,6 +5,11 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include _head.html %}
+<!--Sharing Buttons START-->
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "7d20e6e0-f219-4796-891f-7a0d56a2246a", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+<!--Sharing Buttons STOP-->
 </head>
 
 <body class="post">
@@ -35,6 +40,16 @@
         </div>
         <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
       </footer>
+      <!--Sharing Buttons START-->
+      <span class='st_sharethis' displayText='ShareThis'></span>
+      <span class='st_facebook' displayText='Facebook'></span>
+      <span class='st_twitter' displayText='Tweet'></span>
+      <span class='st_linkedin' displayText='LinkedIn'></span>
+      <span class='st_googleplus' displayText='Google +'></span>
+      <span class='st_pocket' displayText='Pocket'></span>
+      <span class='st_delicious' displayText='Delicious'></span>
+      <span class='st_email' displayText='Email'></span>
+      <!--Sharing Buttons STOP-->
     </div><!-- /.article-wrap -->
   {% if site.owner.disqus-shortname and page.comments == true %}
     <section id="disqus_thread"></section><!-- /#disqus_thread -->
