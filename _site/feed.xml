@@ -4,13 +4,52 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://kartikkannapur.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://kartikkannapur.com" />
-<updated>2015-02-23T00:30:43+05:30</updated>
+<updated>2015-02-24T00:04:43+05:30</updated>
 <id>http://kartikkannapur.com/</id>
 <author>
   <name>Kartik Kannapur</name>
   <uri>http://kartikkannapur.com/</uri>
   <email>kartikkannapur@gmail.com</email>
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Practical Data Science Cookbook - Review]]></title>
+  <link rel="alternate" type="text/html" href="http://kartikkannapur.com/Practical_Data_Science_Cookbook/" />
+  <id>http://kartikkannapur.com/Practical_Data_Science_Cookbook</id>
+  <published>2015-02-24T00:00:00+05:30</published>
+  <updated>2015-02-24T00:00:00+05:30</updated>
+  <author>
+    <name>Kartik Kannapur</name>
+    <uri>http://kartikkannapur.com</uri>
+    <email>kartikkannapur@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;img src=&quot;../images/Practical_DS_Cookbook.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Practical Data Science Cookbook authored by Tony Ojeda, Sean Patrick Murphy, Benjamin Bengfort and Abhijit Dasgupta is an amazing resource for every aspiring data scientist. If you are inclined to understand concepts through hands-on, real world examples, this cookbook is the ideal partner for you. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The authors of the book have followed a methodical approach, to guide the reader through the entire data science pipeline - from acquiring and preparing the dataset to building statistical models to solve problem statements. The book contains eleven chapters, each of which is a data science project in itself. Furthermore, the authors have broken down each project into smaller, solvable problem statements and build it up from there. The cookbook also covers a variety of domains such as - automobile, sports, stock market etc. which gives the reader a great deal of exposure, to apply the concepts learnt in different verticals.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The book requires prior knowledge of Python and R, both of which are invaluable for every data scientist and are easy to learn. In addition the recipes in the book, also use a plethora of open source libraries and data sets, which the reader can get acquainted with.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To purchase a copy of the book, visit &lt;a href=&quot;https://www.packtpub.com/big-data-and-business-intelligence/practical-data-science-cookbook&quot;&gt;Packt Publishing&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://kartikkannapur.com/Practical_Data_Science_Cookbook/&quot;&gt;Practical Data Science Cookbook - Review&lt;/a&gt; was originally published by Kartik Kannapur at &lt;a href=&quot;http://kartikkannapur.com&quot;&gt;Kartik Kannapur&lt;/a&gt; on February 24, 2015.&lt;/p&gt;</content>
+</entry>
 
 
   
