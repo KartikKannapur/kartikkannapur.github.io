@@ -1,281 +1,142 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
-<head>
-<meta charset="utf-8">
-<meta name="description" content="My personal blog and event journal">
-<meta name="author" content="Kartik Kannapur">
-<title>About Me &#8211; Kartik Kannapur</title>
-<meta name="description" content="I am a Data Enthusiast with a background in Web development, Python and Community Management.">
-<meta name="keywords" content="data, web, python, developer, blog">
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <!-- (1) Optimize for mobile versions: http://goo.gl/EOpFl -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- (1) force latest IE rendering engine: bit.ly/1c8EiC9 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+  <title>About</title>
+  <meta name="description" content="A Jekyll theme - Medium inspired
+" />
 
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="MobileOptimized" content="320" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@dirkfabisch" />
+    <meta name="twitter:title" content="About" />
+    <meta name="twitter:image" content="http://myblog.***.***/assets/images/df_logo.jpg" />
+    
+    <meta name="twitter:description" content="A Jekyll theme - Medium inspired" />
+    
+  
+  
+  <meta property="og:site_name" content="Mediator" />
+  <meta property="og:title" content="About"/>
+  
+  <meta property="og:description" content="A Jekyll theme - Medium inspired" />
+  
+  <meta property="og:image" content="http://myblog.***.***/assets/images/df_logo.jpg" />
+  <meta property="og:url" content="http://myblog.***.***/about/" >
+  <meta property="og:type" content="blog" />
+  
 
-<!-- Twitter Cards -->
-<meta name="twitter:title" content="About Me">
-<meta name="twitter:description" content="I am a Data Enthusiast with a background in Web development, Python and Community Management.">
-<meta name="twitter:site" content="@KartikKannapur">
-<meta name="twitter:creator" content="@KartikKannapur">
+  <link rel="canonical" href="http://myblog.***.***/about/">
 
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="http://kartikkannapur.com/images/default-thumb.png">
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+  <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Linux+Libertine:400,400i,700,700i/Open+Sans:400,400i,700,700i">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
-<!-- Open Graph -->
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="About Me">
-<meta property="og:description" content="I am a Data Enthusiast with a background in Web development, Python and Community Management.">
-<meta property="og:url" content="http://kartikkannapur.com/about/">
-<meta property="og:site_name" content="Kartik Kannapur">
-
-
-
-
-
-<link rel="canonical" href="http://kartikkannapur.com/about/">
-<link href="http://kartikkannapur.com/feed.xml" type="application/atom+xml" rel="alternate" title="Kartik Kannapur Feed">
-<link rel="author" href="http://plus.google.com/+KartikKannapur27?rel=author">
-
-<!-- http://t.co/dKP3o1e -->
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<!-- For all browsers -->
-<link rel="stylesheet" href="http://kartikkannapur.com/assets/css/main.css">
-
-<meta http-equiv="cleartype" content="on">
-
-<!-- HTML5 Shiv and Media Query Support -->
-<!--[if lt IE 9]>
-	<script src="http://kartikkannapur.com/assets/js/vendor/html5shiv.min.js"></script>
-	<script src="http://kartikkannapur.com/assets/js/vendor/respond.min.js"></script>
-<![endif]-->
-
-<!-- Modernizr -->
-<script src="http://kartikkannapur.com/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
-
-<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
-
-<!-- Icons -->
-<!-- 16x16 -->
-<link rel="shortcut icon" href="http://kartikkannapur.com/favicon.ico">
-<!-- 32x32 -->
-<link rel="shortcut icon" href="http://kartikkannapur.com/favicon.png">
-<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
-<link rel="apple-touch-icon-precomposed" href="http://kartikkannapur.com/images/apple-touch-icon-precomposed.png">
-<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://kartikkannapur.com/images/apple-touch-icon-72x72-precomposed.png">
-<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://kartikkannapur.com/images/apple-touch-icon-114x114-precomposed.png">
-<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://kartikkannapur.com/images/apple-touch-icon-144x144-precomposed.png">
-
-<!--Sharing Buttons START-->
-<script type="text/javascript">var switchTo5x=true;</script>
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">stLight.options({publisher: "7d20e6e0-f219-4796-891f-7a0d56a2246a", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-<!--Sharing Buttons STOP-->
+  <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/css/print.css" />
 </head>
 
-<body class="post">
+  <body itemscope itemtype="http://schema.org/Article">
+    <!-- header start -->
 
-<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+<a href="http://myblog.***.***" class="logo-readium"><span class="logo" style="background-image: url(/assets/images/df_logo.jpg)"></span></a>
 
-<div class="navigation-wrapper">
-	<div id="homepage"class="site-name">
-		<a href="http://kartikkannapur.com">Kartik Kannapur</a>
-	</div><!-- /.site-name -->
-	<div id ="homepage" class="top-navigation">
-		<nav role="navigation" id="site-nav" class="nav">
-		    <ul>
-		        
-					    
-					        
-					    
-					    <li><a href="http://kartikkannapur.com/blog/" >Blog</a></li>
-					  
-					    
-					        
-					    
-					    <li><a href="http://kartikkannapur.com/events/" >Events</a></li>
-					  
-		    </ul>
-		</nav>
-	</div><!-- /.top-navigation -->
-</div><!-- /.navigation-wrapper -->
+<!-- header end -->
 
-
-<div id="main" role="main">
-  <div class="article-author-side">
-    
-
-
-
-	<img src="http://kartikkannapur.com/images/KartikKannapur.jpg" class="bio-photo" alt="Kartik Kannapur bio photo">
-
-<h3>Kartik Kannapur</h3>
-<p>Geek | Data Enthusiast | Epicure | GDG Bangalore</p>
-<a href="mailto:kartikkannapur@gmail.com" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
-<a href="http://twitter.com/KartikKannapur" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
-
-<a href="http://plus.google.com/+KartikKannapur27" class="author-social" target="_blank"><i class="fa fa-fw fa-google-plus-square"></i> Google+</a>
-<a href="http://linkedin.com/in/kartikkannapur" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>
-
-
-<a href="http://github.com/KartikKannapur" class="author-social" target="_blank"><i class="fa fa-fw fa-github"></i> Github</a>
-
-
-
-
-
-
-
-
-
-
-<form style="border:1px solid #ccc;padding:2%;text-align:center;width:80%;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=KartikKannapur', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Subscribe to my RSS feed</p><p><input type="text" style="width:100%;margin-top:1em;margin-left:-1.5em;border:1px solid #ccc;" name="email"/></p><input type="hidden" value="KartikKannapur" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" style="border:1px solid #777777;" value="Subscribe" /><p></form>
-  </div>
-  <article class="post">
-    <div class="headline-wrap">
-      
-        <h1><a href="http://kartikkannapur.com/about/" rel="bookmark" title="About Me">About Me</a></h1>
-      
-    </div><!--/ .headline-wrap -->
-    <div class="article-wrap">
-      <p><img src="../images/KartikKannapur_Terminal.png" alt="" /></p>
-
-<p><img src="" alt="" /></p>
-
-<p><img src="" alt="" /></p>
-
-<p><img src="" alt="" /></p>
-
-<center>I am a Data Enthusiast with a background in Web development, Python and Community Management. I have a degree in Electronics and Communication Engineering from PESIT, Bangalore. I have been a part of multiple communities such as Google Developer Group (GDG) Bangalore, IEEE and TEDx. I also blog at <a href="http://singlequote.wordpress.com/">SingleQuote</a>.</center>
-
-<p><img src="" alt="" /></p>
-
-<center>Feel free to reach out to me at <a href="mailto:kartikkannapur@gmail.com">kartikkannapur@gmail.com</a></center>
-
-<p><img src="" alt="" /></p>
-
-<h5 id="disclaimer--the-opinions-expressed-in-this-blog-are-my-own-and-in-no-way-related-to-my-employer-in-any-form">Disclaimer : The opinions expressed in this blog are my own and in no way related to my employer in any form.</h5>
-
-      <hr />
-      <footer role="contentinfo">
-        <div class="article-author-bottom">
-          
-
-
-
-	<img src="http://kartikkannapur.com/images/KartikKannapur.jpg" class="bio-photo" alt="Kartik Kannapur bio photo">
-
-<h3>Kartik Kannapur</h3>
-<p>Geek | Data Enthusiast | Epicure | GDG Bangalore</p>
-<a href="mailto:kartikkannapur@gmail.com" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
-<a href="http://twitter.com/KartikKannapur" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
-
-<a href="http://plus.google.com/+KartikKannapur27" class="author-social" target="_blank"><i class="fa fa-fw fa-google-plus-square"></i> Google+</a>
-<a href="http://linkedin.com/in/kartikkannapur" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>
-
-
-<a href="http://github.com/KartikKannapur" class="author-social" target="_blank"><i class="fa fa-fw fa-github"></i> Github</a>
-
-
-
-
-
-
-
-
-
-
-<form style="border:1px solid #ccc;padding:2%;text-align:center;width:80%;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=KartikKannapur', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Subscribe to my RSS feed</p><p><input type="text" style="width:100%;margin-top:1em;margin-left:-1.5em;border:1px solid #ccc;" name="email"/></p><input type="hidden" value="KartikKannapur" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" style="border:1px solid #777777;" value="Subscribe" /><p></form>
+    <main class="content" role="main">
+      <article class="post">
+        
+        <div class="noarticleimage">
+          <div class="post-meta">
+            <h1 class="post-title">About</h1>
+            <div class="cf post-meta-text">
+              <div class="author-image" style="background-image: url()">Blog Logo</div>
+              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person"></h4>
+            </div>
+          </div>
         </div>
-        <p class="byline"><strong>About Me</strong> was published on <time datetime="2014-12-10T00:00:00+05:30">December 10, 2014</time>.</p>
-      </footer>
-      <!--Sharing Buttons START-->
-      <span class='st_sharethis' displayText='ShareThis'></span>
-      <span class='st_facebook' displayText='Facebook'></span>
-      <span class='st_twitter' displayText='Tweet'></span>
-      <span class='st_linkedin' displayText='LinkedIn'></span>
-      <span class='st_googleplus' displayText='Google +'></span>
-      <span class='st_pocket' displayText='Pocket'></span>
-      <span class='st_delicious' displayText='Delicious'></span>
-      <span class='st_email' displayText='Email'></span>
-      <!--Sharing Buttons STOP-->
-    </div><!-- /.article-wrap -->
-  
-    <section id="disqus_thread"></section><!-- /#disqus_thread -->
-  
-  </article>
-</div><!-- /#main -->
+        <br>
+        <br>
+        <br>
+        
+        <section class="post-content">
+          <a name="topofpage"></a>
+          <p>A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
+<a href="http://www.svenread.com/readium-ghost-theme/">Readium 2.0</a>. I use mediator on my own blog <a href="blog.base68.com">The Base</a>.</p>
 
-<div class="footer-wrap">
-  <div class="related-articles">
-  <h4>You might also enjoy <small class="pull-right">(<a href="http://kartikkannapur.com/blog/">View all posts</a>)</small></h4>
-    <ul>
-    
-      <li><a href="http://kartikkannapur.com/Practical_Data_Science_Cookbook/" title="Practical Data Science Cookbook - Review">Practical Data Science Cookbook - Review</a></li>
-    
-    </ul>
-    <hr />
-  </div><!-- /.related-articles -->
-  <footer>
-    
+<p>You can <strong>download</strong> the theme here:
+<a href="https://github.com/dirkfabisch/mediator">https://github.com/dirkfabisch/mediator</a> </p>
 
-<span>&copy; 2015 Kartik Kannapur. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
+<p>You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="http://jekyllrb.com/">jekyllrb.com</a></p>
 
-  </footer>
-</div><!-- /.footer-wrap -->
+<p>You can find the source code for the Jekyll new theme at: <a href="https://github.com/jglovier/jekyll-new">github.com/jglovier/jekyll-new</a></p>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="http://kartikkannapur.com/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-<script src="http://kartikkannapur.com/assets/js/scripts.min.js"></script>
+<p>You can find the source code for Jekyll at <a href="https://github.com/jekyll/jekyll">github.com/jekyll/jekyll</a></p>
 
-<!-- Asynchronous Google Analytics snippet -->
+        </section>
+      </article>
+    </main>
+    <div class="bottom-closer">
+      <div class="background-closer-image"  style="background-image: url(/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg)">
+        Image
+      </div>
+      <div class="inner">
+        <h1 class="blog-title">Mediator</h1>
+        <h2 class="blog-description">A Jekyll theme - Medium inspired
+</h2>
+        <a href="/" class="btn">Back to Overview</a>
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="/assets/js/index.js"></script>
+<script type="text/javascript" src="/assets/js/readingTime.min.js"></script>
 <script>
-  var _gaq = _gaq || [];
-  var pluginUrl = 
- '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-  _gaq.push(['_setAccount', 'UA-57413981-1']);
-  _gaq.push(['_trackPageview']);
+(function ($) {
+  "use strict";
+  $(document).ready(function(){
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+    var $window = $(window),
+    $image = $('.post-image-image, .teaserimage-image');
+    
+      $window.on('scroll', function() {
+        var top = $window.scrollTop();
+
+        if (top < 0 || top > 1500) { return; }
+        $image
+          .css('transform', 'translate3d(0px, '+top/3+'px, 0px)')
+          .css('opacity', 1-Math.max(top/700, 0));
+      });
+      $window.trigger('scroll');
+
+      var height = $('.article-image').height();
+      $('.post-content').css('padding-top', height + 'px');
+
+      $('a[href*=#]:not([href=#])').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+         && location.hostname == this.hostname) {
+          var target = $(this.hash);
+          target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+          if (target.length) {
+            $('html,body').animate({ scrollTop: target.offset().top }, 500);
+            return false;
+          }
+        }
+      });
+
+  });
+}(jQuery));
 </script>
 
 
-  
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'kartikkannapur-com'; // required: replace example with your forum shortname
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function () {
-        var s = document.createElement('script'); s.async = true;
-        s.type = 'text/javascript';
-        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-    }());
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-
-	        
-
-</body>
+  </body>
 </html>

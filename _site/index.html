@@ -1,189 +1,248 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
-<head>
-<meta charset="utf-8">
-<meta name="description" content="My personal blog and event journal">
-<meta name="author" content="Kartik Kannapur">
-<title>Kartik Kannapur</title>
-<meta name="description" content="A minimal Jekyll theme for your blog by designer Michael Rose.">
-<meta name="keywords" content="Jekyll, theme, responsive, blog, template">
+<!DOCTYPE html>
+<html>
 
+  <head>
+  <meta charset="utf-8">
+  <!-- (1) Optimize for mobile versions: http://goo.gl/EOpFl -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- (1) force latest IE rendering engine: bit.ly/1c8EiC9 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+  <title>Mediator</title>
+  <meta name="description" content="A Jekyll theme - Medium inspired
+" />
 
-<!-- Twitter Cards -->
-<meta name="twitter:title" content="Kartik Kannapur">
-<meta name="twitter:description" content="A minimal Jekyll theme for your blog by designer Michael Rose.">
-<meta name="twitter:site" content="@KartikKannapur">
-<meta name="twitter:creator" content="@KartikKannapur">
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="MobileOptimized" content="320" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@dirkfabisch" />
+    <meta name="twitter:title" content="Mediator" />
+    <meta name="twitter:image" content="http://myblog.***.***/assets/images/df_logo.jpg" />
+    
+    <meta name="twitter:description" content="A Jekyll theme - Medium inspired" />
+    
+  
+  
+  <meta property="og:site_name" content="Mediator" />
+  <meta property="og:title" content="Mediator"/>
+  
+  <meta property="og:description" content="A Jekyll theme - Medium inspired" />
+  
+  <meta property="og:image" content="http://myblog.***.***/assets/images/df_logo.jpg" />
+  <meta property="og:url" content="http://myblog.***.***/" >
+  <meta property="og:type" content="blog" />
+  
 
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="http://kartikkannapur.com/images/sample-image-1.jpg">
+  <link rel="canonical" href="http://myblog.***.***/">
 
-<!-- Open Graph -->
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Kartik Kannapur">
-<meta property="og:description" content="A minimal Jekyll theme for your blog by designer Michael Rose.">
-<meta property="og:url" content="http://kartikkannapur.com/">
-<meta property="og:site_name" content="Kartik Kannapur">
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+  <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Linux+Libertine:400,400i,700,700i/Open+Sans:400,400i,700,700i">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
-
-
-
-
-<link rel="canonical" href="http://kartikkannapur.com/">
-<link href="http://kartikkannapur.com/feed.xml" type="application/atom+xml" rel="alternate" title="Kartik Kannapur Feed">
-<link rel="author" href="http://plus.google.com/+KartikKannapur27?rel=author">
-
-<!-- http://t.co/dKP3o1e -->
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<!-- For all browsers -->
-<link rel="stylesheet" href="http://kartikkannapur.com/assets/css/main.css">
-
-<meta http-equiv="cleartype" content="on">
-
-<!-- HTML5 Shiv and Media Query Support -->
-<!--[if lt IE 9]>
-	<script src="http://kartikkannapur.com/assets/js/vendor/html5shiv.min.js"></script>
-	<script src="http://kartikkannapur.com/assets/js/vendor/respond.min.js"></script>
-<![endif]-->
-
-<!-- Modernizr -->
-<script src="http://kartikkannapur.com/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
-
-<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
-
-<!-- Icons -->
-<!-- 16x16 -->
-<link rel="shortcut icon" href="http://kartikkannapur.com/favicon.ico">
-<!-- 32x32 -->
-<link rel="shortcut icon" href="http://kartikkannapur.com/favicon.png">
-<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
-<link rel="apple-touch-icon-precomposed" href="http://kartikkannapur.com/images/apple-touch-icon-precomposed.png">
-<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://kartikkannapur.com/images/apple-touch-icon-72x72-precomposed.png">
-<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://kartikkannapur.com/images/apple-touch-icon-114x114-precomposed.png">
-<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://kartikkannapur.com/images/apple-touch-icon-144x144-precomposed.png">
-
+  <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/css/print.css" />
 </head>
 
-<body class="home">
 
-<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+  <body>
 
-<div class="navigation-wrapper">
-	<div id="homepage"class="site-name">
-		<a href="http://kartikkannapur.com">Kartik Kannapur</a>
-	</div><!-- /.site-name -->
-	<div id ="homepage" class="top-navigation">
-		<nav role="navigation" id="site-nav" class="nav">
-		    <ul>
-		        
-					    
-					        
-					    
-					    <li><a href="http://kartikkannapur.com/blog/" >Blog</a></li>
-					  
-					    
-					        
-					    
-					    <li><a href="http://kartikkannapur.com/events/" >Events</a></li>
-					  
-		    </ul>
-		</nav>
-	</div><!-- /.top-navigation -->
-</div><!-- /.navigation-wrapper -->
+    <!-- header start -->
+
+<a href="http://myblog.***.***" class="logo-readium"><span class="logo" style="background-image: url(/assets/images/df_logo.jpg)"></span></a>
+
+<!-- header end -->
 
 
+    <!-- content start -->
 
-<div id="main" role="main"> 
-  <div class="article-author-side">
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="teaserimage">
+    <div class="teaserimage-image" style="background-image: url(/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg)">
+        Teaser Image
+    </div>
+</div>
+
+<header class="blog-header">
     
-
-
-
-	<img src="http://kartikkannapur.com/images/KartikKannapur.jpg" class="bio-photo" alt="Kartik Kannapur bio photo">
-
-<h3>Kartik Kannapur</h3>
-<p>Geek | Data Enthusiast | Epicure | GDG Bangalore</p>
-<a href="mailto:kartikkannapur@gmail.com" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
-<a href="http://twitter.com/KartikKannapur" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
-
-<a href="http://plus.google.com/+KartikKannapur27" class="author-social" target="_blank"><i class="fa fa-fw fa-google-plus-square"></i> Google+</a>
-<a href="http://linkedin.com/in/kartikkannapur" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>
-
-
-<a href="http://github.com/KartikKannapur" class="author-social" target="_blank"><i class="fa fa-fw fa-github"></i> Github</a>
-
-
-
-
-
-
-
-
-
-
-<form style="border:1px solid #ccc;padding:2%;text-align:center;width:80%;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=KartikKannapur', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Subscribe to my RSS feed</p><p><input type="text" style="width:100%;margin-top:1em;margin-left:-1.5em;border:1px solid #ccc;" name="email"/></p><input type="hidden" value="KartikKannapur" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" style="border:1px solid #777777;" value="Subscribe" /><p></form>
-  </div>
-  <div id="index">
-    <h3><a href="http://kartikkannapur.com/posts/">Recent Posts</a></h3>
+      <a class="blog-logo" href="http://myblog.***.***" style="background-image: url('/assets/images/df_logo.jpg')">Mediator</a>
+    
+    <h1 class="blog-title">Mediator</h1>
+    <h2 class="blog-description">A Jekyll theme - Medium inspired
+</h2>
+    <div class="custom-links">
+      
         
-    <article>
-      
-        <h2><a href="http://kartikkannapur.com/Practical_Data_Science_Cookbook/" title="Practical Data Science Cookbook - Review">Practical Data Science Cookbook - Review</a></h2>
-        <p>I am a Data Enthusiast with a background in Web development, Python and Community Management.</p>
-      
-    </article>
+            <a class="icon-twitter" href="https://twitter.com/dirkfabisch"  title="Follow me on twitter"">
+              <i class="fa fa-twitter"></i>
+            </a>
+            &nbsp;&nbsp;·&nbsp;&nbsp;
         
-    <article>
       
-        <h2><a href="http://kartikkannapur.com/about/" title="About Me">About Me</a></h2>
-        <p>I am a Data Enthusiast with a background in Web development, Python and Community Management.</p>
+        
+            <a class="icon-github" href="https://github.com/dirkfabisch"  title="Fork me on github"">
+              <i class="fa fa-github"></i>
+            </a>
+            &nbsp;&nbsp;·&nbsp;&nbsp;
+        
       
-    </article>
+      <a href="/about/">About</a>
+    </div>
+</header>
+
+
+<main class="content" role="main">
+
     
-  </div><!-- /#index -->
-</div><!-- /#main -->
+    <h5 class="index-headline featured"><span>Featured</span></h5>
 
-<div class="footer-wrap">
-  <footer>
+    <div class="container featured">
+      
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+          <div class="article-item">
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name"><a href="/mediator/feature/2014/11/30/mediator_features.html" itemprop="url">Mediator Features</a></h2>
+            </header>
+            <section class="post-excerpt" itemprop="description">
+              <p>Mediator Formats and CSS features Examples for different formats and css features Header Formats Header1 Header2 Blockquotes Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores...</p>
+            </section>
+            <div class="post-meta">
+              <time datetime="30 November 2014">30 November 2014</time>
+  <!--            <span class="post-tags-set">on <span class="post-tag-">, <a href="/tag/"></a></span></span>-->
+            </div>
+          </div>
+        </article>
+      
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+          <div class="article-item">
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name"><a href="/jekyll/update/2014/08/29/welcome-to-jekyll.html" itemprop="url">Welcome to Jekyll!</a></h2>
+            </header>
+            <section class="post-excerpt" itemprop="description">
+              <p>You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve --watch, which launches a web server and auto-regenerates your site...</p>
+            </section>
+            <div class="post-meta">
+              <time datetime="29 August 2014">29 August 2014</time>
+  <!--            <span class="post-tags-set">on <span class="post-tag-">, <a href="/tag/"></a></span></span>-->
+            </div>
+          </div>
+        </article>
+      
+    </div>
+
+    <h5 class="index-headline normal"><span>Regular</span></h5>
     
 
-<span>&copy; 2015 Kartik Kannapur. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
+    <div class="cf frame">
+      
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+          <div class="article-item">
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name"><a href="/mediator/feature/2014/11/30/mediator_features.html" itemprop="url">Mediator Features</a></h2>
+            </header>
+            <section class="post-excerpt" itemprop="description">
+              <p>Mediator Formats and CSS features
+</p>
+            </section>
+            <div class="post-meta">
+              <time datetime="30 November 2014">30 November 2014</time>
+<!--            <span class="post-tags-set">on <span class="post-tag-">, <a href="/tag/"></a></span></span>-->
+            </div>
+          </div>
+        </article>
+      
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+          <div class="article-item">
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name"><a href="/jekyll/update/2014/08/29/welcome-to-jekyll.html" itemprop="url">Welcome to Jekyll!</a></h2>
+            </header>
+            <section class="post-excerpt" itemprop="description">
+              <p>You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve --watch, which launches a web server and auto-regenerates your site...</p>
+            </section>
+            <div class="post-meta">
+              <time datetime="29 August 2014">29 August 2014</time>
+<!--            <span class="post-tags-set">on <span class="post-tag-">, <a href="/tag/"></a></span></span>-->
+            </div>
+          </div>
+        </article>
+      
+    </div>
 
-  </footer>
-</div><!-- /.footer-wrap -->
+    <nav class="pagination" role="navigation">
+      
+      <span class="page-number">Page 1 of 1</span>
+      
+    </nav>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="http://kartikkannapur.com/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-<script src="http://kartikkannapur.com/assets/js/scripts.min.js"></script>
 
-<!-- Asynchronous Google Analytics snippet -->
+    <!-- 
+     -->
+
+</main>
+
+      </div>
+    </div>
+
+    <!-- content end -->
+
+    <!-- footer start -->
+
+<footer class="site-footer">
+  <a class="subscribe" href="/feed.xml"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
+    <div class="inner">
+         <section class="copyright">All content copyright <a href="mailto:a-mail@mail.mail">Dirk Fabisch</a> &copy; 2015 &bull; All rights reserved.</section>
+         <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
+    </div>
+</footer>
+
+<!-- footer end -->
+
+    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="/assets/js/index.js"></script>
+<script type="text/javascript" src="/assets/js/readingTime.min.js"></script>
 <script>
-  var _gaq = _gaq || [];
-  var pluginUrl = 
- '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-  _gaq.push(['_setAccount', 'UA-57413981-1']);
-  _gaq.push(['_trackPageview']);
+(function ($) {
+  "use strict";
+  $(document).ready(function(){
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+    var $window = $(window),
+    $image = $('.post-image-image, .teaserimage-image');
+    
+      $window.on('scroll', function() {
+        var top = $window.scrollTop();
+
+        if (top < 0 || top > 1500) { return; }
+        $image
+          .css('transform', 'translate3d(0px, '+top/3+'px, 0px)')
+          .css('opacity', 1-Math.max(top/700, 0));
+      });
+      $window.trigger('scroll');
+
+      var height = $('.article-image').height();
+      $('.post-content').css('padding-top', height + 'px');
+
+      $('a[href*=#]:not([href=#])').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+         && location.hostname == this.hostname) {
+          var target = $(this.hash);
+          target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+          if (target.length) {
+            $('html,body').animate({ scrollTop: target.offset().top }, 500);
+            return false;
+          }
+        }
+      });
+
+  });
+}(jQuery));
 </script>
 
 
-  
-</body>
+
+  </body>
+
 </html>
