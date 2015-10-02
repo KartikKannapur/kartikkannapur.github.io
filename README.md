@@ -1,3 +1,3 @@
-# My Website - Kartik Kannapur
+# My Website - Kartik Kannapur - [kartikkannapur.com](kartikkannapur.com)
 
-Template by [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)
+Master Branch - Template by [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)
