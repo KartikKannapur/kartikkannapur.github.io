@@ -15,6 +15,7 @@ layout: default
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
     <div class="custom-links">
+      &nbsp;&nbsp;·&nbsp;&nbsp;
       {% for social in site.social %}
         {% if social.url %}
             <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
@@ -23,9 +24,22 @@ layout: default
             &nbsp;&nbsp;·&nbsp;&nbsp;
         {% endif %}
       {% endfor %}
+
+      <h2> </h2>
+    
+      <div class="menu-bar">
+      &nbsp;&nbsp;·&nbsp;&nbsp;
       <a href="/about/">About</a>
+      &nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="/projects/">Projects</a>
+      &nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="/events/">Events</a>
+      &nbsp;&nbsp;·&nbsp;&nbsp;
+    
     </div>
 </header>
+
+
 
 
 <main class="content" role="main">
