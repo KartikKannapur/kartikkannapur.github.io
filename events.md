@@ -5,12 +5,15 @@ permalink: /events/
 image: /assets/images/events_hackathon.jpg
 ---
 
-#   
+# Events
+
+#[]()
 
 ### 2015
 
-- Project Accelerator by DataKind on 5th Sept @ Bloomreach, Bangalore
-- Speaker at the Firebase Event by Google Developers Group Bangalore on 22nd Aug @ Apigee, Bangalore
+- PyCon India 2015 on 3rd Oct @ Bangalore.
+- Project Accelerator by DataKind on 5th Sept @ Bloomreach, Bangalore.
+- Speaker at the Firebase Event by Google Developers Group Bangalore on 22nd Aug @ Apigee, Bangalore.
 - The Fifth Elephant by hasgeek on 16th & 17th July @ Bangalore.
 - Google Cloud Platform User Group Meetup on 10th Jul @ Google, Bangalore.
 - AI Learnup by Venturesity on 4th Jul @ Amazon Web Services, Bangalore.
