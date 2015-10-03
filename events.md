@@ -2,16 +2,28 @@
 layout: page
 title: Events
 permalink: /events/
+image: /assets/images/events_hackathon.jpg
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+#   
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+### 2015
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+- Project Accelerator by DataKind on 5th Sept @ Bloomreach, Bangalore
+- Speaker at the Firebase Event by Google Developers Group Bangalore on 22nd Aug @ Apigee, Bangalore
+- The Fifth Elephant by hasgeek on 16th & 17th July @ Bangalore.
+- Google Cloud Platform User Group Meetup on 10th Jul @ Google, Bangalore.
+- AI Learnup by Venturesity on 4th Jul @ Amazon Web Services, Bangalore.
+- Code Pursuit by Google Developers Group Bangalore on 22nd Mar @ Red Hat, Bangalore.
+- Data Dive by DataKind on 21st Mar @ Apigee, Bangalore.
+- Bangalore Android App Expo 2015 on 28th Feb @ Bangalore.
+- BangPypers - February Python Meetup on 21st Feb @ Bangalore.
+- Google UX Design Sprint on 12th & 13th Feb @ Google, Bangalore.
+- Google App Engine Meetup on 7th Feb @ Apigee, Bangalore.
+- Judge at Hackadroid'15 on 9th Jan @ Google, Bangalore.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+### 2014 
+
+- BangPypers - Python Open Source Dev Sprint on 20th Dec @ Apigee, Bangalore.
+- Google Asia Community Summit on 29th & 30th Aug @ Sri Lanka.
