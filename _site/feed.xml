@@ -5,8 +5,8 @@
     <description>Welcome to my corner of the Internet</description>
     <link>kartikkannapur.com/</link>
     <atom:link href="kartikkannapur.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 04 Oct 2015 00:51:27 +0530</pubDate>
-    <lastBuildDate>Sun, 04 Oct 2015 00:51:27 +0530</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2015 07:32:34 +0530</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2015 07:32:34 +0530</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -27,71 +27,6 @@
         <link>kartikkannapur.com/2015/02/25/practical_data_science_cookbook.html</link>
         <guid isPermaLink="true">kartikkannapur.com/2015/02/25/practical_data_science_cookbook.html</guid>
         
-        
-      </item>
-    
-      <item>
-        <title>Mediator Features</title>
-        <description>&lt;h1&gt;Mediator Formats and CSS features&lt;/h1&gt;
-
-&lt;p&gt;Examples for different formats and css features&lt;/p&gt;
-
-&lt;h1&gt;Header Formats&lt;/h1&gt;
-
-&lt;h1&gt;Header1&lt;/h1&gt;
-
-&lt;h2&gt;Header2&lt;/h2&gt;
-
-&lt;h1&gt;Blockquotes&lt;/h1&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1&gt;Lists&lt;/h1&gt;
-
-&lt;h2&gt;orderd lists&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;one&lt;/li&gt;
-&lt;li&gt;two&lt;/li&gt;
-&lt;li&gt;three&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2&gt;unorderd lists&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Apple&lt;/li&gt;
-&lt;li&gt;Banana&lt;/li&gt;
-&lt;li&gt;Plum&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1&gt;Links&lt;/h1&gt;
-
-&lt;p&gt;This is an &lt;a href=&quot;http://example.com/&quot; title=&quot;With a Title&quot;&gt;example link&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1&gt;Combinations&lt;/h1&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Apple&lt;/li&gt;
-&lt;li&gt;Banana&lt;/li&gt;
-&lt;li&gt;Plum&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Sun, 30 Nov 2014 20:04:25 +0530</pubDate>
-        <link>kartikkannapur.com/mediator/feature/2014/11/30/mediator_features.html</link>
-        <guid isPermaLink="true">kartikkannapur.com/mediator/feature/2014/11/30/mediator_features.html</guid>
-        
-        <category>featured</category>
-        
-        
-        <category>mediator</category>
-        
-        <category>feature</category>
         
       </item>
     
