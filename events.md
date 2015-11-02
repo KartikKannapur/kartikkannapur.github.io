@@ -11,6 +11,8 @@ image: /assets/images/events_hackathon.jpg
 
 ### 2015
 
+- Data Jam with Daksh by DataKind on 1st Nov @ Bang the Table, Bangalore.
+- WTM Event by Google Developers Group Bangalore on 31st Oct @ Google, Bangalore.
 - PyCon India 2015 on 3rd Oct @ Bangalore.
 - Project Accelerator by DataKind on 5th Sept @ Bloomreach, Bangalore.
 - Speaker at the Firebase Event by Google Developers Group Bangalore on 22nd Aug @ Apigee, Bangalore.
