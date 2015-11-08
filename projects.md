@@ -9,6 +9,7 @@ image:
 
 #[]()
 
-1. Gait Analysis using a Microsoft Kinect camera to provide rehabilitation for people who have been affected by Polio or Cerebral Palsy.
+1. Gait Analysis using a Microsoft Kinect camera to provide rehabilitation for people who have been affected by Polio or Cerebral Palsy. 
+[GitHub Repo](https://github.com/KartikKannapur/Final-Year-Undergraduate-Project)
 
 2. ‘Eco - Shoe’, harvesting renewable energy to power electronic devices, wirelessly.
