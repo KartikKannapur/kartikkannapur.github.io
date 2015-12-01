@@ -11,6 +11,7 @@ image: /assets/images/events_hackathon.jpg
 
 ### 2015
 
+- Google Developers Group Bangalore DevFest on 28th Nov @ Royal Orchid, Bangalore.
 - Data Jam with Daksh by DataKind on 1st Nov @ Bang the Table, Bangalore.
 - WTM Event by Google Developers Group Bangalore on 31st Oct @ Google, Bangalore.
 - PyCon India 2015 on 3rd Oct @ Bangalore.
