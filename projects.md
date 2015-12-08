@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-image:
+image: /assets/images/projects_cover.jpeg
 ---
 
 # PROJECTS
