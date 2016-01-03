@@ -9,6 +9,8 @@ image: /assets/images/events_hackathon.jpg
 
 #[]()
 
+### 2016
+
 ### 2015
 - Apache Spark Streaming Meetup on 12th Dec @ IBM, Bangalore
 - Google Developers Group Bangalore DevFest on 28th Nov @ Royal Orchid, Bangalore.
