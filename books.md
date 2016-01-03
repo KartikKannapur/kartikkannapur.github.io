@@ -2,7 +2,7 @@
 layout: page
 title: Books
 permalink: /books/
-image: /assets/images/events_hackathon.jpg
+image: /assets/images/books_background.jpg
 ---
 
 # Events
@@ -10,6 +10,7 @@ image: /assets/images/events_hackathon.jpg
 #[]()
 
 ### January 2016
+- 
 
 ### December 2015
 - Six Thinking Hats by Edward de Bono
