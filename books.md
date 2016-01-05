@@ -10,7 +10,7 @@ image: /assets/images/books_background.jpg
 #[]()
 
 ### January 2016
-- 
+- Currently Reading : “Outliers - The Story of Success” by Malcolm Gladwell
 
 ### December 2015
 - Six Thinking Hats by Edward de Bono
