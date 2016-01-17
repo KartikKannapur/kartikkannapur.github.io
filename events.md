@@ -10,6 +10,7 @@ image: /assets/images/events_hackathon.jpg
 #[]()
 
 ### 2016
+- Introduction to Apache Flink on 10th Jan @ Apigee, Bangalore.
 
 ### 2015
 - Apache Spark Streaming Meetup on 12th Dec @ IBM, Bangalore

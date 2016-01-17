@@ -5,7 +5,7 @@ permalink: /books/
 image: /assets/images/books_background.jpg
 ---
 
-# Events
+# Books
 
 #[]()
 
