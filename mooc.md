@@ -13,6 +13,7 @@ image: /assets/images/books_background.jpg
 - [MongoDB for Python Developers](https://university.mongodb.com/courses/M101P/about) by MongoDB University.
 - [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) by Stanford.
 - [Natural Language Processing](https://www.coursera.org/course/nlp) by Stanford.
+- MIT Launch X – Becoming an Entrepreneur
 
 #[]()
 
