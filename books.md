@@ -9,12 +9,13 @@ image: /assets/images/books_background.jpg
 
 #[]()
 
-#### Currently Reading : “Outliers - The Story of Success” by Malcolm Gladwell
+#### Currently Reading : The Signal and the Noise by Nate Silver
 
 #[]()
 
 ### January 2016
-- 
+- Outliers - The Story of Success by Malcolm Gladwell
+- The Accidental Billionaires by Ben Mezrich
 
 ### December 2015
 - Six Thinking Hats by Edward de Bono
