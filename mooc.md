@@ -10,7 +10,7 @@ image: /assets/images/books_background.jpg
 #[]()
 
 #### Currently Learning : 
-- [MongoDB for Python Developers](https://university.mongodb.com/courses/M101P/about) by MongoDB University.
+- [MongoDB for Python Developers](https://university.mongodb.com/courses/M101P/about) by MongoDB University - Week 5
 - [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) by Stanford.
 - [Natural Language Processing](https://www.coursera.org/course/nlp) by Stanford.
 - [MIT Launch X – Becoming an Entrepreneur](https://www.edx.org/course/becoming-entrepreneur-mitx-launch-x) by edX - Week 2
