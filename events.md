@@ -7,9 +7,9 @@ image: /assets/images/events_hackathon.jpg
 
 # Events
 
-#[]()
 
 ### 2016
+- Deep Learning Bangalore(DLBLR) Monthly Meetup on 14th Feb @ Bloomreach, Bangalore.
 - Introduction to Apache Flink on 10th Jan @ Apigee, Bangalore.
 - Interactive Analytics using Apache Spark on 6th Feb @ IBM, Bangalore
 
