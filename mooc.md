@@ -20,7 +20,7 @@ image: /assets/images/books_background.jpg
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - [Neural Networks - A Systematic Introduction](http://page.mi.fu-berlin.de/rojas/neural/)
 - [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
-- Lucene in Action by Erik Hatcher and Otis Gospodnetić - Page 177 of 528
+- Lucene in Action by Erik Hatcher and Otis Gospodnetić - Page 294 of 528
 
 
 ### January 2016
