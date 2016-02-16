@@ -21,11 +21,11 @@ image: /assets/images/books_background.jpg
 - [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
 
 
-###2016
+### 2016
 
-######MOOC:
+###### MOOC:
 - [Knowledge-Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) by Udacity
 
 
-######Books:
+###### Books:
 - Lucene in Action by Erik Hatcher and Otis Gospodnetić
