@@ -14,7 +14,6 @@ image: /assets/images/books_background.jpg
 - [MIT Launch X – Becoming an Entrepreneur](https://www.edx.org/course/becoming-entrepreneur-mitx-launch-x) by edX - Week 3
 
 ###### March:
-- [Data Wrangling with MongoDB](https://www.udacity.com/courses/ud032)
 
 ###### Books:
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
