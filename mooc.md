@@ -13,15 +13,16 @@ image: /assets/images/books_background.jpg
 - [Natural Language Processing](https://www.coursera.org/course/nlp) by Stanford.
 - [MIT Launch X – Becoming an Entrepreneur](https://www.edx.org/course/becoming-entrepreneur-mitx-launch-x) by edX - Week 3
 
-###### March:
+###### April:
+- [JHU Data Science - Coursera](https://www.coursera.org/specializations/jhu-data-science)
 
 ###### Books:
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - [Neural Networks - A Systematic Introduction](http://page.mi.fu-berlin.de/rojas/neural/)
 - [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
-- Head First Statistics - Page 81 of 717
+- Head First Statistics - Page 158 of 717
 
-### 2016
+## 2016
 
 ###### MOOC:
 - [Knowledge-Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) by Udacity
