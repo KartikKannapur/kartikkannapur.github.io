@@ -15,12 +15,13 @@ image: /assets/images/books_background.jpg
 
 ###### April:
 - [JHU Data Science - Coursera](https://www.coursera.org/specializations/jhu-data-science)
+- [CS109 Data Science - Harvard](http://cs109.github.io/2015/)
 
 ###### Books:
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - [Neural Networks - A Systematic Introduction](http://page.mi.fu-berlin.de/rojas/neural/)
 - [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
-- Head First Statistics - Page 158 of 717
+- Head First Statistics - Page 251 of 717
 
 ## 2016
 
