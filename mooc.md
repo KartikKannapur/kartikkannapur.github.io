@@ -22,6 +22,7 @@ image: /assets/images/books_background.jpg
 - [Neural Networks - A Systematic Introduction](http://page.mi.fu-berlin.de/rojas/neural/)
 - [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
 - Head First Statistics - Page 281 of 717
+- Learning R - Page 1 of 400
 
 ## 2016
 
