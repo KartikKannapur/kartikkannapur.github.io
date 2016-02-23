@@ -8,6 +8,7 @@ image: /assets/images/books_background.jpg
 # MOOC - Online Course List
 
 #### Currently Learning: 
+- [Model Thinking - University of Michigan](https://www.coursera.org/learn/model-thinking) by Coursera - Week 1
 - [MongoDB for Python Developers](https://university.mongodb.com/courses/M101P/about) by MongoDB University - Week 7 - Completed | Certificate Pending
 - [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) by Stanford - Week 1
 - [Natural Language Processing](https://www.coursera.org/course/nlp) by Stanford.
@@ -21,8 +22,8 @@ image: /assets/images/books_background.jpg
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - [Neural Networks - A Systematic Introduction](http://page.mi.fu-berlin.de/rojas/neural/)
 - [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
-- Head First Statistics - Page 281 of 717
-- Learning R - Page 1 of 400
+- Head First Statistics - Page 313 of 717
+- Learning R - Page 61 of 400
 
 ## 2016
 
