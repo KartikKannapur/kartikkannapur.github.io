@@ -25,6 +25,8 @@ image: /assets/images/books_background.jpg
 - Head First Statistics - Page 313 of 717
 - Learning R - Page 61 of 400
 
+Java Programming
+
 ## 2016
 
 ###### MOOC:
