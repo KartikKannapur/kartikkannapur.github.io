@@ -24,8 +24,9 @@ image: /assets/images/books_background.jpg
 - [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
 - Head First Statistics - Page 313 of 717
 - Learning R - Page 61 of 400
+- Head First Java - 1 of 690
 
-Java Programming
+###### Java Programming
 
 ## 2016
 
