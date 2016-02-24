@@ -8,7 +8,7 @@ image: /assets/images/books_background.jpg
 # MOOC - Online Course List
 
 #### Currently Learning: 
-- [Model Thinking - University of Michigan](https://www.coursera.org/learn/model-thinking) by Coursera - Week 1
+- [Model Thinking - University of Michigan](https://www.coursera.org/learn/model-thinking) by Coursera - Week 2 - Yet to Start 
 - [MongoDB for Python Developers](https://university.mongodb.com/courses/M101P/about) by MongoDB University - Week 7 - Completed | Certificate Pending
 - [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) by Stanford - Week 1
 - [Natural Language Processing](https://www.coursera.org/course/nlp) by Stanford.
