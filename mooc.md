@@ -12,6 +12,7 @@ image: /assets/images/books_background.jpg
 - [MongoDB for Python Developers](https://university.mongodb.com/courses/M101P/about) by MongoDB University - Week 7 - Completed | Certificate Pending
 - [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) by Stanford - Week 1
 - [Natural Language Processing](https://www.coursera.org/course/nlp) by Stanford.
+- [Programming Methodology](https://www.youtube.com/view_play_list?p=84A56BC7F4A1F852) by Stanford - 3 of 28 - In Progress
 - [MIT Launch X – Becoming an Entrepreneur](https://www.edx.org/course/becoming-entrepreneur-mitx-launch-x) by edX - Week 3
 
 ###### April:
@@ -24,7 +25,7 @@ image: /assets/images/books_background.jpg
 - [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
 - Head First Statistics - Page 313 of 717
 - Learning R - Page 61 of 400
-- Head First Java - 1 of 690
+- Head First Java - 33 of 690
 
 ###### Java Programming
 
