@@ -9,7 +9,6 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning: 
 - [Model Thinking - University of Michigan](https://www.coursera.org/learn/model-thinking) by Coursera - Week 2 - Yet to Start 
-- [MongoDB for Python Developers](https://university.mongodb.com/courses/M101P/about) by MongoDB University - Week 7 - Completed | Certificate Pending
 - [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) by Stanford - Week 1
 - [Natural Language Processing](https://www.coursera.org/course/nlp) by Stanford.
 - [Programming Methodology](https://www.youtube.com/view_play_list?p=84A56BC7F4A1F852) by Stanford - 3 of 28 - In Progress
@@ -32,6 +31,7 @@ image: /assets/images/books_background.jpg
 ## 2016
 
 ###### MOOC:
+- [MongoDB for Python Developers](https://university.mongodb.com/courses/M101P/about) by MongoDB University | [Certificate](https://github.com/KartikKannapur/kartikkannapur.github.io/blob/master/mooc_certificates/MongoDB_M101P_Certificate.pdf)
 - [Knowledge-Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) by Udacity
 
 
