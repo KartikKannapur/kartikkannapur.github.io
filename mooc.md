@@ -12,7 +12,6 @@ image: /assets/images/books_background.jpg
 - [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) by Stanford - Week 1
 - [Natural Language Processing](https://www.coursera.org/course/nlp) by Stanford.
 - [Programming Methodology](https://www.youtube.com/view_play_list?p=84A56BC7F4A1F852) by Stanford - 6 of 28 - In Progress
-- [MIT Launch X – Becoming an Entrepreneur](https://www.edx.org/course/becoming-entrepreneur-mitx-launch-x) by edX - Week 3
 
 ###### April:
 
@@ -34,6 +33,7 @@ image: /assets/images/books_background.jpg
 
 ###### MOOC:
 
+- [MIT Launch X – Becoming an Entrepreneur](https://www.edx.org/course/becoming-entrepreneur-mitx-launch-x) by edX
 - [MongoDB for Python Developers](https://university.mongodb.com/courses/M101P/about) by MongoDB University | [Certificate](https://github.com/KartikKannapur/kartikkannapur.github.io/blob/master/mooc_certificates/MongoDB_M101P_Certificate.pdf)
 - [Knowledge-Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) by Udacity
 
