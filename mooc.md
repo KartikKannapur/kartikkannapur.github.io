@@ -11,7 +11,7 @@ image: /assets/images/books_background.jpg
 - [Model Thinking - University of Michigan](https://www.coursera.org/learn/model-thinking) by Coursera - Week 3
 - [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) by Stanford - Week 1
 - [Natural Language Processing](https://www.coursera.org/course/nlp) by Stanford.
-- [Programming Methodology](https://www.youtube.com/view_play_list?p=84A56BC7F4A1F852) by Stanford - 6 of 28 - In Progress
+- [Programming Methodology](https://www.youtube.com/view_play_list?p=84A56BC7F4A1F852) by Stanford - 10 of 28 - Yet to Start
 
 ###### April:
 
@@ -25,7 +25,7 @@ image: /assets/images/books_background.jpg
 - [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) - Controlling Relevance
 - Head First Statistics - Page 313 of 717
 - Learning R - Page 61 of 400
-- Head First Java - 139 of 690
+- Head First Java - 203 of 690
 
 ###### Java Programming
 
