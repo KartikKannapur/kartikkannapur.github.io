@@ -12,6 +12,7 @@ image: /assets/images/books_background.jpg
 - [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) by Stanford - Week 1
 - [Natural Language Processing](https://www.coursera.org/course/nlp) by Stanford.
 - [Programming Methodology](https://www.youtube.com/view_play_list?p=84A56BC7F4A1F852) by Stanford - 10 of 28 - Yet to Start
+- [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java/) by Coursera - Yet to Start
 
 ###### April:
 
