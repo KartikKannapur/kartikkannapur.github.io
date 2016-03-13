@@ -28,7 +28,7 @@ image: /assets/images/books_background.jpg
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - [Neural Networks - A Systematic Introduction](http://page.mi.fu-berlin.de/rojas/neural/)
 - [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) - Controlling Relevance
-- Head First Statistics - Page 370 of 717
+- Head First Statistics - Page 456 of 717
 - Learning R - Page 61 of 400
 - Head First Java - 203 of 690
 
