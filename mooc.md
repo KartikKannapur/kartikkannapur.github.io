@@ -13,6 +13,7 @@ image: /assets/images/books_background.jpg
 - [Natural Language Processing](https://www.coursera.org/course/nlp) by Stanford.
 - [Programming Methodology](https://www.youtube.com/view_play_list?p=84A56BC7F4A1F852) by Stanford - 20 of 28 - Yet to Start
 - [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java/) by Coursera - Week 1 - 4/7
+- [SQL Queries](https://academy.vertabelo.com/course/sql-queries) by Vertabelo
 
 ###### April:
 
@@ -34,10 +35,17 @@ image: /assets/images/books_background.jpg
 
 ###### Java Programming
 
+###### SQL
+1. [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) by Stanford
+2. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197) by Udacity
+3. [Operating on Data in SQL](https://academy.vertabelo.com/course/operating-on-data-in-sql) by Vertabelo
+4. [Creating Tables in SQL](https://academy.vertabelo.com/course/creating-tables-in-sql) by Vertabelo
+
 ## 2016
 
 ###### MOOC:
 
+- [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) by Khan Academy
 - [MIT Launch X – Becoming an Entrepreneur](https://www.edx.org/course/becoming-entrepreneur-mitx-launch-x) by edX
 - [MongoDB for Python Developers](https://university.mongodb.com/courses/M101P/about) by MongoDB University | [Certificate](https://github.com/KartikKannapur/kartikkannapur.github.io/blob/master/mooc_certificates/MongoDB_M101P_Certificate.pdf)
 - [Knowledge-Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) by Udacity
