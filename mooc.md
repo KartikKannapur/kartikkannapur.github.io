@@ -16,10 +16,12 @@ image: /assets/images/books_background.jpg
 - [SQL Queries](https://academy.vertabelo.com/course/sql-queries) by Vertabelo - 64 of 129
 - [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MIT on edX - Yet to Start
 
-###### April:
+###### May:
 
 - [JHU Data Science - Coursera](https://www.coursera.org/specializations/jhu-data-science)
 - [CS109 Data Science - Harvard](http://cs109.github.io/2015/)
+- [Probability and Statistics](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about)
+- [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)
 
 ###### Etc:
 - [Android Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837) by Udacity.
