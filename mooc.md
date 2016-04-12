@@ -8,9 +8,8 @@ image: /assets/images/books_background.jpg
 # MOOC - Online Course List
 
 #### Currently Learning: 
-- [Model Thinking - University of Michigan](https://www.coursera.org/learn/model-thinking) by Coursera - Week 7 - Yet to Start
+- [Model Thinking - University of Michigan](https://www.coursera.org/learn/model-thinking) by Coursera - Week 11 - Yet to Start
 - [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) by Stanford - Week 1
-- [Natural Language Processing](https://www.coursera.org/course/nlp) by Stanford.
 - [Programming Methodology](https://www.youtube.com/view_play_list?p=84A56BC7F4A1F852) by Stanford - 20 of 28 - Yet to Start
 - [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java/) by Coursera - Week 1 - 4/7
 - [SQL Queries](https://academy.vertabelo.com/course/sql-queries) by Vertabelo - 64 of 129
@@ -22,6 +21,7 @@ image: /assets/images/books_background.jpg
 - [CS109 Data Science - Harvard](http://cs109.github.io/2015/)
 - [Probability and Statistics](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about)
 - [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)
+- [Natural Language Processing](https://www.coursera.org/course/nlp) by Stanford.
 
 ###### Etc:
 - [Android Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837) by Udacity.
