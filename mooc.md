@@ -14,6 +14,7 @@ image: /assets/images/books_background.jpg
 - [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java/) by Coursera - Week 1 - 4/7
 - [SQL Queries](https://academy.vertabelo.com/course/sql-queries) by Vertabelo - 64 of 129
 - [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MIT on edX - Yet to Start
+- [Operating on Data in SQL](https://academy.vertabelo.com/course/operating-on-data-in-sql) by Vertabelo - 0 of 19
 
 ###### May:
 
@@ -41,13 +42,13 @@ image: /assets/images/books_background.jpg
 ###### SQL
 1. [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) by Stanford
 2. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197) by Udacity
-3. [Operating on Data in SQL](https://academy.vertabelo.com/course/operating-on-data-in-sql) by Vertabelo
-4. [Creating Tables in SQL](https://academy.vertabelo.com/course/creating-tables-in-sql) by Vertabelo
+3. [Creating Tables in SQL](https://academy.vertabelo.com/course/creating-tables-in-sql) by Vertabelo
 
 ## 2016
 
 ###### MOOC:
 
+- [SQL Queries](https://academy.vertabelo.com/course/sql-queries) by Vertabelo
 - [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) by Khan Academy
 - [MIT Launch X – Becoming an Entrepreneur](https://www.edx.org/course/becoming-entrepreneur-mitx-launch-x) by edX
 - [MongoDB for Python Developers](https://university.mongodb.com/courses/M101P/about) by MongoDB University | [Certificate](https://github.com/KartikKannapur/kartikkannapur.github.io/blob/master/mooc_certificates/MongoDB_M101P_Certificate.pdf)
