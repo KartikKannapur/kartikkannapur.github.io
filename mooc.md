@@ -22,6 +22,7 @@ image: /assets/images/books_background.jpg
 - [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)
 - [Natural Language Processing](https://www.coursera.org/course/nlp) by Stanford.
 - [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) by Stanford
+- [Build Intelligent Applications](https://www.coursera.org/specializations/machine-learning)
 
 ###### Etc:
 - [Android Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837) by Udacity.
