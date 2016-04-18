@@ -35,7 +35,7 @@ image: /assets/images/books_background.jpg
 - Head First Statistics - Page 502 of 717
 - Learning R - Page 61 of 400
 - Head First Java - 223 of 690
-- Programming Hive - 1 of 350
+- Programming Hive - 35 of 350
 
 ###### Java Programming
 
