@@ -9,7 +9,6 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning: 
 - [Model Thinking - University of Michigan](https://www.coursera.org/learn/model-thinking) by Coursera - Week 11 - Yet to Start
-- [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) by Stanford - Week 1
 - [Programming Methodology](https://www.youtube.com/view_play_list?p=84A56BC7F4A1F852) by Stanford - 20 of 28 - Yet to Start
 - [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java/) by Coursera - Week 1 - 4/7
 - [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MIT on edX - Yet to Start
@@ -22,6 +21,7 @@ image: /assets/images/books_background.jpg
 - [Probability and Statistics](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about)
 - [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)
 - [Natural Language Processing](https://www.coursera.org/course/nlp) by Stanford.
+- [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) by Stanford
 
 ###### Etc:
 - [Android Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837) by Udacity.
