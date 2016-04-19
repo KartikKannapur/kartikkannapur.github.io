@@ -12,7 +12,7 @@ image: /assets/images/books_background.jpg
 - [Programming Methodology](https://www.youtube.com/view_play_list?p=84A56BC7F4A1F852) by Stanford - 20 of 28 - Yet to Start
 - [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java/) by Coursera - Week 1 - 4/7
 - *[The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MIT on edX - Yet to Start
-- [Creating Tables in SQL](https://academy.vertabelo.com/course/creating-tables-in-sql) by Vertabelo - 167 of 177
+- [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) by Stanford - Yet to Start
 
 ###### May:
 
@@ -41,15 +41,15 @@ image: /assets/images/books_background.jpg
 ###### Java Programming
 
 ###### SQL
-1. [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) by Stanford
-2. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197) by Udacity
+1. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197) by Udacity
 
 ## 2016
 
 ###### MOOC:
 
 - [SQL Queries](https://academy.vertabelo.com/course/sql-queries) by Vertabelo
-- [Operating on Data in SQL](https://academy.vertabelo.com/course/operating-on-data-in-sql) by Vertabelo 
+- [Operating on Data in SQL](https://academy.vertabelo.com/course/operating-on-data-in-sql) by Vertabelo
+- [Creating Tables in SQL](https://academy.vertabelo.com/course/creating-tables-in-sql) by Vertabelo
 - [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) by Khan Academy
 - [MIT Launch X – Becoming an Entrepreneur](https://www.edx.org/course/becoming-entrepreneur-mitx-launch-x) by edX
 - [MongoDB for Python Developers](https://university.mongodb.com/courses/M101P/about) by MongoDB University | [Certificate](https://github.com/KartikKannapur/kartikkannapur.github.io/blob/master/mooc_certificates/MongoDB_M101P_Certificate.pdf)
