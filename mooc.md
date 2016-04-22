@@ -47,7 +47,7 @@ image: /assets/images/books_background.jpg
 
 ###### MOOC:
 
-- [Model Thinking - University of Michigan](https://www.coursera.org/learn/model-thinking) by Coursera
+- [Model Thinking - University of Michigan](https://www.coursera.org/learn/model-thinking) by Coursera | [Certificate](https://github.com/KartikKannapur/kartikkannapur.github.io/blob/master/mooc_certificates/Model_Thinking_Coursera_Michigan.png)
 - [SQL Queries](https://academy.vertabelo.com/course/sql-queries) by Vertabelo
 - [Operating on Data in SQL](https://academy.vertabelo.com/course/operating-on-data-in-sql) by Vertabelo
 - [Creating Tables in SQL](https://academy.vertabelo.com/course/creating-tables-in-sql) by Vertabelo
