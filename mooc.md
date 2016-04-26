@@ -11,7 +11,7 @@ image: /assets/images/books_background.jpg
 
 - [Programming Methodology](https://www.youtube.com/view_play_list?p=84A56BC7F4A1F852) by Stanford - 20 of 28 - Yet to Start
 - [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java/) by Coursera - Week 1 - 4/7
-- *[The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MIT on edX - Week 1 - Complete
+- *[The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MIT on edX - Week 2 - Video 4 : Linear Regression in R
 - [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) by Stanford - Yet to Start
 
 ###### May:
