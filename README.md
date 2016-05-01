@@ -1,6 +1,6 @@
 # My Personal Website
 
-Theme : Mediator - A Medium inspired Jekyll Blog Theme
+Theme : `Mediator` - A Medium inspired Jekyll Blog Theme
 
 The website contains :
 * My Blog
@@ -8,3 +8,8 @@ The website contains :
 * List of Books I have read in the past year
 * List of Events I have attended
 * List of Online Courses and Books I am currently taking up/reading
+
+
+The configuration properties are under `_config.yml`
+
+To build the project and launch the applicaton, run `$ bundle exec jekyll serve`
