@@ -14,8 +14,9 @@ image: /assets/images/books_background.jpg
 - *[The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MIT on edX - Week 3 - Logistic Regression - Video 4 
 - [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) by Stanford - Yet to Start
 
-###### May:
+###### June:
 
+- [Statistics with R](http://www.springer.com/us/book/9783319285290)
 - [JHU Data Science - Coursera](https://www.coursera.org/specializations/jhu-data-science)
 - [CS109 Data Science - Harvard](http://cs109.github.io/2015/)
 - [Probability and Statistics](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about)
@@ -25,7 +26,6 @@ image: /assets/images/books_background.jpg
 - [Build Intelligent Applications](https://www.coursera.org/specializations/machine-learning)
 
 ###### Etc:
-- [Android Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837) by Udacity.
 - [Developing Scalable Apps in Python with Google App Engine](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858) by Udacity.
 
 ###### Books:
