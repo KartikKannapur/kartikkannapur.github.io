@@ -4,7 +4,7 @@ title:  "Competitive Programming"
 date:   2016-05-10 22:00:00
 categories:
 tags: 
-image: /assets/article_images/2016_competitive_programming.png
+image: /assets/images/events_hackathon.jpg
 ---
 
 
@@ -15,6 +15,8 @@ Competitive programming revolves around the fundamental idea of hundreds of prog
 * Bragging rights 
 * Goodies/Swags/Monetary benefits and in some cases job offers as well
 
+
+
 My journey with competitive programming began only a few months back and by no means do I consider myself a virtuoso, but here are a couple of reasons why I believe you must get started with competitive programming:
 
 * Challenge Yourself:
@@ -22,6 +24,8 @@ My journey with competitive programming began only a few months back and by no m
 In your day job or at your university, you could listen to your favorite song on Spotify and think about the solution to a problem at your own pace and code it line by line. No sweat. But, in a competitive programming scenario, you are pushing yourself - not only are your trying to come up with an algorithm to solve the question and code it in your language of choice, but you are also trying to create the most performance oriented solution, and all this with the timer counting down.
 
 * Knowledge:
+
+
 
 More often than not in a competitive programming competition, you realize that there could be a better way to solve the problem - an easier, more elegant solution. This helps you pick up new concepts and put them into practice so that you are constantly learning. 
 

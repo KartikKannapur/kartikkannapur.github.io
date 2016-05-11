@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Practical Data Science Cookbook - Review"
+title:  "Practical Data Science Cookbook"
 date:   2015-02-24 19:30:00
 categories:
 tags: 
 image: /assets/article_images/2015_practical_data_science_cookbook.jpg
 ---
 
-#Practical Data Science Cookbook - Review
+Review
 
-#[]()
 
 
 The Practical Data Science Cookbook authored by Tony Ojeda, Sean Patrick Murphy, Benjamin Bengfort and Abhijit Dasgupta is an amazing resource for every aspiring data scientist. If you are inclined to understand concepts through hands-on, real world examples, this cookbook is the ideal partner for you.
