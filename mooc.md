@@ -12,6 +12,7 @@ image: /assets/images/books_background.jpg
 - [Programming Methodology](https://www.youtube.com/view_play_list?p=84A56BC7F4A1F852) by Stanford - 24 of 28 - Complete
 - *[The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MIT on edX - Week 3 - Complete
 - [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) by Stanford - Yet to Start
+- [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) on HackerRank - 0/30
 
 ###### June:
 
