@@ -16,6 +16,7 @@ image: /assets/images/books_background.jpg
 
 ###### June:
 
+- [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) by Coursera
 - [Statistics with R](http://www.springer.com/us/book/9783319285290)
 - [JHU Data Science - Coursera](https://www.coursera.org/specializations/jhu-data-science)
 - [CS109 Data Science - Harvard](http://cs109.github.io/2015/)
