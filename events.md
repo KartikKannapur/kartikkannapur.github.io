@@ -9,10 +9,12 @@ image: /assets/images/events_hackathon.jpg
 
 
 ### 2016
+- WTM Hack 2016 by Google Developers Group Bangalore on 16th - 17th April @ Flipkart, Bangalore.
 - Progressive Web Apps India by Google on 20th Mar @ MLR Convention Centre, Bangalore
 - Deep Learning Bangalore(DLBLR) Monthly Meetup on 14th Feb @ Bloomreach, Bangalore.
-- Introduction to Apache Flink on 10th Jan @ Apigee, Bangalore.
 - Interactive Analytics using Apache Spark on 6th Feb @ IBM, Bangalore
+- Introduction to Apache Flink on 10th Jan @ Apigee, Bangalore.
+
 
 ### 2015
 - Apache Spark Streaming Meetup on 12th Dec @ IBM, Bangalore.
