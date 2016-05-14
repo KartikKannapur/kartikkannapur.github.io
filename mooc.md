@@ -9,7 +9,6 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning: 
 
-- [Programming Methodology](https://www.youtube.com/view_play_list?p=84A56BC7F4A1F852) by Stanford - 24 of 28 - Complete
 - *[The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MIT on edX - Week 3 - Complete
 - [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) by Stanford - Yet to Start
 - [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) on HackerRank - 0/30
@@ -47,6 +46,7 @@ image: /assets/images/books_background.jpg
 
 ###### MOOC:
 
+- [Programming Methodology](https://see.stanford.edu/Course/CS106A) by Stanford
 - [Model Thinking - University of Michigan](https://www.coursera.org/learn/model-thinking) by Coursera | [Certificate](https://github.com/KartikKannapur/kartikkannapur.github.io/blob/master/mooc_certificates/Model_Thinking_Coursera_Michigan.png)
 - [SQL Queries](https://academy.vertabelo.com/course/sql-queries) by Vertabelo
 - [Operating on Data in SQL](https://academy.vertabelo.com/course/operating-on-data-in-sql) by Vertabelo
