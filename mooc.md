@@ -9,8 +9,9 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning: 
 
-- *[The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MIT on edX - Week 3 - Complete
+- *[The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MIT on edX - Week 4 - Complete
 - [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) on HackerRank - 0/30
+- *[Introduction to DevOps](https://www.edx.org/course/introduction-devops-microsoft-dev212x) on edX - Week 0
 
 ###### June:
 
