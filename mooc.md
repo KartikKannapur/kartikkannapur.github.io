@@ -34,7 +34,7 @@ image: /assets/images/books_background.jpg
 
 - [Docker Up and Running](http://shop.oreilly.com/product/0636920036142.do) - Page 49 of 222
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-- Neural Network Design - 80 of 1012
+- Neural Network Design - 122 of 1012
 - [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) - Controlling Relevance
 - Head First Statistics - Page 502 of 717
 - Learning R - Page 61 of 400
