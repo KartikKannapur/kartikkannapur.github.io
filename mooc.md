@@ -13,6 +13,7 @@ image: /assets/images/books_background.jpg
 - [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) on HackerRank - 2/30
 - *[Introduction to DevOps](https://www.edx.org/course/introduction-devops-microsoft-dev212x) by Microsoft on edX - Week 2 - Complete
 - *[Product Design: The Delft Design Approach](https://www.edx.org/course/product-design-delft-design-approach-delftx-dda691x-0) by TUDelft on edX - Week 1 - 1b Lecture
+- [Deep Learning](https://developer.nvidia.com/deep-learning-courses) by NVIDIA - 0/5
 
 ###### June:
 
