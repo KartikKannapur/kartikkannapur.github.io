@@ -11,7 +11,6 @@ image: /assets/images/books_background.jpg
 
 - *[The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MIT on edX - Week 7 - Complete
 - [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) on HackerRank - 7/30
-- *[Introduction to DevOps](https://www.edx.org/course/introduction-devops-microsoft-dev212x) by Microsoft on edX - Week 3 - Complete
 - [Product Design: The Delft Design Approach](https://www.edx.org/course/product-design-delft-design-approach-delftx-dda691x-0) by TUDelft on edX - Week 1 - 1b Lecture
 - [Introduction to Cloud Infrastructure Technologies - LFS151x](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!) by The Linux Foundation on edX - Week 0
 
@@ -50,6 +49,7 @@ image: /assets/images/books_background.jpg
 
 ###### MOOC:
 
+- [Introduction to DevOps](https://www.edx.org/course/introduction-devops-microsoft-dev212x) by Microsoft on edX
 - [Deep Learning](https://developer.nvidia.com/deep-learning-courses) by NVIDIA
 - [Programming Methodology](https://see.stanford.edu/Course/CS106A) by Stanford
 - [Model Thinking - University of Michigan](https://www.coursera.org/learn/model-thinking) by Coursera | [Certificate](https://github.com/KartikKannapur/kartikkannapur.github.io/blob/master/mooc_certificates/Model_Thinking_Coursera_Michigan.png)
