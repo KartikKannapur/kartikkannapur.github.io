@@ -32,7 +32,7 @@ image: /assets/images/books_background.jpg
 
 ###### Books:
 
-- [Docker Up and Running](http://shop.oreilly.com/product/0636920036142.do) - Page 73 of 222
+- [Docker Up and Running](http://shop.oreilly.com/product/0636920036142.do) - Page 95 of 222
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - Neural Network Design - 122 of 1012
 - [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) - Controlling Relevance
