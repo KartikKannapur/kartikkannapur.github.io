@@ -33,12 +33,12 @@ image: /assets/images/books_background.jpg
 
 ###### Books:
 
+- [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) by CLRS - 0 of 1313
 - [Docker Up and Running](http://shop.oreilly.com/product/0636920036142.do) - Page 125 of 222 - Ch.7 : The Path to Production Containers
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - Neural Network Design - 194 of 1012
 - [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) - Controlling Relevance
 - Head First Statistics - Page 502 of 717
-- Learning R - Page 61 of 400
 - Head First Java - 223 of 690
 - Programming Hive - 91 of 350
 
@@ -64,4 +64,5 @@ image: /assets/images/books_background.jpg
 
 
 ###### Books:
+- Learning R
 - Lucene in Action by Erik Hatcher and Otis Gospodnetić
