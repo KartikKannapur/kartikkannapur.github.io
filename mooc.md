@@ -16,6 +16,7 @@ image: /assets/images/books_background.jpg
 - [Introduction to Cloud Infrastructure Technologies - LFS151x](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!) by The Linux Foundation on edX - Week 0
 - [Neural Networks by Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) - 6 of 92
 - [Introduction to Recommender Systems](https://www.coursera.org/learn/recommender-systems) on Coursera - July 11
+- [Knowledge-Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) by Udacity - Week 0/23
 
 
 ###### Aug:
@@ -60,7 +61,6 @@ image: /assets/images/books_background.jpg
 - [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) by Khan Academy
 - [MIT Launch X – Becoming an Entrepreneur](https://www.edx.org/course/becoming-entrepreneur-mitx-launch-x) by edX
 - [MongoDB for Python Developers](https://university.mongodb.com/courses/M101P/about) by MongoDB University | [Certificate](https://github.com/KartikKannapur/kartikkannapur.github.io/blob/master/mooc_certificates/MongoDB_M101P_Certificate.pdf)
-- [Knowledge-Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) by Udacity
 
 
 ###### Books:
