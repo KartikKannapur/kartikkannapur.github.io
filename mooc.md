@@ -15,14 +15,12 @@ image: /assets/images/books_background.jpg
 - [Product Design: The Delft Design Approach](https://www.edx.org/course/product-design-delft-design-approach-delftx-dda691x-0) by TUDelft on edX - Week 1 - 1b Lecture
 - [Introduction to Cloud Infrastructure Technologies - LFS151x](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!) by The Linux Foundation on edX - Week 0
 - [Neural Networks by Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) - 6 of 92
+- [Introduction to Recommender Systems](https://www.coursera.org/learn/recommender-systems) on Coursera - July 11
 
 
-###### June:
+###### Aug:
 
 - [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) by Coursera
-- [Statistics with R](http://www.springer.com/us/book/9783319285290)
-- [JHU Data Science - Coursera](https://www.coursera.org/specializations/jhu-data-science)
-- [CS109 Data Science - Harvard](http://cs109.github.io/2015/)
 - [Probability and Statistics](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about)
 - [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)
 - [Natural Language Processing](https://www.coursera.org/course/nlp) by Stanford.
