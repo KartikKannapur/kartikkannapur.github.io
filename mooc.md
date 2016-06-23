@@ -16,7 +16,7 @@ image: /assets/images/books_background.jpg
 - [Introduction to Cloud Infrastructure Technologies - LFS151x](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!) by The Linux Foundation on edX - Week 0
 - [Neural Networks by Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) - 6 of 92
 - [Introduction to Recommender Systems](https://www.coursera.org/learn/recommender-systems) on Coursera - July 11
-- [Knowledge-Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) by Udacity - Week 0/26
+- [Knowledge-Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) by Udacity - Week 1/26
 
 
 ###### Aug:
