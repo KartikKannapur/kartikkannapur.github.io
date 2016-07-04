@@ -9,7 +9,6 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning: 
 
-- [CS105x Introduction to Apache Spark](https://courses.edx.org/courses/course-v1:BerkeleyX+CS105x+1T2016) by BerkeleyX on edX - Week 2 - Complete
 - *[The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MIT on edX - Week 9 - Complete
 - [Product Design: The Delft Design Approach](https://www.edx.org/course/product-design-delft-design-approach-delftx-dda691x-0) by TUDelft on edX - Week 1 - 1b Lecture
 - [Introduction to Cloud Infrastructure Technologies - LFS151x](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!) by The Linux Foundation on edX - Week 0
@@ -50,6 +49,7 @@ image: /assets/images/books_background.jpg
 
 ###### MOOC:
 
+- [CS105x Introduction to Apache Spark](https://courses.edx.org/courses/course-v1:BerkeleyX+CS105x+1T2016) by BerkeleyX on edX
 - [Introduction to DevOps](https://www.edx.org/course/introduction-devops-microsoft-dev212x) by Microsoft on edX
 - [Deep Learning](https://developer.nvidia.com/deep-learning-courses) by NVIDIA
 - [Programming Methodology](https://see.stanford.edu/Course/CS106A) by Stanford
