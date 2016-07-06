@@ -8,7 +8,7 @@ image: /assets/images/events_hackathon.jpg
 ---
 
 
-Wikipedia defines Competitive Programming as a ‘Mind Sport’.
+*Wikipedia defines Competitive Programming as a ‘Mind Sport’.*
 
 Competitive programming revolves around the fundamental idea of hundreds of programmers trying to solve a set of problems, in a given amount of time. The problems themselves involve solving sets of mathematical and algorithmic questions in any programming language. Although the major criteria for judging is the correctness of the answer, some competitions also take into account the performance and elegance of the code written. The duration of these competitions can range from a couple of hours to weeks, sometimes even months and programmers who crack the challenging set of questions, are rewarded with(in order of importance)
 
