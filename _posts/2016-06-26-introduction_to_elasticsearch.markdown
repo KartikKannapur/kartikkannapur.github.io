@@ -8,7 +8,7 @@ image: /assets/images/books_background.jpg
 ---
 
 
-###What is Indexing and Why do we need it?
+*What is Indexing and Why do we need it?*
 
 Data is stored on disk as blocks of data. These blocks are accessed in their entirety, making them atomic reads and writes. The structure of these blocks of data is similar to that of a linked list - that contains a block of data and a pointer to the next data block. To find a piece of information, we would have to linearly search through the data which would be expensive, given that it is unsorted.
 
@@ -16,7 +16,7 @@ Indexing is the process of tagging or associating information with a document or
 
 
 
-###Elasticsearch
+*Elasticsearch*
 
 Elasticsearch is an open-source, distributed search and analytics engine, built on top of Apache Lucene. It is able to achieve fast search responses because, it searches an index rather than searching the text directly. This is similar to retrieving pages in a book related to a keyword, by scanning the index at the back of a book, as opposed to searching every word on every page of the book. This type of index is called an Inverted Index.
 
@@ -24,7 +24,7 @@ Apache Lucene is a high-performance full-text search and information retrieval l
 
 
 
-###Terms in Elasticsearch
+*Terms in Elasticsearch*
 
  * Node : An instance that is running Elasticsearch.
 
@@ -52,7 +52,7 @@ Apache Lucene is a high-performance full-text search and information retrieval l
 
 
 
-###ELK Stack
+*ELK Stack*
 
 The Elastic Stack is an end-to-end solution for log management, indexing and visualization of data. The ELK Stack consists of Elasticsearch, Logstash and Kibana, three independent open source projects that can ingest data from any source, any format and search, analyze, and visualize it in real time.
 
@@ -60,13 +60,13 @@ Logstash is a pipeline for ingestion and processing of logs. It can handle a var
 
 
 
-###Elasticsearch - Hadoop
+*Elasticsearch - Hadoop*
 
 Elasticsearch for Apache Hadoop (ES-Hadoop) acts as a two-way connector, that connects the real-time search and analytics capability of Elasticsearch to the Hadoop ecosystem. With this native integration, ES-Hadoop allows for seamlessly moving data between Elasticsearch and HDFS. ES-Hadoop ships with security features such as HTTP authentication and support for SSL/TLS. It also works with Kibana for data visualization.
 
 
 
-###Resources to get started
+*Resources to get started*
 
 1. Elastic - https://www.elastic.co/
 2. Elasticsearch: The Definitive Guide Book - https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html
