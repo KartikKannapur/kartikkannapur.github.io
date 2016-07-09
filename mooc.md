@@ -9,7 +9,6 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning: 
 
-- *[Computational Investing, Part I](https://www.coursera.org/learn/computational-investing) by Georgia Institute of Technology on Coursera - Week 0/8
 - [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html) by Stanford - Week 0
 - *[Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing) by University of Michigan on Coursera - Week 2/12 - In Progress
 - [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MIT on edX - Complete - Waiting for the Certificate
