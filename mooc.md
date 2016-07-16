@@ -15,8 +15,9 @@ image: /assets/images/books_background.jpg
 - [Product Design: The Delft Design Approach](https://www.edx.org/course/product-design-delft-design-approach-delftx-dda691x-0) by TUDelft on edX - Week 1 - 1b Lecture
 - [Introduction to Cloud Infrastructure Technologies - LFS151x](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!) by The Linux Foundation on edX - Week 0
 - [Neural Networks by Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) - 6 of 92
-- [Introduction to Recommender Systems](https://www.coursera.org/learn/recommender-systems) on Coursera - July 11
+- *[Introduction to Recommender Systems](https://www.coursera.org/learn/recommender-systems) by University of Minnesota on Coursera - Week 0
 - [Knowledge-Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) by Udacity - Week 1/26
+- *[Text Mining and Analytics](https://www.coursera.org/specializations/data-mining) by University of Illinois at Urbana-Champaign on Coursera - Week 0
 
 
 ###### Aug:
