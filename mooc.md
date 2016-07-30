@@ -36,6 +36,7 @@ image: /assets/images/books_background.jpg
 
 - [Intermediate Python](https://leanpub.com/intermediatepython) by Obi Ike-Nwosu - 31 of 174
 - [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) by CLRS - 0 of 1313
+- [Data Structures and Algorithms with Python] by Lee & Hubbard - 1 of 369
 - [Docker Up and Running](http://shop.oreilly.com/product/0636920036142.do) - Page 125 of 222 - Ch.7 : The Path to Production Containers
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - Neural Network Design - 194 of 1012
