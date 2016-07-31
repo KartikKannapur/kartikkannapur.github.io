@@ -9,6 +9,8 @@ image: /assets/images/events_hackathon.jpg
 
 
 ### 2016
+- The Fifth Elephant by hasgeek on 28th & 29th July @ Bangalore.
+- Deep Learning Conference by hasgeek on 1st July @ CMRIT, Bangalore.
 - High speed connectors for Apache Spark by Spark Technology Center on 14th May @ IBM, Bangalore.
 - WTM Hack 2016 by Google Developers Group Bangalore on 16th - 17th April @ Flipkart, Bangalore.
 - Progressive Web Apps India by Google on 20th Mar @ MLR Convention Centre, Bangalore
