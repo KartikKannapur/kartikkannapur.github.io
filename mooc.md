@@ -11,7 +11,6 @@ image: /assets/images/books_background.jpg
 
 - [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html) by Stanford - Week 0
 - *[Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing) by University of Michigan on Coursera - Week 2/12 - In Progress
-- [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MIT on edX - Complete - Waiting for the Certificate
 - [Product Design: The Delft Design Approach](https://www.edx.org/course/product-design-delft-design-approach-delftx-dda691x-0) by TUDelft on edX - Week 1 - 1b Lecture
 - [Introduction to Cloud Infrastructure Technologies - LFS151x](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!) by The Linux Foundation on edX - Week 0
 - [Neural Networks by Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) - 6 of 92
@@ -54,6 +53,7 @@ image: /assets/images/books_background.jpg
 
 ###### MOOC:
 
+- [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MITx on edX
 - [CS105x Introduction to Apache Spark](https://courses.edx.org/courses/course-v1:BerkeleyX+CS105x+1T2016) by BerkeleyX on edX
 - [Introduction to DevOps](https://www.edx.org/course/introduction-devops-microsoft-dev212x) by Microsoft on edX
 - [Deep Learning](https://developer.nvidia.com/deep-learning-courses) by NVIDIA
