@@ -18,6 +18,7 @@ image: /assets/images/books_background.jpg
 - *[Introduction to Recommender Systems](https://www.coursera.org/learn/recommender-systems) by University of Minnesota on Coursera - Week 0
 - [Knowledge-Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) by Udacity - Week 1/26
 - *[Text Mining and Analytics](https://www.coursera.org/specializations/data-mining) by University of Illinois at Urbana-Champaign on Coursera - Week 0
+- [CS229 Machine Learning](http://cs229.stanford.edu/materials.html) by Stanford - Week 0
 
 
 ###### Aug:
