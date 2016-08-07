@@ -23,6 +23,7 @@ image: /assets/images/books_background.jpg
 
 ###### Aug:
 
+- [Regression Models](https://www.coursera.org/learn/regression-models) by Johns Hopkins University on Coursera.
 - [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) by Coursera
 - [Probability and Statistics](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about)
 - [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)
