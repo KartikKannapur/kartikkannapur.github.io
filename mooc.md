@@ -9,7 +9,7 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning: 
 
-- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington on Coursera - Week 1 - In Progress
+- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington on Coursera - Week 1 - In Progress - Finding the Least Squares Line
 - [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations) by University of Washington on Coursera - Week 0
 - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) by École Polytechnique Fédérale de Lausanne on Coursera  - Week 0
 - [CS120x Distributed Machine Learning with Apache Spark](https://courses.edx.org/courses/course-v1:BerkeleyX+CS120x+2T2016) by BerkeleyX on edX - Labs 1,2,3
