@@ -12,7 +12,7 @@ image: /assets/images/books_background.jpg
 - [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington on Coursera - Week 1 - In Progress - Finding the Least Squares Line
 - [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations) by University of Washington on Coursera - Week 0
 - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) by École Polytechnique Fédérale de Lausanne on Coursera  - Week 0
-- [Learning from Data - A Machine Learning Course](http://work.caltech.edu/telecourse.html#lectures) by Professor Yaser Abu-Mostafa CalTech on edX - Week 0
+- [Learning from Data - A Machine Learning Course](http://work.caltech.edu/telecourse.html#lectures) by Professor Yaser Abu-Mostafa CalTech on edX - Week 1 - Yet to Start
 - [CS120x Distributed Machine Learning with Apache Spark](https://courses.edx.org/courses/course-v1:BerkeleyX+CS120x+2T2016) by BerkeleyX on edX - Labs 1,2,3
 - [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html) by Stanford - Week 0
 - *[Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing) by University of Michigan on Coursera - Week 2/12 - In Progress
