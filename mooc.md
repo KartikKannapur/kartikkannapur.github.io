@@ -11,6 +11,8 @@ image: /assets/images/books_background.jpg
 
 - [Introduction to Algorithms MIT 6.006](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) on YouTube - 1 out of 47
 - [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington on Coursera - Week 2 - In Progress
+- [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) by University of Toronto on Coursera - Lecture 1 of 16
+- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington on Coursera - Week 2 - In Progress
 - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) by École Polytechnique Fédérale de Lausanne on Coursera  - Week 0
 - [Learning from Data - A Machine Learning Course](http://work.caltech.edu/telecourse.html#lectures) by Professor Yaser Abu-Mostafa CalTech on edX - Week 1 - In Progress - Assignments
 - [CS120x Distributed Machine Learning with Apache Spark](https://courses.edx.org/courses/course-v1:BerkeleyX+CS120x+2T2016) by BerkeleyX on edX - Labs 1,2,3
@@ -18,7 +20,6 @@ image: /assets/images/books_background.jpg
 - *[Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing) by University of Michigan on Coursera - Week 2/12 - In Progress
 - [Product Design: The Delft Design Approach](https://www.edx.org/course/product-design-delft-design-approach-delftx-dda691x-0) by TUDelft on edX - Week 1 - 1b Lecture
 - [Introduction to Cloud Infrastructure Technologies - LFS151x](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!) by The Linux Foundation on edX - Week 0
-- [Neural Networks by Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) - 6 of 92
 - *[Introduction to Recommender Systems](https://www.coursera.org/learn/recommender-systems) by University of Minnesota on Coursera - Week 0
 - [Knowledge-Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) by Udacity - Week 1/26
 - *[Text Mining and Analytics](https://www.coursera.org/specializations/data-mining) by University of Illinois at Urbana-Champaign on Coursera - Week 0
