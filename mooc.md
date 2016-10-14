@@ -9,7 +9,7 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning: 
 
-- [Regression Methods](https://onlinecourses.science.psu.edu/stat501) by PennState - Completed Lessons - 1
+- [Regression Methods](https://onlinecourses.science.psu.edu/stat501) by PennState - Completed Lessons - 1, 5
 - [Introduction to Algorithms MIT 6.006](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) on YouTube - 1 out of 47
 - [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington on Coursera - Week 2 - In Progress
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) by University of Toronto on Coursera - Lecture 2 of 16 - Complete
