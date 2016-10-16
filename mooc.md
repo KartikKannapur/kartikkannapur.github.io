@@ -11,10 +11,10 @@ image: /assets/images/books_background.jpg
 
 - [Regression Methods](https://onlinecourses.science.psu.edu/stat501) by PennState - Completed Lessons - 1, 5
 - [Introduction to Algorithms MIT 6.006](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) on YouTube - 1 out of 47
-- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington on Coursera - Week 2 - In Progress
+- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington on Coursera - Week 5 - In Progress
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) by University of Toronto on Coursera - Lecture 2 of 16 - Complete
 - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) by École Polytechnique Fédérale de Lausanne on Coursera  - Week 0
-- [Learning from Data - A Machine Learning Course](http://work.caltech.edu/telecourse.html#lectures) by Professor Yaser Abu-Mostafa CalTech on edX - Week 1 - In Progress - Assignments
+- [Learning from Data - A Machine Learning Course](http://work.caltech.edu/telecourse.html#lectures) by Professor Yaser Abu-Mostafa CalTech on edX - Week 2 - In Progress - Assignments
 - [CS120x Distributed Machine Learning with Apache Spark](https://courses.edx.org/courses/course-v1:BerkeleyX+CS120x+2T2016) by BerkeleyX on edX - Labs 1,2,3
 - [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html) by Stanford - Week 0
 - *[Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing) by University of Michigan on Coursera - Week 2/12 - In Progress
@@ -28,7 +28,6 @@ image: /assets/images/books_background.jpg
 
 ###### Aug:
 
-- [Regression Models](https://www.coursera.org/learn/regression-models) by Johns Hopkins University on Coursera.
 - [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) by Coursera
 - [Probability and Statistics](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about)
 - [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)
@@ -46,8 +45,6 @@ image: /assets/images/books_background.jpg
 - [Data Structures and Algorithms with Python]() by Lee & Hubbard - 81 of 369
 - [Docker Up and Running](http://shop.oreilly.com/product/0636920036142.do) - Page 125 of 222 - Ch.7 : The Path to Production Containers
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-- Neural Network Design - 194 of 1012
-- [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) - Controlling Relevance
 - Head First Statistics - Page 502 of 717
 - Head First Java - 223 of 690
 - Programming Hive - 91 of 350
@@ -77,3 +74,4 @@ image: /assets/images/books_background.jpg
 ###### Books:
 - Learning R
 - Lucene in Action by Erik Hatcher and Otis Gospodnetić
+- [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
