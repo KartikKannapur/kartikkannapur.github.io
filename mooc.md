@@ -40,6 +40,7 @@ image: /assets/images/books_background.jpg
 
 ###### Books:
 
+- [Pro Git](https://git-scm.com/book/en/v2) - 1 of 574
 - [Intermediate Python](https://leanpub.com/intermediatepython) by Obi Ike-Nwosu - 31 of 174
 - [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) by CLRS - 0 of 1313
 - [Data Structures and Algorithms with Python]() by Lee & Hubbard - 81 of 369
