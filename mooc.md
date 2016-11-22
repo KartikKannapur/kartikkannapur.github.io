@@ -9,7 +9,7 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning: 
 
-- Applied Statistics and Probability for Engineers - Page 120 of 976
+- Applied Statistics and Probability for Engineers - Page 165 of 976
 - [Pro Git](https://git-scm.com/book/en/v2) - 81 of 574
 - [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm) on MIT OCW - Lecture 0 of 25
 
