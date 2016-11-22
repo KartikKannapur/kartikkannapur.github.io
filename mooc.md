@@ -9,11 +9,15 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning: 
 
-- [Regression Methods](https://onlinecourses.science.psu.edu/stat501) by PennState - Completed Lessons - 1, 5
+- Applied Statistics and Probability for Engineers - Page 120 of 976
+- [Pro Git](https://git-scm.com/book/en/v2) - 81 of 574
+- [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm) on MIT OCW - Lecture 0 of 25
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
 - [Introduction to Algorithms MIT 6.006](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) on YouTube - 1 out of 47
 - [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington on Coursera - Week 5 - In Progress
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) by University of Toronto on Coursera - Lecture 2 of 16 - Complete
-- [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) by École Polytechnique Fédérale de Lausanne on Coursera  - Week 0
 - [Learning from Data - A Machine Learning Course](http://work.caltech.edu/telecourse.html#lectures) by Professor Yaser Abu-Mostafa CalTech on edX - Week 2 - In Progress - Assignments
 - [CS120x Distributed Machine Learning with Apache Spark](https://courses.edx.org/courses/course-v1:BerkeleyX+CS120x+2T2016) by BerkeleyX on edX - Labs 1,2,3
 - [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html) by Stanford - Week 0
@@ -35,12 +39,11 @@ image: /assets/images/books_background.jpg
 - [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) by Stanford
 - [Build Intelligent Applications](https://www.coursera.org/specializations/machine-learning)
 
-###### Etc:
 - [Developing Scalable Apps in Python with Google App Engine](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858) by Udacity.
 
 ###### Books:
 
-- [Pro Git](https://git-scm.com/book/en/v2) - 43 of 574
+
 - [Intermediate Python](https://leanpub.com/intermediatepython) by Obi Ike-Nwosu - 31 of 174
 - [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) by CLRS - 0 of 1313
 - [Data Structures and Algorithms with Python]() by Lee & Hubbard - 81 of 369
