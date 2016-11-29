@@ -12,10 +12,11 @@ image: /assets/images/books_background.jpg
 - Applied Statistics and Probability for Engineers - Page 165 of 976
 - [Pro Git](https://git-scm.com/book/en/v2) - 81 of 574
 - [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm) on MIT OCW - Lecture 2 of 25
+- [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification) by University of Washington on Coursera - Week 1 of 7 - In Progress
+- [Introduction to Algorithms MIT 6.006](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) on YouTube - 1 out of 47
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-- [Introduction to Algorithms MIT 6.006](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) on YouTube - 1 out of 47
 - [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington on Coursera - Week 5 - In Progress
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) by University of Toronto on Coursera - Lecture 2 of 16 - Complete
 - [Learning from Data - A Machine Learning Course](http://work.caltech.edu/telecourse.html#lectures) by Professor Yaser Abu-Mostafa CalTech on edX - Week 2 - In Progress - Assignments
