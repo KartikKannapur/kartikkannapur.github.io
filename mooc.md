@@ -63,6 +63,7 @@ image: /assets/images/books_background.jpg
 
 ###### MOOC:
 
+- [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) by Johns Hopkins University on Coursera
 - [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MITx on edX
 - [CS105x Introduction to Apache Spark](https://courses.edx.org/courses/course-v1:BerkeleyX+CS105x+1T2016) by BerkeleyX on edX
 - [Introduction to DevOps](https://www.edx.org/course/introduction-devops-microsoft-dev212x) by Microsoft on edX
