@@ -9,7 +9,7 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning: 
 
-- [STAT 100: Statistical Concepts and Reasoning](https://onlinecourses.science.psu.edu/stat100/) by PennState - Lesson 0 of 12
+- [STAT 100: Statistical Concepts and Reasoning](https://onlinecourses.science.psu.edu/stat100/) by PennState - Lesson 3 of 12
 - [Pro Git](https://git-scm.com/book/en/v2) - 81 of 574
 - [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm) on MIT OCW - Lecture 2 of 25
 - [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification) by University of Washington on Coursera - Week 1 of 7 - In Progress
