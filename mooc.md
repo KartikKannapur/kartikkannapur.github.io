@@ -15,6 +15,13 @@ image: /assets/images/books_background.jpg
 - [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification) by University of Washington on Coursera - Week 1 of 7 - In Progress
 - [Introduction to Algorithms MIT 6.006](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) on YouTube - 1 out of 47
 - [The Encyclopedia of Human-Computer Interaction 2nd Edition](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed) by Interaction Design Foundation - Chapter 0 of 52
+- [Financial Markets](https://www.coursera.org/learn/financial-markets) - Week 0 of 8
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Finance
+
+- [Build a Winning Investment Portfolio](https://www.coursera.org/specializations/investment-portolio-management)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
