@@ -9,6 +9,7 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning: 
 
+- [Corporate Finance Essentials](https://www.coursera.org/learn/corporate-finance-essentials) by IESE Business School on Coursera - Week 2 (Quiz) of Week 7
 - [STAT 100: Statistical Concepts and Reasoning](https://onlinecourses.science.psu.edu/stat100/) by PennState - Lesson 6 of 12
 - [Pro Git](https://git-scm.com/book/en/v2) - 81 of 574
 - [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm) on MIT OCW - Lecture 2 of 25
