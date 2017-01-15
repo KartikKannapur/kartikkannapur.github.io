@@ -16,7 +16,7 @@ image: /assets/images/books_background.jpg
 - [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm) on MIT OCW - Lecture 2 of 25
 - [Introduction to Algorithms MIT 6.006](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) on YouTube - 1 out of 47
 - [The Encyclopedia of Human-Computer Interaction 2nd Edition](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed) by Interaction Design Foundation - Chapter 0 of 52
-- [Financial Markets](https://www.coursera.org/learn/financial-markets) - Week 0 of 8
+- [Financial Markets](https://www.coursera.org/learn/financial-markets) - Week 0 of 8 - Deadline on Jan 29th
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
