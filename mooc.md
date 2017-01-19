@@ -26,6 +26,7 @@ Finance
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
+- Stats - https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE
 - [LinuxFoundationX: LFS151.x Introduction to Cloud Infrastructure Technologies](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS151.x+2T2016)
 - [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington on Coursera - Week 5 - In Progress
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) by University of Toronto on Coursera - Lecture 2 of 16 - Complete
