@@ -9,6 +9,7 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning: 
 
+- [Fundamentals of Visualization with Tableau](https://www.coursera.org/learn/data-visualization-tableau/) - week 1 of 4
 - [Persoanl Finance](https://courses.edx.org/courses/course-v1:PurdueX+PN-17.2+1T2017) by Purdue on Coursera - Week 1 of 5 - Lecture 7
 - [Corporate Finance Essentials](https://www.coursera.org/learn/corporate-finance-essentials) by IESE Business School on Coursera - Week 2 (Quiz) of Week 7
 - [STAT 100: Statistical Concepts and Reasoning](https://onlinecourses.science.psu.edu/stat100/) by PennState - Lesson 8 of 12
