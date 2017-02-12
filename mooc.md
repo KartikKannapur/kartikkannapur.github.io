@@ -9,6 +9,7 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning: 
 
+- [Google Cloud Platform Fundamentals](https://www.coursera.org/learn/gcp-fundamentals) by Google on Coursera - Week 0 of 1 & Course 1 of 4 in the Google Cloud Platform for Systems Operations Professionals Specialization
 - [Introduction to Financial Markets](https://www.coursera.org/learn/financial-markets-intro) by ISB on Coursera - Week 0 of 4 & Course 1 of 5 in the Financial Markets and Investment Strategy Specialization
 - [Fundamentals of Visualization with Tableau](https://www.coursera.org/learn/data-visualization-tableau/) - week 1 of 4
 - [Persoanl Finance](https://courses.edx.org/courses/course-v1:PurdueX+PN-17.2+1T2017) by Purdue on Coursera - Week 1 of 5 - Lecture 7
