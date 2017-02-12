@@ -9,6 +9,7 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning: 
 
+- [Introduction to Financial Markets](https://www.coursera.org/learn/financial-markets-intro) by ISB on Coursera - Week 0 of 4 & Course 1 of 5 in the Financial Markets and Investment Strategy Specialization
 - [Fundamentals of Visualization with Tableau](https://www.coursera.org/learn/data-visualization-tableau/) - week 1 of 4
 - [Persoanl Finance](https://courses.edx.org/courses/course-v1:PurdueX+PN-17.2+1T2017) by Purdue on Coursera - Week 1 of 5 - Lecture 7
 - [Corporate Finance Essentials](https://www.coursera.org/learn/corporate-finance-essentials) by IESE Business School on Coursera - Week 2 (Quiz) of Week 7
@@ -23,6 +24,7 @@ image: /assets/images/books_background.jpg
 ---------------------------------------------------------------------------------------------------------------------------------------
 Finance
 
+- [Trading Strategies in Emerging Markets Specialization](https://www.coursera.org/specializations/trading-strategy) on Coursera
 - [Build a Winning Investment Portfolio](https://www.coursera.org/specializations/investment-portolio-management)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
