@@ -70,6 +70,7 @@ Finance
 - Head First Statistics - Page 502 of 717
 - Head First Java - 223 of 690
 - Programming Hive - 91 of 350
+- Git Pro - Chapter 3
 
 
 ###### SQL
