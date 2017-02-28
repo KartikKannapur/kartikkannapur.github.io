@@ -10,6 +10,8 @@ image: /assets/images/books_background.jpg
 #### Currently Learning: 
 
 - [Pattern Discovery in Data Mining](https://www.coursera.org/learn/data-patterns) by University of Illinois at Urbana-Champaign on Coursera - Week 0 of 4
+- Book - Data Mining: Concepts and Techniques by Jiawei Han - Page 0 of 740
+
 - [Google Cloud Platform Fundamentals](https://www.coursera.org/learn/gcp-fundamentals) by Google on Coursera - Week 0 of 1 & Course 1 of 4 in the Google Cloud Platform for Systems Operations Professionals Specialization
 - [Introduction to Financial Markets](https://www.coursera.org/learn/financial-markets-intro) by ISB on Coursera - Week 0 of 4 & Course 1 of 5 in the Financial Markets and Investment Strategy Specialization
 - [Fundamentals of Visualization with Tableau](https://www.coursera.org/learn/data-visualization-tableau/) - week 1 of 4
@@ -62,7 +64,6 @@ Finance
 
 ###### Books:
 
-
 - [Intermediate Python](https://leanpub.com/intermediatepython) by Obi Ike-Nwosu - 31 of 174
 - [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) by CLRS - 0 of 1313
 - [Data Structures and Algorithms with Python]() by Lee & Hubbard - 81 of 369
@@ -76,6 +77,8 @@ Finance
 
 ###### SQL
 1. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197) by Udacity
+
+## 2017
 
 ## 2016
 
