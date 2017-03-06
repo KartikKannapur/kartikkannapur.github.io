@@ -10,6 +10,8 @@ image: /assets/images/books_background.jpg
 #### Currently Learning: 
 
 - [Pattern Discovery in Data Mining](https://www.coursera.org/learn/data-patterns) by University of Illinois at Urbana-Champaign on Coursera - Week 0 of 4
+- Programming Hive - 55 of 350
+
 - Book - Data Mining: Concepts and Techniques by Jiawei Han - Page 0 of 740
 
 - [Google Cloud Platform Fundamentals](https://www.coursera.org/learn/gcp-fundamentals) by Google on Coursera - Week 0 of 1 & Course 1 of 4 in the Google Cloud Platform for Systems Operations Professionals Specialization
@@ -71,7 +73,6 @@ Finance
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - Head First Statistics - Page 502 of 717
 - Head First Java - 223 of 690
-- Programming Hive - 91 of 350
 - Git Pro - Chapter 3
 
 
