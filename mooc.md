@@ -10,7 +10,7 @@ image: /assets/images/books_background.jpg
 #### Currently Learning: 
 
 - [Pattern Discovery in Data Mining](https://www.coursera.org/learn/data-patterns) by University of Illinois at Urbana-Champaign on Coursera - Week 0 of 4
-- Programming Hive - 133 of 350
+- Programming Hive - 137 of 350
 
 - Book - Data Mining: Concepts and Techniques by Jiawei Han - Page 0 of 740
 
