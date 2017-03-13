@@ -12,7 +12,7 @@ image: /assets/images/books_background.jpg
 - [Pattern Discovery in Data Mining](https://www.coursera.org/learn/data-patterns) by University of Illinois at Urbana-Champaign on Coursera - Week 2 of 4 - https://www.coursera.org/learn/data-patterns/home/week/2
 - Programming Hive - 137 of 350
 
-- Book - Data Mining: Concepts and Techniques by Jiawei Han - Page 0 of 740
+- Book - Data Mining: Concepts and Techniques by Jiawei Han - Page 46 of 740 - A Relational Database for AllElectronics
 
 
 ---------------------------------------------------------------------------------------------------------------------------
