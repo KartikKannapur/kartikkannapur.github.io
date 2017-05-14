@@ -9,7 +9,7 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning: 
 
-- [Startup School - How to Start a Startup - CS183F](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY) - Video 1
+- [Startup School - How to Start a Startup - CS183F](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY) - Video 2
 
 - [Pattern Discovery in Data Mining](https://www.coursera.org/learn/data-patterns) by University of Illinois at Urbana-Champaign on Coursera - Week 2 of 4 - https://www.coursera.org/learn/data-patterns/home/week/2
 - Programming Hive - 137 of 350
