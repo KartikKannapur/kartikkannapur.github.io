@@ -10,80 +10,21 @@ image: /assets/images/books_background.jpg
 #### Currently Learning: 
 
 - [Startup School - How to Start a Startup - CS183F](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY) - Video 2
+- [DelftX: MathMod1x Mathematical Modelling Basics](https://www.edx.org/course/mathematical-modeling-basics-delftx-mathmod1x#!) on edX - Week 1
 
-- [Pattern Discovery in Data Mining](https://www.coursera.org/learn/data-patterns) by University of Illinois at Urbana-Champaign on Coursera - Week 2 of 4 - https://www.coursera.org/learn/data-patterns/home/week/2
+
 - Programming Hive - 137 of 350
 
-- Book - Data Mining: Concepts and Techniques by Jiawei Han - Page 46 of 740 - A Relational Database for AllElectronics
 
 
----------------------------------------------------------------------------------------------------------------------------
-- [Google Cloud Platform Fundamentals](https://www.coursera.org/learn/gcp-fundamentals) by Google on Coursera - Week 0 of 1 & Course 1 of 4 in the Google Cloud Platform for Systems Operations Professionals Specialization
-- [Introduction to Financial Markets](https://www.coursera.org/learn/financial-markets-intro) by ISB on Coursera - Week 0 of 4 & Course 1 of 5 in the Financial Markets and Investment Strategy Specialization
-- [Fundamentals of Visualization with Tableau](https://www.coursera.org/learn/data-visualization-tableau/) - week 1 of 4
-- [Persoanl Finance](https://courses.edx.org/courses/course-v1:PurdueX+PN-17.2+1T2017) by Purdue on Coursera - Week 1 of 5 - Lecture 7
-- [Corporate Finance Essentials](https://www.coursera.org/learn/corporate-finance-essentials) by IESE Business School on Coursera - Week 2 (Quiz) of Week 7
-- [STAT 100: Statistical Concepts and Reasoning](https://onlinecourses.science.psu.edu/stat100/) by PennState - Lesson 8 of 12
-- [Pro Git](https://git-scm.com/book/en/v2) - 81 of 574
-- [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm) on MIT OCW - Lecture 2 of 25
-- [Introduction to Algorithms MIT 6.006](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) on YouTube - 1 out of 47
-- [The Encyclopedia of Human-Computer Interaction 2nd Edition](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed) by Interaction Design Foundation - Chapter 0 of 52
-- [Financial Markets](https://www.coursera.org/learn/financial-markets) - Week 0 of 8 - Deadline on Jan 29th
 
 
----------------------------------------------------------------------------------------------------------------------------------------
-Finance
-
-- [Trading Strategies in Emerging Markets Specialization](https://www.coursera.org/specializations/trading-strategy) on Coursera
-- [Build a Winning Investment Portfolio](https://www.coursera.org/specializations/investment-portolio-management)
-
----------------------------------------------------------------------------------------------------------------------------------------
-
-- CMU Stats - https://www.youtube.com/channel/UCu8Pv6IJsbQdGzRlZ5OipUg/videos & http://www.stat.cmu.edu/~larry/=stat705/
-- Math background for ML - https://www.youtube.com/playlist?list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg
-- Stats - https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE
-- [LinuxFoundationX: LFS151.x Introduction to Cloud Infrastructure Technologies](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS151.x+2T2016)
-- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington on Coursera - Week 5 - In Progress
-- [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) by University of Toronto on Coursera - Lecture 2 of 16 - Complete
-- [Learning from Data - A Machine Learning Course](http://work.caltech.edu/telecourse.html#lectures) by Professor Yaser Abu-Mostafa CalTech on edX - Week 2 - In Progress - Assignments
-- [CS120x Distributed Machine Learning with Apache Spark](https://courses.edx.org/courses/course-v1:BerkeleyX+CS120x+2T2016) by BerkeleyX on edX - Labs 1,2,3
-- [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html) by Stanford - Week 0
-- *[Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing) by University of Michigan on Coursera - Week 2/12 - In Progress
-- [Product Design: The Delft Design Approach](https://www.edx.org/course/product-design-delft-design-approach-delftx-dda691x-0) by TUDelft on edX - Week 1 - 1b Lecture
-- [Introduction to Cloud Infrastructure Technologies - LFS151x](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!) by The Linux Foundation on edX - Week 0
-- *[Introduction to Recommender Systems](https://www.coursera.org/learn/recommender-systems) by University of Minnesota on Coursera - Week 0
-- [Knowledge-Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) by Udacity - Week 1/26
-- *[Text Mining and Analytics](https://www.coursera.org/specializations/data-mining) by University of Illinois at Urbana-Champaign on Coursera - Week 0
-- [CS229 Machine Learning](http://cs229.stanford.edu/materials.html) by Stanford - Week 0
-
-
-###### Aug:
-
-- [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) by Coursera
-- [Probability and Statistics](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about)
-- [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)
-- [Natural Language Processing](https://www.coursera.org/course/nlp) by Stanford.
-- [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) by Stanford
-- [Build Intelligent Applications](https://www.coursera.org/specializations/machine-learning)
-
-- [Developing Scalable Apps in Python with Google App Engine](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858) by Udacity.
-
-###### Books:
-
-- [Intermediate Python](https://leanpub.com/intermediatepython) by Obi Ike-Nwosu - 31 of 174
-- [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) by CLRS - 0 of 1313
-- [Data Structures and Algorithms with Python]() by Lee & Hubbard - 81 of 369
-- [Docker Up and Running](http://shop.oreilly.com/product/0636920036142.do) - Page 125 of 222 - Ch.7 : The Path to Production Containers
-- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-- Head First Statistics - Page 502 of 717
-- Head First Java - 223 of 690
-- Git Pro - Chapter 3
-
-
-###### SQL
-1. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197) by Udacity
+------------------------------------------------------------------------------------------------------------------------------
 
 ## 2017
+
+
+
 
 ## 2016
 
