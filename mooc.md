@@ -10,7 +10,7 @@ image: /assets/images/books_background.jpg
 #### Currently Learning: 
 
 - [Startup School - How to Start a Startup - CS183F](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY) - Video 5
-- [DelftX: MathMod1x Mathematical Modelling Basics](https://www.edx.org/course/mathematical-modeling-basics-delftx-mathmod1x#!) on edX - Week 1 - Practice Problem 1.5
+- [DelftX: MathMod1x Mathematical Modelling Basics](https://www.edx.org/course/mathematical-modeling-basics-delftx-mathmod1x#!) on edX - Week 1 - Complete
 
 
 - Programming Hive - 137 of 350
