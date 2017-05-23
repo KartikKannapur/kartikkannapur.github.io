@@ -12,8 +12,9 @@ image: /assets/images/books_background.jpg
 - [Startup School - How to Start a Startup - CS183F](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY) - Video 5
 - [DelftX: MathMod1x Mathematical Modelling Basics](https://www.edx.org/course/mathematical-modeling-basics-delftx-mathmod1x#!) by TU Delft on edX - Week 1 - Complete
 - [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX - Chapter 7
-- [STAT 100: Statistical Concepts and Reasoning](https://onlinecourses.science.psu.edu/statprogram/stat100) by Penn State - Lesson 10
+- [STAT 200: Elementary Statistics](https://onlinecourses.science.psu.edu/statprogram/stat200) by Penn State - Lesson 0
 
+- [Analyzing Big Data With Twitter](https://www.youtube.com/playlist?list=PLE8C1256A28C1487F) by UC Berkeley - School of Information - Lecture 2 of 16 - Yet to Start
 
 - Programming Hive - 137 of 350
 
@@ -25,6 +26,7 @@ image: /assets/images/books_background.jpg
 
 ## 2017
 
+- [STAT 100: Statistical Concepts and Reasoning](https://onlinecourses.science.psu.edu/statprogram/stat100) by Penn State
 
 
 
