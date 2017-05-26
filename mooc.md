@@ -16,9 +16,9 @@ image: /assets/images/books_background.jpg
 
 - [Analyzing Big Data With Twitter](https://www.youtube.com/playlist?list=PLE8C1256A28C1487F) by UC Berkeley - School of Information - Lecture 2 of 16 - Yet to Start
 - [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) by Prof. Joe Blitzstein, Harvard - Lecture 2 of 34 - Yet to Start
+- [An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) by University of Zurich on Coursera - Week 1- Yet to Start
 
-- A First Course in Probability by Sheldon Ross - Page 0 of 545
-
+- A First Course in Probability by Sheldon Ross - Page 24 of 545 - 1.5 Multinomial Coefficients
 - Programming Hive - 137 of 350
 
 
