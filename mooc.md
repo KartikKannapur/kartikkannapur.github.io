@@ -19,7 +19,7 @@ image: /assets/images/books_background.jpg
 - [An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) by University of Zurich on Coursera - Week 1- Yet to Start
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew NG on Coursera - Week 0
 
-- A First Course in Probability by Sheldon Ross - Page 31 of 545 - Problems No. 19
+- A First Course in Probability by Sheldon Ross - Page 31 of 545 - Problems No. 28
 - Programming Hive - 137 of 350
 
 
