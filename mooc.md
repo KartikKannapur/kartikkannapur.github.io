@@ -20,7 +20,7 @@ image: /assets/images/books_background.jpg
 
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew NG on Coursera - Week 1 - Model and Cost Function Intuition 1
 
-- A First Course in Probability by Sheldon Ross - Page 65 of 545 - Chapter 2 - Problem Set 1
+- A First Course in Probability by Sheldon Ross - Page 65 of 545 - Chapter 2 - Problem Number 8
 - Programming Hive - 137 of 350
 
 
