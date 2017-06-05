@@ -18,7 +18,7 @@ image: /assets/images/books_background.jpg
 - [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) by Prof. Joe Blitzstein, Harvard - Lecture 4 of 34 - Yet to Start + Assignment 1 - Complete
 - [An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) by University of Zurich on Coursera - Week 2 - Yet to Start Deadline: Jul 9th
 
-- A First Course in Probability by Sheldon Ross - Page 65 of 545 - Chapter 2 - Problem Number 48
+- A First Course in Probability by Sheldon Ross - Page 65 of 545 - Chapter 2 - Theoretical Questions
 - Programming Hive - 137 of 350
 
 
