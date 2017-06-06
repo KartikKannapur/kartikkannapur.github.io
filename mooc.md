@@ -21,7 +21,7 @@ image: /assets/images/books_background.jpg
 - A First Course in Probability by Sheldon Ross - Page 65 of 545 - Chapter 2 - Theoretical Questions - 6
 - Programming Hive - 137 of 350
 
-- [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) by Johns Hopkins University - Week 0
+- [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) by Johns Hopkins University - Week 2 - Introduction to Git and Github
 
 
 
