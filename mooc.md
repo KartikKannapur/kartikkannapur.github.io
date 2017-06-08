@@ -21,8 +21,6 @@ image: /assets/images/books_background.jpg
 - A First Course in Probability by Sheldon Ross - Page 87 of 545 - Chapter 3 - Example 3i
 - Programming Hive - 137 of 350
 
-- [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) by Johns Hopkins University - Week 4  Project - Yet to begin
-
 
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -30,7 +28,7 @@ image: /assets/images/books_background.jpg
 ## 2017
 
 - [STAT 100: Statistical Concepts and Reasoning](https://onlinecourses.science.psu.edu/statprogram/stat100) by Penn State
-
+- [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) by Johns Hopkins University
 
 
 ## 2016
