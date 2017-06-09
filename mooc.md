@@ -15,10 +15,13 @@ image: /assets/images/books_background.jpg
 - [STAT 200: Elementary Statistics](https://onlinecourses.science.psu.edu/statprogram/stat200) by Penn State - Lesson 7.2.1
 
 - [Analyzing Big Data With Twitter](https://www.youtube.com/playlist?list=PLE8C1256A28C1487F) by UC Berkeley - School of Information - Lecture 2 of 16 - Yet to Start
-- [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) by Prof. Joe Blitzstein, Harvard - Lecture 6 of 34 - Yet to Start + Assignment 1 - Complete
-- [An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) by University of Zurich on Coursera - Week 2 - In Progress
 
+
+- [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) by Prof. Joe Blitzstein, Harvard - Lecture 6 of 34 - Yet to Start + Assignment 1 - Complete
+- [An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) by University of Zurich on Coursera - Week 3 - Yet to Start - Deadline - June 16th
 - A First Course in Probability by Sheldon Ross - Page 97 of 545 - Chapter 3 - Example 4f
+
+
 - Programming Hive - 137 of 350
 
 
