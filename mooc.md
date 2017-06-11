@@ -26,8 +26,8 @@ image: /assets/images/books_background.jpg
 
 
 
-- [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University - Week 0
-- [R Programming for Data Science](https://leanpub.com/rprogramming) - Page 0 of 182
+- [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University - Week 1 - Data Types: Missing Values
+- [R Programming for Data Science](https://leanpub.com/rprogramming) - Page 28 of 182 - 5.12 Missing Values
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## 2017
