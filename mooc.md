@@ -24,8 +24,10 @@ image: /assets/images/books_background.jpg
 - Python for Data Analysis by Wes McKinney, published by O'Reilly Media - Page 0 of 470
 - Programming Hive - 137 of 350
 
-- [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University - Week 0
 
+
+- [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University - Week 0
+- [R Programming for Data Science](https://leanpub.com/rprogramming) - Page 0 of 182
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## 2017
