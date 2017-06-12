@@ -21,7 +21,9 @@ image: /assets/images/books_background.jpg
 - [An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) by University of Zurich on Coursera - Week 3 - Yet to Start - Deadline - June 16th
 - A First Course in Probability by Sheldon Ross - Page 97 of 545 - Chapter 3 - Example 4k
 
-- Python for Data Analysis by Wes McKinney, published by O'Reilly Media - Page 0 of 470
+
+
+- Python for Data Analysis by Wes McKinney, published by O'Reilly Media - Page 33 of 470
 - Programming Hive - 137 of 350
 
 
