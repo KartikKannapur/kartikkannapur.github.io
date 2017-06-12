@@ -23,7 +23,7 @@ image: /assets/images/books_background.jpg
 
 
 
-- Python for Data Analysis by Wes McKinney, published by O'Reilly Media - Page 33 of 470
+- Python for Data Analysis by Wes McKinney, published by O'Reilly Media - Page 68 of 470
 - Programming Hive - 137 of 350
 
 
