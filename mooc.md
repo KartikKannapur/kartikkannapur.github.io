@@ -28,7 +28,7 @@ image: /assets/images/books_background.jpg
 
 
 
-- [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University - Week 1 - Quiz
+- [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University - Week 1 - Practical R Exercises with Swirl
 - [R Programming for Data Science](https://leanpub.com/rprogramming) - Page 57 of 182 - Dates and Times
 ------------------------------------------------------------------------------------------------------------------------------
 
