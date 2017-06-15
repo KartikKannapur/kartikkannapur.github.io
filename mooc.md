@@ -13,7 +13,6 @@ image: /assets/images/books_background.jpg
 - [DelftX: MathMod1x Mathematical Modelling Basics](https://www.edx.org/course/mathematical-modeling-basics-delftx-mathmod1x#!) by TU Delft on edX - Week 1 - Complete
 - [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX - Chapter 8
 - [STAT 200: Elementary Statistics](https://onlinecourses.science.psu.edu/statprogram/stat200) by Penn State - Lesson 7.2.1
-
 - [Analyzing Big Data With Twitter](https://www.youtube.com/playlist?list=PLE8C1256A28C1487F) by UC Berkeley - School of Information - Lecture 2 of 16 - Yet to Start
 
 
@@ -30,6 +29,9 @@ image: /assets/images/books_background.jpg
 
 - [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University - Week 1 - Practical R Exercises with Swirl
 - [R Programming for Data Science](https://leanpub.com/rprogramming) - Page 57 of 182 - Dates and Times
+
+
+- Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 0 of 770
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## 2017
