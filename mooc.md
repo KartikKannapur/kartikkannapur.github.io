@@ -31,7 +31,7 @@ image: /assets/images/books_background.jpg
 - [R Programming for Data Science](https://leanpub.com/rprogramming) - Page 57 of 182 - Dates and Times
 
 
-- Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 0 of 770
+- Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 28 of 770
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## 2017
