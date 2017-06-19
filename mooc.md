@@ -31,7 +31,7 @@ image: /assets/images/books_background.jpg
 - [R Programming for Data Science](https://leanpub.com/rprogramming) - Page 57 of 182 - Dates and Times
 - [Swirl R Programming](http://swirlstats.com/) - Lesson 8 of 15 - Yet to Start
 
-- Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 53 of 770
+- Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 79 of 770
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## 2017
