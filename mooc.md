@@ -15,7 +15,6 @@ image: /assets/images/books_background.jpg
 
 - [Analyzing Big Data With Twitter](https://www.youtube.com/playlist?list=PLE8C1256A28C1487F) by UC Berkeley - School of Information - Lecture 2 of 16 - Yet to Start
 
-- [STAT 414: Intro Probability Theory](https://onlinecourses.science.psu.edu/stat414/) by Penn State
 - [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) by Prof. Joe Blitzstein, Harvard - Lecture 6 of 34 - Yet to Start + Assignment 1 - Complete
 - [An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) by University of Zurich on Coursera - Week 4 - Yet to Start - Deadline - July 23rd
 - A First Course in Probability by Sheldon Ross - Page 97 of 545 - Chapter 3 - Example 4k
@@ -32,12 +31,17 @@ image: /assets/images/books_background.jpg
 - [Swirl R Programming](http://swirlstats.com/) - Lesson 8 of 15 - Yet to Start
 
 - Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 79 of 770
+
+
+
+- [STAT 415: Intro Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/node/213) by Penn State
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## 2017
 
 - [STAT 100: Statistical Concepts and Reasoning](https://onlinecourses.science.psu.edu/statprogram/stat100) by Penn State
 - [STAT 200: Elementary Statistics](https://onlinecourses.science.psu.edu/statprogram/stat200) by Penn State
+- [STAT 414: Intro Probability Theory](https://onlinecourses.science.psu.edu/stat414/) by Penn State
 - [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) by Johns Hopkins University
 
 
