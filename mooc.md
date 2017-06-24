@@ -26,7 +26,7 @@ image: /assets/images/books_background.jpg
 
 
 
-- [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University - Week 2 - Yet to Start
+- [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University - Week 2 - In Progress
 - [R Programming for Data Science](https://leanpub.com/rprogramming) - Page 57 of 182 - Dates and Times
 - [Swirl R Programming](http://swirlstats.com/) - Lesson 8 of 15 - Yet to Start
 
