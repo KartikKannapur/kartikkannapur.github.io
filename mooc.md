@@ -9,7 +9,7 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning: 
 
-- [Startup School - How to Start a Startup - CS183F](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY) - How to think about PR - In Progress
+
 - [DelftX: MathMod1x Mathematical Modelling Basics](https://www.edx.org/course/mathematical-modeling-basics-delftx-mathmod1x#!) by TU Delft on edX - Week 1 - Complete
 - [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX - Chapter 8
 
@@ -43,6 +43,7 @@ image: /assets/images/books_background.jpg
 - [STAT 200: Elementary Statistics](https://onlinecourses.science.psu.edu/statprogram/stat200) by Penn State
 - [STAT 414: Intro Probability Theory](https://onlinecourses.science.psu.edu/stat414/) by Penn State
 - [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) by Johns Hopkins University
+- [Startup School - How to Start a Startup - CS183F](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY)
 
 
 ## 2016
