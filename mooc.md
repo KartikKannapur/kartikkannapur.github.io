@@ -26,8 +26,8 @@ image: /assets/images/books_background.jpg
 
 
 
-- [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University - Week 2 - In Progress - Scoping Rules
-- [R Programming for Data Science](https://leanpub.com/rprogramming) - Page 91 of 182
+- [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University - Week 2 - In Progress - Swirl Exercises
+- [R Programming for Data Science](https://leanpub.com/rprogramming) - Page 103 of 182
 - [Swirl R Programming](http://swirlstats.com/) - Lesson 8 of 15 - Yet to Start
 
 - Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 79 of 770
