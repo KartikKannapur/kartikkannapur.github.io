@@ -10,7 +10,6 @@ image: /assets/images/books_background.jpg
 #### Currently Learning: 
 
 
-- [DelftX: MathMod1x Mathematical Modelling Basics](https://www.edx.org/course/mathematical-modeling-basics-delftx-mathmod1x#!) by TU Delft on edX - Week 1 - Complete
 - [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX - Chapter 8
 
 - [Analyzing Big Data With Twitter](https://www.youtube.com/playlist?list=PLE8C1256A28C1487F) by UC Berkeley - School of Information - Lecture 2 of 16 - Yet to Start
@@ -28,7 +27,7 @@ image: /assets/images/books_background.jpg
 
 - [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University - Week 2 - In Progress - Swirl Exercises
 - [R Programming for Data Science](https://leanpub.com/rprogramming) - Page 103 of 182
-- [Swirl R Programming](http://swirlstats.com/) - Lesson 8 of 15 - Yet to Start
+
 
 - Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 79 of 770
 
@@ -43,6 +42,7 @@ image: /assets/images/books_background.jpg
 - [STAT 200: Elementary Statistics](https://onlinecourses.science.psu.edu/statprogram/stat200) by Penn State
 - [STAT 414: Intro Probability Theory](https://onlinecourses.science.psu.edu/stat414/) by Penn State
 - [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) by Johns Hopkins University
+- [Swirl R Programming](http://swirlstats.com/)
 - [Startup School - How to Start a Startup - CS183F](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY)
 
 
