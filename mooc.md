@@ -25,8 +25,8 @@ image: /assets/images/books_background.jpg
 
 
 
-- [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University - Week 2 - In Progress - Swirl Exercises
-- [R Programming for Data Science](https://leanpub.com/rprogramming) - Page 103 of 182
+- [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University - Week 4 - Yet to Start
+- [R Programming for Data Science](https://leanpub.com/rprogramming) - Page 121 of 182
 
 
 - Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 96 of 770
