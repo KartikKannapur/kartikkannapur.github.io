@@ -29,7 +29,7 @@ image: /assets/images/books_background.jpg
 - [R Programming for Data Science](https://leanpub.com/rprogramming) - Page 103 of 182
 
 
-- Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 79 of 770
+- Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 96 of 770
 
 
 
