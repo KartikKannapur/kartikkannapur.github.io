@@ -25,7 +25,7 @@ image: /assets/images/books_background.jpg
 
 
 
-- Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 115 of 770
+- Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 118 of 770
 
 
 
