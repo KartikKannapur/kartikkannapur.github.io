@@ -25,10 +25,6 @@ image: /assets/images/books_background.jpg
 
 
 
-- [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University - Week 4 - Yet to Start
-- [R Programming for Data Science](https://leanpub.com/rprogramming) - Page 121 of 182
-
-
 - Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 115 of 770
 
 
@@ -38,18 +34,25 @@ image: /assets/images/books_background.jpg
 
 ## 2017
 
+###### MOOC:
 - [STAT 100: Statistical Concepts and Reasoning](https://onlinecourses.science.psu.edu/statprogram/stat100) by Penn State
 - [STAT 200: Elementary Statistics](https://onlinecourses.science.psu.edu/statprogram/stat200) by Penn State
 - [STAT 414: Intro Probability Theory](https://onlinecourses.science.psu.edu/stat414/) by Penn State
 - [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) by Johns Hopkins University
+- [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University
 - [Swirl R Programming](http://swirlstats.com/)
 - [Startup School - How to Start a Startup - CS183F](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY)
+
+###### Books:
+- [R Programming for Data Science](https://leanpub.com/rprogramming)
+
+
+
 
 
 ## 2016
 
 ###### MOOC:
-
 - [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) by Johns Hopkins University on Coursera
 - [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MITx on edX
 - [CS105x Introduction to Apache Spark](https://courses.edx.org/courses/course-v1:BerkeleyX+CS105x+1T2016) by BerkeleyX on edX
@@ -63,7 +66,6 @@ image: /assets/images/books_background.jpg
 - [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) by Khan Academy
 - [MIT Launch X – Becoming an Entrepreneur](https://www.edx.org/course/becoming-entrepreneur-mitx-launch-x) by edX
 - [MongoDB for Python Developers](https://university.mongodb.com/courses/M101P/about) by MongoDB University | [Certificate](https://github.com/KartikKannapur/kartikkannapur.github.io/blob/master/mooc_certificates/MongoDB_M101P_Certificate.pdf)
-
 
 ###### Books:
 - Learning R
