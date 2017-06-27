@@ -41,7 +41,7 @@ image: /assets/images/books_background.jpg
 - [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) by Johns Hopkins University
 - [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University
 - [Swirl R Programming](http://swirlstats.com/)
-- [Startup School - How to Start a Startup - CS183F](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY)
+- [Startup School - How to Start a Startup - CS183F](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY) by Y Combinator
 
 ###### Books:
 - [R Programming for Data Science](https://leanpub.com/rprogramming)
