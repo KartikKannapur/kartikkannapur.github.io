@@ -27,6 +27,7 @@ image: /assets/images/books_background.jpg
 
 - Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 118 of 770
 
+- [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning/) by Johns Hopkins University - Week 0
 
 
 - [STAT 415: Intro Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/node/213) by Penn State
