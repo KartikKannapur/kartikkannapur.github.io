@@ -14,16 +14,8 @@ image: /assets/images/books_background.jpg
 
 - [Analyzing Big Data With Twitter](https://www.youtube.com/playlist?list=PLE8C1256A28C1487F) by UC Berkeley - School of Information - Lecture 2 of 16 - Yet to Start
 
-- [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) by Prof. Joe Blitzstein, Harvard - Lecture 6 of 34 - Yet to Start + Assignment 1 - Complete
-- [An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) by University of Zurich on Coursera - Week 4 - Yet to Start - Deadline - July 23rd
-- A First Course in Probability by Sheldon Ross - Page 97 of 545 - Chapter 3 - Example 4k
-
-
 
 - Python for Data Analysis by Wes McKinney, published by O'Reilly Media - Page 95 of 470 - Chapter 4 - NumPy
-- Programming Hive - 137 of 350
-
-
 
 - Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 118 of 770
 
@@ -31,6 +23,12 @@ image: /assets/images/books_background.jpg
 
 
 - [STAT 415: Intro Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/node/213) by Penn State
+
+
+
+- Programming Hive - 137 of 350
+- [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) by Prof. Joe Blitzstein, Harvard - Lecture 6 of 34 - Yet to Start + Assignment 1 - Complete
+- A First Course in Probability by Sheldon Ross - Page 97 of 545 - Chapter 3 - Example 4k
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## 2017
@@ -43,6 +41,7 @@ image: /assets/images/books_background.jpg
 - [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University
 - [Swirl R Programming](http://swirlstats.com/)
 - [Startup School - How to Start a Startup - CS183F](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY) by Y Combinator
+- [An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) by University of Zurich on Coursera
 
 ###### Books:
 - [R Programming for Data Science](https://leanpub.com/rprogramming)
