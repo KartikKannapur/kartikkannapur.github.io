@@ -30,7 +30,7 @@ image: /assets/images/books_background.jpg
 
 - [STAT 415: Intro Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/node/213) by Penn State
 
-
+- [Financial Markets](https://www.coursera.org/learn/financial-markets-global) by Yale University on Coursera - Starts July 31 2017
 
 - Programming Hive - 137 of 350
 - [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) by Prof. Joe Blitzstein, Harvard - Lecture 6 of 34 - Yet to Start + Assignment 1 - Complete
