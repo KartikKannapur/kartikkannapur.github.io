@@ -12,9 +12,6 @@ image: /assets/images/books_background.jpg
 
 - [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX - Chapter 8
 
-- [Analyzing Big Data With Twitter](https://www.youtube.com/playlist?list=PLE8C1256A28C1487F) by UC Berkeley - School of Information - Lecture 3 of 16 - Yet to Start
-
-
 - Python for Data Analysis by Wes McKinney, published by O'Reilly Media - Page 95 of 470 - Chapter 4 - NumPy
 
 - Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 118 of 770
@@ -30,7 +27,12 @@ image: /assets/images/books_background.jpg
 
 - [STAT 415: Intro Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/node/213) by Penn State
 
+
+
+- [The Zen of Saving](https://app.novoed.com/zen-of-saving-1) - Week 0 - Deadline July 23
 - [Financial Markets](https://www.coursera.org/learn/financial-markets-global) by Yale University on Coursera - Starts July 31 2017
+
+
 
 - Programming Hive - 137 of 350
 - [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) by Prof. Joe Blitzstein, Harvard - Lecture 6 of 34 - Yet to Start + Assignment 1 - Complete
@@ -48,6 +50,7 @@ image: /assets/images/books_background.jpg
 - [Swirl R Programming](http://swirlstats.com/)
 - [Startup School - How to Start a Startup - CS183F](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY) by Y Combinator
 - [An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) by University of Zurich on Coursera
+- [Analyzing Big Data With Twitter](https://www.youtube.com/playlist?list=PLE8C1256A28C1487F) by UC Berkeley - School of Information
 
 ###### Books:
 - [R Programming for Data Science](https://leanpub.com/rprogramming)
