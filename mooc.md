@@ -24,6 +24,8 @@ image: /assets/images/books_background.jpg
 - [MIT 18.06SC Linear Algebra Recitations](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) by Gilbert Strang - Lecture 3 of 37 - Yet to Start
 - Linear Algebra and its Applications, Fourth Edition - Gilbert Strang - Page 76 of 544 - Special Matrices and Applications
 
+- [Coding the Matrix](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/)
+- [Numerical Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
 
 - [STAT 415: Intro Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/node/213) by Penn State
 
