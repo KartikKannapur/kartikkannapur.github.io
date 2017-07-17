@@ -20,7 +20,7 @@ image: /assets/images/books_background.jpg
 
 
 
-- [MIT 18.06 Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) by Gilbert Strang  - Lecture 6 of 34 - Yet to Start
+- [MIT 18.06 Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) by Gilbert Strang  - Lecture 7 of 34 - Yet to Start
 - [MIT 18.06SC Linear Algebra Recitations](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) by Gilbert Strang - Lecture 3 of 37 - Yet to Start
 - Linear Algebra and its Applications, Fourth Edition - Gilbert Strang - Page 93 of 544 - Problem Set 2.1 Q8
 
