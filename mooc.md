@@ -39,6 +39,9 @@ image: /assets/images/books_background.jpg
 - Programming Hive - 137 of 350
 - [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) by Prof. Joe Blitzstein, Harvard - Lecture 6 of 34 - Yet to Start + Assignment 1 - Complete
 - A First Course in Probability by Sheldon Ross - Page 97 of 545 - Chapter 3 - Example 4k
+
+- [Valuation](https://www.youtube.com/playlist?list=PLUkh9m2BorqkNzSSPrCDkO2jlufVCinVw) by Aswath Damodaran
+- [Valuation Tools Webcasts](https://www.youtube.com/playlist?list=PLUkh9m2BorqmRAGzJb5OIvTAKZZu9HWF-) by Aswath Damodaran
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## 2017
