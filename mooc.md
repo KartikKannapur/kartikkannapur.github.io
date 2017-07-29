@@ -26,9 +26,13 @@ image: /assets/images/books_background.jpg
 
 - [Coding the Matrix](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/)
 - [Numerical Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
+- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington
+
+
+
 
 - [STAT 415: Intro Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/node/213) by Penn State
-
+- [Advanced Linear Models for Data Science 1: Least Squares](https://www.coursera.org/learn/linear-models) by Johns Hopkins University
 
 
 - [The Zen of Saving](https://app.novoed.com/zen-of-saving-1) - Week 2 - Yet to Start
