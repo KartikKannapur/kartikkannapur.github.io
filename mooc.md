@@ -35,7 +35,7 @@ image: /assets/images/books_background.jpg
 - [Advanced Linear Models for Data Science 1: Least Squares](https://www.coursera.org/learn/linear-models) by Johns Hopkins University
 
 
-- [The Zen of Saving](https://app.novoed.com/zen-of-saving-1) - Week 2 - Yet to Start
+- [The Zen of Saving](https://app.novoed.com/zen-of-saving-1) - Week 3 - Yet to Start
 - [Financial Markets](https://www.coursera.org/learn/financial-markets-global) by Yale University on Coursera - Starts July 31 2017
 
 
