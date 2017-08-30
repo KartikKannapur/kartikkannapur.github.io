@@ -10,6 +10,11 @@ image: /assets/images/books_background.jpg
 #### Currently Learning: 
 
 
+- Single and Multivariate Calculus by Hughes-Hallett Gleason McCallum et al - Page 1 of 1244
+
+- [MIT OCW Single Variable Calculus 18.01](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) - Video 1 of 39
+-----------------------------------------------------------------------------------------------------------------------------
+
 - [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX - Chapter 8
 
 - Python for Data Analysis by Wes McKinney, published by O'Reilly Media - Page 95 of 470 - Chapter 4 - NumPy
