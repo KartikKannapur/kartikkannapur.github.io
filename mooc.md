@@ -13,6 +13,8 @@ image: /assets/images/books_background.jpg
 - Single and Multivariate Calculus by Hughes-Hallett Gleason McCallum et al - Page 95 of 1244 - Chapter 2
 
 - [MIT OCW Single Variable Calculus 18.01](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) - Video 1 of 39
+
+- [Machine Learning](http://www.cs.cmu.edu/~ninamf/courses/601sp15/index.html) by Tom Mitchell and Maria-Florina Balcan from CMU
 -----------------------------------------------------------------------------------------------------------------------------
 
 - [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX - Chapter 8
