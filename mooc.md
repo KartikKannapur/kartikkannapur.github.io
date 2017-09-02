@@ -14,7 +14,9 @@ image: /assets/images/books_background.jpg
 
 - [MIT OCW Single Variable Calculus 18.01](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) - Video 3 of 39
 
-- [Machine Learning](http://www.cs.cmu.edu/~ninamf/courses/601sp15/index.html) by Tom Mitchell and Maria-Florina Balcan from CMU
+- [Machine Learning](http://www.cs.cmu.edu/~ninamf/courses/601sp15/index.html) by Tom Mitchell and Maria-Florina Balcan from CMU - Lecture 1 - 47:00 Mins
+
+- Book: Machine Learning by Tom Mitchell - Page 32 of 421
 -----------------------------------------------------------------------------------------------------------------------------
 
 - [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX - Chapter 8
