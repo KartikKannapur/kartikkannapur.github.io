@@ -10,7 +10,7 @@ image: /assets/images/books_background.jpg
 #### Currently Learning: 
 
 
-- Single and Multivariate Calculus by Hughes-Hallett Gleason McCallum et al - Page 120 of 1244 - Chapter 2
+- Single and Multivariate Calculus by Hughes-Hallett Gleason McCallum et al - Page 143 of 1244 - Chapter 3
 
 - [MIT OCW Single Variable Calculus 18.01](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) - Video 3 of 39
 
