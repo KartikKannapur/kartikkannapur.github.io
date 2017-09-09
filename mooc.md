@@ -18,7 +18,7 @@ image: /assets/images/books_background.jpg
 
 - Book: Machine Learning by Tom Mitchell - Page 32 of 421
 
-- [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) by Prof. Joe Blitzstein, Harvard - 6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34
+- [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) by Prof. Joe Blitzstein, Harvard - 6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34
 
 - A First Course in Probability by Sheldon Ross - Page 97 of 545 - Chapter 3 - Example 4k
 -----------------------------------------------------------------------------------------------------------------------------
