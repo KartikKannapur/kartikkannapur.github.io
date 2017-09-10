@@ -14,8 +14,6 @@ image: /assets/images/books_background.jpg
 
 - [MIT OCW Single Variable Calculus 18.01](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) - Lecture 9 of 39
 
-- [Machine Learning](http://www.cs.cmu.edu/~ninamf/courses/601sp15/index.html) by Tom Mitchell and Maria-Florina Balcan from CMU - Lecture 1 - 47:00 Mins
-
 - Book: Machine Learning by Tom Mitchell - Page 32 of 421
 
 - [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) by Prof. Joe Blitzstein, Harvard - 6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34
