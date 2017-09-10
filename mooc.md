@@ -19,6 +19,9 @@ image: /assets/images/books_background.jpg
 - [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) by Prof. Joe Blitzstein, Harvard - 6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34
 
 - A First Course in Probability by Sheldon Ross - Page 97 of 545 - Chapter 3 - Example 4k
+
+
+- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington - Week 1 - Regression Fundamentals
 -----------------------------------------------------------------------------------------------------------------------------
 
 - [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX - Chapter 8
@@ -37,7 +40,6 @@ image: /assets/images/books_background.jpg
 
 - [Coding the Matrix](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/)
 - [Numerical Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
-- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington
 
 
 
