@@ -21,7 +21,7 @@ image: /assets/images/books_background.jpg
 - A First Course in Probability by Sheldon Ross - Page 27 of 545 - Chapter 1 - Self Test Problems || Chapter 2 - Page 59 & Problem Set - Q17 (Questions from 38 are complete except - 40, 53, 54, 56)
 
 
-- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington - Week 1 - Simple Linear Regression Model
+- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington - Week 1 - Optimization Multidimensional Objectives
 -----------------------------------------------------------------------------------------------------------------------------
 
 - [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX - Chapter 8
