@@ -21,7 +21,7 @@ image: /assets/images/books_background.jpg
 - A First Course in Probability by Sheldon Ross - Page 27 of 545 - Chapter 1 - Self Test Problems || Chapter 2 - Page 59 & Problem Set - Q17 (Questions from 38 are complete except - 40, 53, 54, 56) || Chapter 3 - Yet to Start || Chapter 4 - Example 1d
 
 
-- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington - Week 1 - Optimization Multidimensional Objectives
+- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington - Week 1 - Discussion and Summary of Simple Linear Regression
 -----------------------------------------------------------------------------------------------------------------------------
 
 - [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX - Chapter 8
@@ -44,7 +44,6 @@ image: /assets/images/books_background.jpg
 
 
 
-- [STAT 415: Intro Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/node/213) by Penn State
 - [Advanced Linear Models for Data Science 1: Least Squares](https://www.coursera.org/learn/linear-models) by Johns Hopkins University
 
 
@@ -65,6 +64,7 @@ image: /assets/images/books_background.jpg
 - [STAT 100: Statistical Concepts and Reasoning](https://onlinecourses.science.psu.edu/statprogram/stat100) by Penn State
 - [STAT 200: Elementary Statistics](https://onlinecourses.science.psu.edu/statprogram/stat200) by Penn State
 - [STAT 414: Intro Probability Theory](https://onlinecourses.science.psu.edu/stat414/) by Penn State
+- [STAT 415: Intro Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/node/213) by Penn State
 - [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) by Johns Hopkins University
 - [R Programming](https://www.coursera.org/learn/r-programming) by Johns Hopkins University
 - [Swirl R Programming](http://swirlstats.com/)
