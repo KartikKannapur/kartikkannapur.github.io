@@ -22,6 +22,8 @@ image: /assets/images/books_background.jpg
 
 
 - [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington - Week 1 - Discussion and Summary of Simple Linear Regression
+
+- Cracking the Coding Interview by Gayle Laakmann McDowell, 5th Edition - Page 1 of 510
 -----------------------------------------------------------------------------------------------------------------------------
 
 - [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX - Chapter 8
