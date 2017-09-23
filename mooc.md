@@ -23,6 +23,8 @@ image: /assets/images/books_background.jpg
 
 - [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington - Week 1 - Discussion and Summary of Simple Linear Regression
 
+
+- [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/) by University of California, San Diego & Higher School of Economics - Week 2
 - Cracking the Coding Interview by Gayle Laakmann McDowell, 5th Edition - Page 1 of 510
 -----------------------------------------------------------------------------------------------------------------------------
 
