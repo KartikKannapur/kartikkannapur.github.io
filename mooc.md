@@ -25,7 +25,7 @@ image: /assets/images/books_background.jpg
 
 
 - [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/) by University of California, San Diego & Higher School of Economics - Week 2
-- Cracking the Coding Interview by Gayle Laakmann McDowell, 5th Edition - Page 1 of 510
+- Cracking the Coding Interview by Gayle Laakmann McDowell, 5th Edition - Page 80 of 510
 -----------------------------------------------------------------------------------------------------------------------------
 
 - [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX - Chapter 8
