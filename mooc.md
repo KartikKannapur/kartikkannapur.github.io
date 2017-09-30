@@ -21,7 +21,7 @@ image: /assets/images/books_background.jpg
 - A First Course in Probability by Sheldon Ross - Page 27 of 545 - Chapter 1 - Self Test Problems || Chapter 2 - Page 59 & Problem Set - Q17 (Questions from 38 are complete except - 40, 53, 54, 56) || Chapter 3 - Yet to Start & Problem Set - 3.31|| Chapter 4 - Example 3c Page 127
 
 
-- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington - Week 1 - Discussion and Summary of Simple Linear Regression
+- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington - Week 1 - Programming Assignment
 
 
 - [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/) by University of California, San Diego & Higher School of Economics - Week 2 - Big O Notation
