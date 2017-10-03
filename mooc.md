@@ -21,6 +21,8 @@ image: /assets/images/books_background.jpg
 - A First Course in Probability by Sheldon Ross - Page 27 of 545 - Chapter 1 - Self Test Problems || Chapter 2 - Page 59 & Problem Set - Q17 (Questions from 38 are complete except - 40, 53, 54, 56) || Chapter 3 - Yet to Start & Problem Set - 3.31|| Chapter 4 - Example 3c Page 127
 
 
+- Schaum's Linear Algebra - Page 29 of 432
+
 - [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington - Week 1 - Programming Assignment
 
 
@@ -42,7 +44,7 @@ image: /assets/images/books_background.jpg
 
 - [MIT 18.06 Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) by Gilbert Strang  - Lecture 10 of 34 - Yet to Start
 - [MIT 18.06SC Linear Algebra Recitations](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) by Gilbert Strang - Lecture 3 of 37 - Yet to Start
-- Linear Algebra and its Applications, Fourth Edition - Gilbert Strang - Page 120 of 544
+
 
 - [Coding the Matrix](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/)
 - [Numerical Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
@@ -80,6 +82,7 @@ image: /assets/images/books_background.jpg
 
 ###### Books:
 - [R Programming for Data Science](https://leanpub.com/rprogramming)
+- Linear Algebra and its Applications by Prof. Gilbert Strang, Fourth Edition
 
 
 
