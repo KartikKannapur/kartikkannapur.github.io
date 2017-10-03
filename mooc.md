@@ -21,7 +21,7 @@ image: /assets/images/books_background.jpg
 - A First Course in Probability by Sheldon Ross - Page 27 of 545 - Chapter 1 - Self Test Problems || Chapter 2 - Page 59 & Problem Set - Q17 (Questions from 38 are complete except - 40, 53, 54, 56) || Chapter 3 - Yet to Start & Problem Set - 3.31|| Chapter 4 - Example 3c Page 127
 
 
-- Schaum's Linear Algebra - Page 29 of 432
+- Schaum's Linear Algebra - Page 64 of 432 - Supplementary Problems - Chapter 1 & 2 || Chapter 3 - Complete || Chapter 4 - In Progress
 
 - [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington - Week 1 - Programming Assignment
 
