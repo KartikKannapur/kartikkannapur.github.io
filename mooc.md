@@ -23,7 +23,7 @@ image: /assets/images/books_background.jpg
 
 - Schaum's Linear Algebra - Page 64 of 432 - Supplementary Problems - Chapter 1 & 2 || Chapter 3 - Complete || Chapter 4 - In Progress
 
-- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington - Week 1 - Programming Assignment
+- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington - Week 2 - Computing Least Squares Fit
 
 
 - [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/) by University of California, San Diego & Higher School of Economics - Week 2 - Big O Notation
