@@ -31,6 +31,9 @@ image: /assets/images/books_background.jpg
 - Cracking the Coding Interview by Gayle Laakmann McDowell, 5th Edition - Page 80 of 510
 - The Algorithm Design Manual by Steven Skiena - Page 79 of 739
 - Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 183 of 770 | Chapter 3 - Remaining
+
+
+- [Internals of CPython - Version 1](https://intopython.com/) by Prashanth Raghu - Page 0 of 100
 -----------------------------------------------------------------------------------------------------------------------------
 
 - [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX - Chapter 8
