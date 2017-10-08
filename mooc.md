@@ -23,10 +23,10 @@ image: /assets/images/books_background.jpg
 
 - Schaum's Linear Algebra - Page 64 of 432 - Supplementary Problems - Chapter 1 & 2 || Chapter 3 - Complete || Chapter 4 - In Progress
 
-- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington - Week 2 - Computing Least Squares Fit
+- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington - Week 2 - Quiz and Programming Assignment
 
 
-- [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/) by University of California, San Diego & Higher School of Economics - Week 2 - Big O Notation
+- [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/) by University of California, San Diego & Higher School of Economics - Week 2 - Programming Assignment
 - [CSE373 - Analysis of Algorithms - Stony Brook University](https://www.youtube.com/playlist?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b) - Lecture 4 of 25 - 34:43 mins
 - Cracking the Coding Interview by Gayle Laakmann McDowell, 5th Edition - Page 80 of 510
 - The Algorithm Design Manual by Steven Skiena - Page 79 of 739
