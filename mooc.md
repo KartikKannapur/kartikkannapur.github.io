@@ -12,9 +12,8 @@ image: /assets/images/books_background.jpg
 
 - Single and Multivariate Calculus by Hughes-Hallett Gleason McCallum et al - Page 189 of 1244 - Chapter 3 - Linear Approximation and the Derivative
 
-- [MIT OCW Single Variable Calculus 18.01](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) - Lecture 9 of 39
+- [MIT OCW Single Variable Calculus 18.01](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) - Lecture 5 of 39 - Yet to Start
 
-- Book: Machine Learning by Tom Mitchell - Page 49 of 421
 
 
 - A First Course in Probability by Sheldon Ross - Page 27 of 545 - Chapter 1 - Self Test Problems || Chapter 2 - Page 59 & Problem Set - Q17 (Questions from 38 are complete except - 40, 53, 54, 56) || Chapter 3 - Yet to Start & Problem Set - 3.31|| Chapter 4 - Example 3c Page 127
@@ -31,6 +30,7 @@ image: /assets/images/books_background.jpg
 - The Algorithm Design Manual by Steven Skiena - Page 79 of 739
 - Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 183 of 770 | Chapter 3 - Remaining
 
+- [MIT 15.S50 Poker Theory and Analysis, IAP 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kfOW3zAIfpNhf0piao8oo) - Lecture 2 of 8
 
 - [Internals of CPython - Version 1](https://intopython.com/) by Prashanth Raghu - Page 0 of 100
 -----------------------------------------------------------------------------------------------------------------------------
