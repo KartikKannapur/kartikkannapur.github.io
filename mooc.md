@@ -12,7 +12,7 @@ image: /assets/images/books_background.jpg
 
 - Single and Multivariate Calculus by Hughes-Hallett Gleason McCallum et al - Page 189 of 1244 - Chapter 3 - Linear Approximation and the Derivative
 
-- [MIT OCW Single Variable Calculus 18.01](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) - Lecture 7 of 39 - Yet to Start
+- [MIT OCW Single Variable Calculus 18.01](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) - Lecture 11 of 39 - Yet to Start
 
 
 
