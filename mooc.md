@@ -10,21 +10,8 @@ image: /assets/images/books_background.jpg
 #### Currently Learning: 
 
 
-- Single and Multivariate Calculus by Hughes-Hallett Gleason McCallum et al - Page 189 of 1244 - Chapter 3 - Linear Approximation and the Derivative
-
-- [MIT OCW Single Variable Calculus 18.01](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) - Lecture 11 of 39 - Yet to Start
 
 
-
-- A First Course in Probability by Sheldon Ross - Page 27 of 545 - Chapter 1 - Self Test Problems || Chapter 2 - Page 59 & Problem Set - Q17 (Questions from 38 are complete except - 40, 53, 54, 56) || Chapter 3 - Yet to Start & Problem Set - 3.31|| Chapter 4 - Example 3c Page 127
-
-
-- Schaum's Linear Algebra - Page 64 of 432 - Supplementary Problems - Chapter 1 & 2 || Chapter 3 - Complete || Chapter 4 - In Progress
-
-- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington - Week 2 - Quiz and Programming Assignment
-
-
-- [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/) by University of California, San Diego & Higher School of Economics - Week 2 - Programming Assignment
 - [CSE373 - Analysis of Algorithms - Stony Brook University](https://www.youtube.com/playlist?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b) - Lecture 4 of 25 - 34:43 mins
 - Cracking the Coding Interview by Gayle Laakmann McDowell, 5th Edition - Page 80 of 510
 - The Algorithm Design Manual by Steven Skiena - Page 79 of 739
@@ -39,12 +26,6 @@ image: /assets/images/books_background.jpg
 - Python for Data Analysis by Wes McKinney, published by O'Reilly Media - Page 95 of 470 - Chapter 4 - NumPy
 
 
-- [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning/) by Johns Hopkins University - Week 0
-
-
-
-- [MIT 18.06 Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) by Gilbert Strang  - Lecture 10 of 34 - Yet to Start
-- [MIT 18.06SC Linear Algebra Recitations](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) by Gilbert Strang - Lecture 3 of 37 - Yet to Start
 
 
 - [Coding the Matrix](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/)
@@ -53,15 +34,7 @@ image: /assets/images/books_background.jpg
 
 
 
-- [Advanced Linear Models for Data Science 1: Least Squares](https://www.coursera.org/learn/linear-models) by Johns Hopkins University
 
-
-- [The Zen of Saving](https://app.novoed.com/zen-of-saving-1) - Week 3 - Yet to Start
-- [Financial Markets](https://www.coursera.org/learn/financial-markets-global) by Yale University on Coursera - Starts July 31 2017
-
-
-
-- Programming Hive - 137 of 350
 
 - [Valuation](https://www.youtube.com/playlist?list=PLUkh9m2BorqkNzSSPrCDkO2jlufVCinVw) by Aswath Damodaran
 - [Valuation Tools Webcasts](https://www.youtube.com/playlist?list=PLUkh9m2BorqmRAGzJb5OIvTAKZZu9HWF-) by Aswath Damodaran
@@ -81,11 +54,23 @@ image: /assets/images/books_background.jpg
 - [An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) by University of Zurich on Coursera
 - [Analyzing Big Data With Twitter](https://www.youtube.com/playlist?list=PLE8C1256A28C1487F) by UC Berkeley - School of Information
 - [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) by Prof. Joe Blitzstein, Harvard
+- [MIT OCW Single Variable Calculus 18.01](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)
+- [MIT 18.06 Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) by Gilbert Strang 
+- [MIT 18.06SC Linear Algebra Recitations](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) by Gilbert Strang 
+- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) by University of Washington
+- [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/) by University of California, San Diego & Higher School of Economics
+- [The Zen of Saving](https://app.novoed.com/zen-of-saving-1)
 
 ###### Books:
 - [R Programming for Data Science](https://leanpub.com/rprogramming)
 - Linear Algebra and its Applications by Prof. Gilbert Strang, Fourth Edition
-
+- Support Vector Machine Succinctly by Alexandre Kowalczyk
+- Schaum's Linear Algebra
+- Schaum's Advanced Calculus
+- Single and Multivariate Calculus by Hughes-Hallett Gleason McCallum et al
+- A First Course in Probability by Sheldon Ross
+- Statistics and Data Analysis: From Elementary to Intermediate by Ajit C. Tamhane and Dorothy D. Dunlop
+- Programming Hive
 
 
 
