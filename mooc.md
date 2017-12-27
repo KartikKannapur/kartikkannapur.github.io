@@ -10,7 +10,7 @@ image: /assets/images/books_background.jpg
 #### Currently Learning: 
 
 
-- Introduction to Statistical Learning
+- Introduction to Statistical Learning - Chapter 3 - Page 73 of 440
 
 - [CSE373 - Analysis of Algorithms - Stony Brook University](https://www.youtube.com/playlist?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b) - Lecture 4 of 25 - 34:43 mins
 - Cracking the Coding Interview by Gayle Laakmann McDowell, 5th Edition - Page 80 of 510
