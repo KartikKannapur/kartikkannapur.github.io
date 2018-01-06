@@ -8,7 +8,7 @@ image: /assets/images/books_background.jpg
 # MOOC - Online Course List
 
 #### Currently Learning: 
-- SQL Basics by Vertablo Academy - 3. Querying more than one table - 28/129
+- SQL Basics by Vertablo Academy - 5. More on JOINs - 64/129
 
 - Sams Teach Yourself SQL in 24 Hours - Page 60 of 495 - Chapter 3
 
