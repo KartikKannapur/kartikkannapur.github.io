@@ -10,7 +10,7 @@ image: /assets/images/books_background.jpg
 #### Currently Learning: 
 - SQL Basics by Vertablo Academy - 3. Querying more than one table - 28/129
 
-- Sams Teach Yourself SQL in 24 Hours - Page 1 of 495
+- Sams Teach Yourself SQL in 24 Hours - Page 60 of 495 - Chapter 3
 
 - Introduction to Statistical Learning - Chapter 4 - Page 152 of 440
 
