@@ -14,6 +14,8 @@ image: /assets/images/books_background.jpg
 
 - Introduction to Statistical Learning - Chapter 4 - Page 152 of 440
 
+- Time Series Analysis and Its Applications by Robert H. Shumway • David S. Stoffer - Page 1 of 202
+
 - [CSE373 - Analysis of Algorithms - Stony Brook University](https://www.youtube.com/playlist?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b) - Lecture 4 of 25 - 34:43 mins
 - Cracking the Coding Interview by Gayle Laakmann McDowell, 5th Edition - Page 80 of 510
 - The Algorithm Design Manual by Steven Skiena - Page 79 of 739
