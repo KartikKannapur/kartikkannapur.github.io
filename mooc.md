@@ -44,6 +44,12 @@ image: /assets/images/books_background.jpg
 - [Valuation Tools Webcasts](https://www.youtube.com/playlist?list=PLUkh9m2BorqmRAGzJb5OIvTAKZZu9HWF-) by Aswath Damodaran
 ------------------------------------------------------------------------------------------------------------------------------
 
+## 2018
+###### Books:
+
+###### List of Interesting Papers:
+
+
 ## 2017
 
 ###### MOOC:
