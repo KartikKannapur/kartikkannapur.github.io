@@ -48,7 +48,7 @@ image: /assets/images/books_background.jpg
 ###### Books:
 
 ###### List of Interesting Papers:
-
+1. Bagging Equalizes Influence - Grandvalet, Y. Mach Learn (2004) 55: 251. https://doi.org/10.1023/B:MACH.0000027783.34431.42
 
 ## 2017
 
