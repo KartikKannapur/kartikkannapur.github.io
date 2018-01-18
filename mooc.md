@@ -12,7 +12,7 @@ image: /assets/images/books_background.jpg
 
 - Sams Teach Yourself SQL in 24 Hours - Page 60 of 495 - Chapter 3
 
-- Introduction to Statistical Learning - Chapter 9 - Page 363 of 440
+- Introduction to Statistical Learning - Chapter 10 - Page 387 of 440
 
 - Time Series Analysis and Its Applications by Robert H. Shumway • David S. Stoffer - Page 1 of 202
 
