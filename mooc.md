@@ -12,8 +12,6 @@ image: /assets/images/books_background.jpg
 
 - Sams Teach Yourself SQL in 24 Hours - Page 60 of 495 - Chapter 3
 
-- Introduction to Statistical Learning - Chapter 10 - Page 387 of 440
-
 - Time Series Analysis and Its Applications by Robert H. Shumway • David S. Stoffer - Page 1 of 202
 
 - [CSE373 - Analysis of Algorithms - Stony Brook University](https://www.youtube.com/playlist?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b) - Lecture 4 of 25 - 34:43 mins
@@ -46,6 +44,7 @@ image: /assets/images/books_background.jpg
 
 ## 2018
 ###### Books:
+1. Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 
 ###### List of Interesting Papers:
 1. Bagging Equalizes Influence - Grandvalet, Y. Mach Learn (2004) 55: 251. https://doi.org/10.1023/B:MACH.0000027783.34431.42
