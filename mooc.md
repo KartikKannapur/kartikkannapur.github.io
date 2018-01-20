@@ -10,7 +10,7 @@ image: /assets/images/books_background.jpg
 #### Currently Learning: 
 - SQL Basics by Vertablo Academy - 5. More on JOINs - 64/129
 
-- Sams Teach Yourself SQL in 24 Hours - Page 60 of 495 - Chapter 3
+- Sams Teach Yourself SQL in 24 Hours - Page 106 of 495 - Chapter 6
 
 - Time Series Analysis and Its Applications by Robert H. Shumway • David S. Stoffer - Page 1 of 202
 
