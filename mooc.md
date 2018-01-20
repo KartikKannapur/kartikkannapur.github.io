@@ -7,8 +7,7 @@ image: /assets/images/books_background.jpg
 
 # MOOC - Online Course List
 
-#### Currently Learning: 
-- SQL Basics by Vertablo Academy - 5. More on JOINs - 64/129
+#### Currently Learning:
 
 - Sams Teach Yourself SQL in 24 Hours - Page 106 of 495 - Chapter 6
 
@@ -43,6 +42,13 @@ image: /assets/images/books_background.jpg
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## 2018
+
+###### MOOCS:
+1. SQL Basics by Vertablo Academy
+2. Operating on Data in SQL by Vertablo Academy
+3. Creating Tables in SQL by Vertablo Academy
+
+
 ###### Books:
 1. Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 
