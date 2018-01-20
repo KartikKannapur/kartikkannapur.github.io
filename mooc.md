@@ -9,7 +9,7 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning:
 
-- Sams Teach Yourself SQL in 24 Hours - Page 106 of 495 - Chapter 6
+- Sams Teach Yourself SQL in 24 Hours - Page 136 of 495 - Chapter 8
 
 - Time Series Analysis and Its Applications by Robert H. Shumway • David S. Stoffer - Page 1 of 202
 
