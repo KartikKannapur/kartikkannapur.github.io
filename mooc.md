@@ -54,6 +54,7 @@ image: /assets/images/books_background.jpg
 
 ###### List of Interesting Papers:
 1. Bagging Equalizes Influence - Grandvalet, Y. Mach Learn (2004) 55: 251. https://doi.org/10.1023/B:MACH.0000027783.34431.42
+2. A Few Useful Things to Know about Machine Learning - Pedro Domingos https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
 
 ## 2017
 
