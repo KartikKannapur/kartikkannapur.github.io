@@ -9,7 +9,7 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning:
 
-- Statistical Inference 2nd edition by Casella and Berger - Page 66 of 686 - Exercise Problem 1.13
+- Statistical Inference 2nd edition by Casella and Berger - Page 66 of 686 - Exercise Problem 1.18
 
 - Sams Teach Yourself SQL in 24 Hours - Page 136 of 495 - Chapter 8
 
