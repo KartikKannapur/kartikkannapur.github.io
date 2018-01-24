@@ -9,6 +9,8 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning:
 
+- Statistical Inference 2nd edition by Casella and Berger - Page 40 of 686
+
 - Sams Teach Yourself SQL in 24 Hours - Page 136 of 495 - Chapter 8
 
 - Time Series Analysis and Its Applications by Robert H. Shumway • David S. Stoffer - Page 1 of 202
