@@ -11,6 +11,8 @@ image: /assets/images/books_background.jpg
 
 - Statistical Inference 2nd edition by Casella and Berger - Page 66 of 686 - Exercise Problem 1.18
 
+- Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 31 of 704
+
 - Sams Teach Yourself SQL in 24 Hours - Page 136 of 495 - Chapter 8
 
 - Time Series Analysis and Its Applications by Robert H. Shumway • David S. Stoffer - Page 1 of 202
