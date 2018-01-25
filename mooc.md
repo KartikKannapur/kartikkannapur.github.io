@@ -11,7 +11,7 @@ image: /assets/images/books_background.jpg
 
 - Statistical Inference 2nd edition by Casella and Berger - Page 66 of 686 - Exercise Problem 1.18
 
-- Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 31 of 704
+- Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 37 of 704 - 1.3 - ANOVA
 
 - Sams Teach Yourself SQL in 24 Hours - Page 136 of 495 - Chapter 8
 
