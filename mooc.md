@@ -13,7 +13,7 @@ image: /assets/images/books_background.jpg
 
 - Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 37 of 704 - 1.3 - ANOVA
 
-- Categorical Data Analysis 3rd Edition by Alan Agresti - Page 28 of 742 - Wald and Score Test
+- Categorical Data Analysis 3rd Edition by Alan Agresti - Page 34 of 742 - Mid P-value
 
 - Sams Teach Yourself SQL in 24 Hours - Page 136 of 495 - Chapter 8
 
