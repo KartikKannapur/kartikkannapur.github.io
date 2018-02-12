@@ -26,6 +26,7 @@ image: /assets/images/books_background.jpg
 - The Algorithm Design Manual by Steven Skiena - Page 79 of 739
 - Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 183 of 770 | Chapter 3 - Remaining
 
+- Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce - Page 97 of 317 - Chapter 3
 
 - [Internals of CPython - Version 1](https://intopython.com/) by Prashanth Raghu - Page 0 of 100
 -----------------------------------------------------------------------------------------------------------------------------
