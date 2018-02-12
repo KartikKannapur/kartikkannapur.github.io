@@ -19,6 +19,8 @@ image: /assets/images/books_background.jpg
 
 - Time Series Analysis and Its Applications by Robert H. Shumway • David S. Stoffer - Page 1 of 202
 
+- Neural Networks and Deep Learning by deeplearning.ai on Coursera - Week 1 - Heroes of Deep Learning
+
 - [CSE373 - Analysis of Algorithms - Stony Brook University](https://www.youtube.com/playlist?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b) - Lecture 4 of 25 - 34:43 mins
 - Cracking the Coding Interview by Gayle Laakmann McDowell, 5th Edition - Page 80 of 510
 - The Algorithm Design Manual by Steven Skiena - Page 79 of 739
