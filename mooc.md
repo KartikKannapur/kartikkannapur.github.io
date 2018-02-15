@@ -23,7 +23,7 @@ Chapter 2 - Section 2.2 - Comparing Two Proportions | Problem Set - ?
 - Neural Networks and Deep Learning by deeplearning.ai on Coursera - Week 1 - Heroes of Deep Learning
 
 
-- Cracking the Coding Interview by Gayle Laakmann McDowell, 5th Edition - Page 80 of 510
+- Cracking the Coding Interview by Gayle Laakmann McDowell, 5th Edition - Page 82 of 510 - Interview Questions - 1.1
 
 - The Algorithm Design Manual by Steven Skiena - Page 84 of 739 - Dictionaries
 
