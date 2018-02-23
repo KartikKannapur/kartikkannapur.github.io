@@ -13,6 +13,7 @@ image: /assets/images/books_background.jpg
 Chapter 2 - Section 2.3 - Moments and MGF 
 
 - Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 37 of 704 - 1.3 - ANOVA
+Chapter 2 - Split of SSE ANOVA Table - 61 of 704
 
 - Categorical Data Analysis 3rd Edition by Alan Agresti - Page 34 of 742 - Mid P-value & Small Sample Inference
 Chapter 2 - Section 2.4.3 - Summary Measures of Association | Problem Set - 2.24, 2.25
@@ -23,6 +24,7 @@ Chapter 2 - Section 2.4.3 - Summary Measures of Association | Problem Set - 2.24
 
 - Neural Networks and Deep Learning by deeplearning.ai on Coursera - Week 1 - Heroes of Deep Learning
 
+- How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera - Week 1
 
 - Cracking the Coding Interview by Gayle Laakmann McDowell, 5th Edition - Page 82 of 510 - Interview Questions - 1.1
 
