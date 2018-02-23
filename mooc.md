@@ -24,7 +24,7 @@ Chapter 2 - Section 2.4.3 - Summary Measures of Association | Problem Set - 2.24
 
 - Neural Networks and Deep Learning by deeplearning.ai on Coursera - Week 1 - Heroes of Deep Learning
 
-- CS 20: Tensorflow for Deep Learning Research by Stanford by Chip Huyen - Week 1 - In Progress
+- CS 20: Tensorflow for Deep Learning Research by Stanford by Chip Huyen - Week 2 - Operations
 
 - How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera - Week 1
 
