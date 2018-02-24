@@ -12,8 +12,8 @@ image: /assets/images/books_background.jpg
 - Statistical Inference 2nd edition by Casella and Berger - Page 66 of 686 - Exercise Problem 1.18
 Chapter 2 - Section 2.3 - Moments and MGF 
 
-- Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 43 of 704
-Chapter 1 - 1.4 - CI and Tests for beta0 and beta1
+- Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 56 of 704
+Chapter 2 - Revision + 
 Chapter 2 - Split of SSE ANOVA Table - 61 of 704
 
 - Categorical Data Analysis 3rd Edition by Alan Agresti - Page 34 of 742 - Mid P-value & Small Sample Inference
