@@ -23,7 +23,6 @@ Chapter 2 - Section 2.4.3 - Summary Measures of Association | Problem Set - 2.24
 
 - Time Series Analysis and Its Applications by Robert H. Shumway • David S. Stoffer - Page 1 of 202
 
-- Neural Networks and Deep Learning by deeplearning.ai on Coursera - Week 1 - Heroes of Deep Learning
 
 - CS 20: Tensorflow for Deep Learning Research by Stanford by Chip Huyen - Week 2 - Operations
 
@@ -39,8 +38,6 @@ Chapter 2 - Section 2.4.3 - Summary Measures of Association | Problem Set - 2.24
 
 - [Internals of CPython - Version 1](https://intopython.com/) by Prashanth Raghu - Page 0 of 100
 -----------------------------------------------------------------------------------------------------------------------------
-
-- [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX - Chapter 8
 
 - Python for Data Analysis by Wes McKinney, published by O'Reilly Media - Page 95 of 470 - Chapter 4 - NumPy
 
@@ -65,6 +62,8 @@ Chapter 2 - Section 2.4.3 - Summary Measures of Association | Problem Set - 2.24
 1. SQL Basics by Vertablo Academy
 2. Operating on Data in SQL by Vertablo Academy
 3. Creating Tables in SQL by Vertablo Academy
+4. Neural Networks and Deep Learning by deeplearning.ai on Coursera
+5. [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX
 
 
 ###### Books:
