@@ -68,6 +68,7 @@ Chapter 2 - Section 2.4.3 - Summary Measures of Association | Problem Set - 2.24
 
 ###### Books:
 1. Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+2. From Python to Numpy by Nicolas P. Rougier - http://www.labri.fr/perso/nrougier/from-python-to-numpy/
 
 ###### List of Interesting Papers:
 1. Bagging Equalizes Influence - Grandvalet, Y. Mach Learn (2004) 55: 251. - https://doi.org/10.1023/B:MACH.0000027783.34431.42
