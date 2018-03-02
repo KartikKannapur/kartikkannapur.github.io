@@ -30,7 +30,7 @@ Chapter 2 - Section 2.4.3 - Summary Measures of Association | Problem Set - 2.24
 
 - CS 20: Tensorflow for Deep Learning Research by Stanford by Chip Huyen - Week 2 - Operations
 
-- How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera - Week 1
+- How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera - Week 1 - Feature Preprocessing - Categorical and Ordinal Features
 
 - Cracking the Coding Interview by Gayle Laakmann McDowell, 5th Edition - Page 82 of 510 - Interview Questions - 1.1
 
