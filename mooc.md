@@ -13,7 +13,7 @@ image: /assets/images/books_background.jpg
 Chapter 1 - Exercise Problem 1.18
 Chapter 2 - Section 2.3 - Moments and MGF 
 Chapter 3 - Section 3.3 - Continuous Distribution
-Chapter 4 - Section 4.6 - Multivariate Distribution
+Chapter 4 - Exercise 4.5
 
 
 - Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 104 of 704
