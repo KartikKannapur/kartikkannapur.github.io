@@ -12,7 +12,7 @@ image: /assets/images/books_background.jpg
 - Statistical Inference 2nd edition by Casella and Berger - Page 66 of 686 - 
 Chapter 1 - Exercise Problem 1.18
 Chapter 2 - Section 2.3 - Moments and MGF 
-Chapter 3 - Section 3.3 - Continuous Distribution
+Chapter 3 - Section 3.3 - Continuous Distribution - Gamma Distribution
 Chapter 4 - Exercise 4.5
 
 
