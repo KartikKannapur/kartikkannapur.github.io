@@ -30,7 +30,7 @@ Chapter 2 - Section 2.4.3 - Summary Measures of Association | Problem Set - 2.24
 - Time Series Analysis and Its Applications by Robert H. Shumway • David S. Stoffer - Page 1 of 202
 
 
-- The Deep Learning Textbook by Ian Goodfellow, Yoshua Bengio and Aaron Courville - MIT Press book - 182/802 - Chapter 6 - Deep Feedforward Networks 
+- The Deep Learning Textbook by Ian Goodfellow, Yoshua Bengio and Aaron Courville - MIT Press book - 185/802 - Chapter 6 - 6.1 - Learning XOR
 
 - CS 20: Tensorflow for Deep Learning Research by Stanford by Chip Huyen - Week 2 - Operations
 
