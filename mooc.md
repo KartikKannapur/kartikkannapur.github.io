@@ -15,7 +15,7 @@ Chapter 1 - Exercise Problem 1.18
 Chapter 2 - Section 2.3 - Moments and MGF 
 Chapter 3 - Exercise - Start
 Chapter 4 - Exercise 4.5
-Chapter 5 - Lemma 5.3.3
+Chapter 5 - Lemma 5.4 - Order Statistics
 
 
 - Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 104 of 704
