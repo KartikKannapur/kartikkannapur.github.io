@@ -16,7 +16,7 @@ Chapter 2 - Section 2.3 - Moments and MGF
 Chapter 3 - Exercise - Start
 Chapter 4 - Exercise 4.5
 Chapter 5 - Exercise - Start
-Chapter 7 - 
+Chapter 7 - MLE - Example 7.2.5
 
 
 - Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 104 of 704
