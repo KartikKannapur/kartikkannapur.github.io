@@ -22,7 +22,7 @@ Chapter 7 - MLE - Example 7.2.5
 - Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 104 of 704
 Exercises Chapter 1 - 3 - Start
 Chapter 4 - Exercises - Question F
-Chapter 5 - Start
+Chapter 5 - Section 5.3 - Least Squares Properties when the errors are normally distributed
 
 - Categorical Data Analysis 3rd Edition by Alan Agresti - Page 34 of 742 - Mid P-value & Small Sample Inference
 Chapter 2 - Section 2.4.3 - Summary Measures of Association | Problem Set - 2.24, 2.25
@@ -36,7 +36,7 @@ Chapter 2 - Section 2.4.3 - Summary Measures of Association | Problem Set - 2.24
 
 - CS 20: Tensorflow for Deep Learning Research by Stanford by Chip Huyen - Week 2 - Operations
 
-- How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera - Week 2 - EDA - Visualization
+- How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera - Week 2 - Validation
 
 - Cracking the Coding Interview by Gayle Laakmann McDowell, 5th Edition - Page 82 of 510 - Interview Questions - 1.1
 
