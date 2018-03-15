@@ -21,7 +21,7 @@ Chapter 7 - MLE - Example 7.2.5
 
 - Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 104 of 704
 Exercises Chapter 1 - 3 - Start
-Chapter 4 - Exercises - Question F
+Chapter 4 - Exercises - Question P
 Chapter 5 - Section 5.3 - Least Squares Properties when the errors are normally distributed
 
 - Categorical Data Analysis 3rd Edition by Alan Agresti - Page 34 of 742 - Mid P-value & Small Sample Inference
