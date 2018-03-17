@@ -12,7 +12,6 @@ image: /assets/images/books_background.jpg
 - Statistical Inference 2nd edition by Casella and Berger - Page 66 of 686
 
 Chapter 1 - Exercise Problem 1.18
-Chapter 2 - Exercise 2.23 - Continue
 Chapter 3 - Exercise - Start
 Chapter 4 - Exercise 4.5
 Chapter 5 - Exercise - Start
