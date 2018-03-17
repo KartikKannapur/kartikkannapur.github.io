@@ -12,7 +12,7 @@ image: /assets/images/books_background.jpg
 - Statistical Inference 2nd edition by Casella and Berger - Page 66 of 686
 
 Chapter 1 - Exercise Problem 1.18
-Chapter 2 - Exercise 2.16 - Continue
+Chapter 2 - Exercise 2.23 - Continue
 Chapter 3 - Exercise - Start
 Chapter 4 - Exercise 4.5
 Chapter 5 - Exercise - Start
@@ -20,8 +20,8 @@ Chapter 7 - MLE - Example 7.2.5
 
 
 - Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 104 of 704
-Exercises Chapter 1 - 3 - Start
-Chapter 4 - Exercises - Question P
+Exercises Chapter 1 - 3 - Question BB | Doubts: Question S
+Chapter 4 - Exercises - Problem F - Complete
 Chapter 5 - Section 5.3 - Least Squares Properties when the errors are normally distributed
 
 - Categorical Data Analysis 3rd Edition by Alan Agresti - Page 34 of 742 - Mid P-value & Small Sample Inference
@@ -46,7 +46,7 @@ Chapter 2 - Section 2.4.3 - Summary Measures of Association | Problem Set - 2.24
 
 - Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce - Page 97 of 317 - Chapter 3
 
-- [Internals of CPython - Version 1](https://intopython.com/) by Prashanth Raghu - Page 0 of 100
+- Mastering Apache Spark - GitBook - Page 15 of 1192
 -----------------------------------------------------------------------------------------------------------------------------
 
 - Python for Data Analysis by Wes McKinney, published by O'Reilly Media - Page 95 of 470 - Chapter 4 - NumPy
