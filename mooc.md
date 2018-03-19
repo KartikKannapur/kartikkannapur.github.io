@@ -12,10 +12,9 @@ image: /assets/images/books_background.jpg
 - Statistical Inference 2nd edition by Casella and Berger - Page 66 of 686
 
 Chapter 1 - Exercise Problem 1.18
-Chapter 3 - Exercise - 3.11
 Chapter 4 - Exercise 4.5
 Chapter 5 - Exercise - Start
-Chapter 7 - MLE - Example 7.2.5
+Chapter 7 - MLE - Section 7.3.3 - Sufficiency and Unbiasedness
 
 
 - Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 104 of 704
