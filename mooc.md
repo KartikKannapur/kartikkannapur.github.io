@@ -18,6 +18,7 @@ Chapter 5 - Section 5.3 - Least Squares Properties when the errors are normally 
 Chapter 6 - Done
 Chapter 5 and 6 - Exercises
 Chapter 7 - Exercises
+Chapter 8 - Exercises
 
 - Categorical Data Analysis 3rd Edition by Alan Agresti - Page 34 of 742 - Mid P-value & Small Sample Inference
 Chapter 2 - Section 2.4.3 - Summary Measures of Association | Problem Set - 2.24, 2.25
