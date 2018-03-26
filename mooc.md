@@ -13,9 +13,7 @@ image: /assets/images/books_background.jpg
 
 - Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 104 of 704
 Exercises Chapter 1 - 3 - Question BB | Doubts: Question S
-Chapter 5 - Section 5.3 - Least Squares Properties when the errors are normally distributed
-Chapter 6 - Done
-Chapter 5 and 6 - Exercises
+Chapter 5 and 6 - Exercise B
 Chapter 7 - Exercises
 Chapter 8 - Exercises
 Chapter 9 - Exercises
