@@ -12,7 +12,7 @@ image: /assets/images/books_background.jpg
 - Statistical Inference 2nd edition by Casella and Berger - Page 66 of 686
 
 - Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 104 of 704
-Exercises Chapter 1 - 3 - Question BB | Doubts: Question S
+Exercises Chapter 1 - 3 - Question EE | Doubts: Question S
 Chapter 7 - Exercises
 Chapter 8 - Exercises
 Chapter 9 - Exercises
