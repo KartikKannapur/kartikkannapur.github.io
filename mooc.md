@@ -13,7 +13,6 @@ image: /assets/images/books_background.jpg
 
 - Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 104 of 704
 Exercises Chapter 1 - 3 - Question BB | Doubts: Question S
-Chapter 5 and 6 - Exercise B
 Chapter 7 - Exercises
 Chapter 8 - Exercises
 Chapter 9 - Exercises
