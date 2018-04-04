@@ -15,8 +15,8 @@ image: /assets/images/books_background.jpg
 
 - Categorical Data Analysis 3rd Edition by Alan Agresti - Page 34 of 742 - Mid P-value & Small Sample Inference
 Chapter 2 - Section 2.4.3 - Summary Measures of Association | Problem Set - 2.24, 2.25
-Chapter 4 - Textbook - Section 4.2.4
-Chapter 4 - Prof. Notes - Slide 4 of 24
+Chapter 4 - Textbook - Section 4.3
+Chapter 4 - Prof. Notes - Slide 7 of 24
 
 - Sams Teach Yourself SQL in 24 Hours - Page 136 of 495 - Chapter 8
 
