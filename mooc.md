@@ -17,7 +17,16 @@ image: /assets/images/books_background.jpg
 Chapter 1 - 
 My Notes - Multinomial parameters
 Prof. Slides - 11/13
+Assignment Solutions - Start
 Chapter 2 - 
+Assignment Solutions - Start
+Chapter 3 -
+My Notes - Start
+Prof. Slides - Start
+SAS Examples - Start
+Assignment Solutions - Start
+
+
 
 Chapter 2 - Section 2.4.3 - Summary Measures of Association | Problem Set - 2.24, 2.25
 Chapter 4 - Textbook - Section 4.3.4
