@@ -9,14 +9,20 @@ image: /assets/images/books_background.jpg
 
 #### Currently Learning:
 
-- Statistical Inference 2nd edition by Casella and Berger - Page 66 of 686
+- Statistical Inference 2nd edition by Casella and Berger - Read from Notes
 
 - Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 235 of 704
 
-- Categorical Data Analysis 3rd Edition by Alan Agresti - Page 34 of 742 - Mid P-value & Small Sample Inference
+- Categorical Data Analysis 3rd Edition by Alan Agresti
+Chapter 1 - 
+My Notes - Multinomial parameters
+Prof. Slides - 11/13
+Chapter 2 - 
+
 Chapter 2 - Section 2.4.3 - Summary Measures of Association | Problem Set - 2.24, 2.25
-Chapter 4 - Textbook - Section 4.3
-Chapter 4 - Prof. Notes - Slide 7 of 24
+Chapter 4 - Textbook - Section 4.3.4
+Chapter 4 - Prof. Notes - Slide 17 of 24 - ML Fitting of Logistic Regression Models
+Chapter 5 - Textbook - Section 5.2
 
 - Sams Teach Yourself SQL in 24 Hours - Page 136 of 495 - Chapter 8
 
