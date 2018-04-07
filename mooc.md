@@ -15,7 +15,6 @@ image: /assets/images/books_background.jpg
 
 - Categorical Data Analysis 3rd Edition by Alan Agresti
 Chapter 1 - 
-My Notes - Multinomial parameters
 Prof. Slides - 11/13
 Assignment Solutions - Start
 Chapter 2 - 
@@ -28,7 +27,7 @@ Assignment Solutions - Start
 
 
 
-Chapter 2 - Section 2.4.3 - Summary Measures of Association | Problem Set - 2.24, 2.25
+
 Chapter 4 - Textbook - Section 4.3.4
 Chapter 4 - Prof. Notes - Slide 17 of 24 - ML Fitting of Logistic Regression Models
 Chapter 5 - Textbook - Section 5.2
