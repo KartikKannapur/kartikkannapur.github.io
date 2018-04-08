@@ -16,15 +16,14 @@ image: /assets/images/books_background.jpg
 - Categorical Data Analysis 3rd Edition by Alan Agresti
 Chapter 1 - 
 Prof. Slides - 11/13
-Assignment Solutions - Start
+
 Chapter 2 - 
 Assignment Solutions - Start
 Chapter 3 -
-My Notes - Start
-Prof. Slides - Start
 SAS Examples - Start
 Assignment Solutions - Start
 
+Chapter 4 - 
 
 
 
