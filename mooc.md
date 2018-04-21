@@ -14,22 +14,7 @@ image: /assets/images/books_background.jpg
 - Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 235 of 704
 
 - Categorical Data Analysis 3rd Edition by Alan Agresti
-Chapter 1 - 
-Prof. Slides - 11/13
-
-Chapter 2 - 
-Assignment Solutions - Start
-Chapter 3 -
-SAS Examples - Start
-Assignment Solutions - Start
-
-Chapter 4 - 
-
-
-
-Chapter 4 - Textbook - Section 4.3.4
-Chapter 4 - Prof. Notes - Slide 17 of 24 - ML Fitting of Logistic Regression Models
-Chapter 5 - Textbook - Section 5.2
+Chapter 5 - Textbook - Section 5.4.3 Goodness of fit tests
 
 - Sams Teach Yourself SQL in 24 Hours - Page 136 of 495 - Chapter 8
 
