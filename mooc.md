@@ -14,7 +14,7 @@ image: /assets/images/books_background.jpg
 - Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 235 of 704
 
 - Categorical Data Analysis 3rd Edition by Alan Agresti
-Chapter 5 - Textbook - Section 5.4.3 Goodness of fit tests
+Chapter 6 - Yet to Start
 
 - Sams Teach Yourself SQL in 24 Hours - Page 136 of 495 - Chapter 8
 
