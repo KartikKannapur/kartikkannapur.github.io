@@ -10,6 +10,9 @@ image: /assets/images/books_background.jpg
 #### Currently Learning:
 
 - Statistical Inference 2nd edition by Casella and Berger - Read from Notes
+Lecture 15, 16 - Complete
+Other material on CI - Yet to Start
+Lecture 17 - Yet to Start
 
 - Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 235 of 704
 
