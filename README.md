@@ -4,6 +4,12 @@
 
 Create a `master`-branch and adjust `_config.yml` if you want to use this theme in the root folder of `yourname.github.io`.
 
+> Kartik Kannapur
+> 
+> $bundle install
+> 
+> $jekyll serve -w #from the parent directory
+
 ### Default
 
 ![screenshot](https://user-images.githubusercontent.com/4943215/35478338-b502fdfa-03da-11e8-975b-469a7c30b54f.png)

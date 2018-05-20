@@ -7,28 +7,23 @@ title: "Learn"
 
 
 
-- Sams Teach Yourself SQL in 24 Hours - Page 136 of 495 - Chapter 8
+- Sams Teach Yourself SQL in 24 Hours ::: Chapter 8 - Page 136 of 495
+- The Deep Learning Textbook by Ian Goodfellow, Yoshua Bengio and Aaron Courville :::  Chapter 6 - 6.1 - Learning XOR - Page - 185 of 802 
 
 
-CS 20: Tensorflow for Deep Learning Research by Stanford by Chip Huyen
 
-- The Deep Learning Textbook by Ian Goodfellow, Yoshua Bengio and Aaron Courville - MIT Press book - 185/802 - Chapter 6 - 6.1 - Learning XOR
+- Cracking the Coding Interview by Gayle Laakmann McDowell, 5th Edition - Interview Questions - 1.1 - Page 82 of 510
+- The Algorithm Design Manual by Steven Skiena - Dictionaries - Page 84 of 739
+- Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Chapter 3 - Page 183 of 770 
 
 
-- How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera - Week 2 - Validation
+- CS 20: Tensorflow for Deep Learning Research by Stanford by Chip Huyen
+- How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera 
 
-- Cracking the Coding Interview by Gayle Laakmann McDowell, 5th Edition - Page 82 of 510 - Interview Questions - 1.1
 
-- The Algorithm Design Manual by Steven Skiena - Page 84 of 739 - Dictionaries
-
-- Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Page 183 of 770 | Chapter 3 - Remaining
-
-- Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce - Page 97 of 317 - Chapter 3
 
 - Mastering Apache Spark - GitBook - Page 15 of 1192
------------------------------------------------------------------------------------------------------------------------------
 
-- Python for Data Analysis by Wes McKinney, published by O'Reilly Media - Page 95 of 470 - Chapter 4 - NumPy
 
 
 
@@ -42,6 +37,8 @@ CS 20: Tensorflow for Deep Learning Research by Stanford by Chip Huyen
 - [Numerical Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
 - [Valuation](https://www.youtube.com/playlist?list=PLUkh9m2BorqkNzSSPrCDkO2jlufVCinVw) by Aswath Damodaran
 - [Valuation Tools Webcasts](https://www.youtube.com/playlist?list=PLUkh9m2BorqmRAGzJb5OIvTAKZZu9HWF-) by Aswath Damodaran
+
+
 ___
 
 # 2018
@@ -60,6 +57,7 @@ ___
 - Statistical Inference 2nd edition by Casella and Berger
 - Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith
 - Categorical Data Analysis 3rd Edition by Alan Agresti
+- Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce
 
 **List of Interesting Papers**:
 - [Bagging Equalizes Influence - Grandvalet, Y. Mach Learn (2004) 55: 251.](https://doi.org/10.1023/B:MACH.0000027783.34431.42) 
