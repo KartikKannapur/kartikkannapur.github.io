@@ -1,34 +1,145 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kartik Kannapur</title>
-    <description>Welcome to my corner of the Internet</description>
-    <link>kartikkannapur.com/</link>
-    <atom:link href="kartikkannapur.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 09 Dec 2015 01:37:54 +0530</pubDate>
-    <lastBuildDate>Wed, 09 Dec 2015 01:37:54 +0530</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
-    
-      <item>
-        <title>Practical Data Science Cookbook - Review</title>
-        <description>&lt;h1&gt;Practical Data Science Cookbook - Review&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-20T12:42:39-04:00</updated><id>http://localhost:4000/</id><title type="html">Kartik Kannapur</title><subtitle>Welcome to my corner of the Internet</subtitle><author><name>Kartik Kannapur</name></author><entry><title type="html">A Gentle Introduction to Elasticsearch</title><link href="http://localhost:4000/2016/06/26/introduction-to-elasticsearch/" rel="alternate" type="text/html" title="A Gentle Introduction to Elasticsearch" /><published>2016-06-26T16:30:00-04:00</published><updated>2016-06-26T16:30:00-04:00</updated><id>http://localhost:4000/2016/06/26/introduction-to-elasticsearch</id><content type="html" xml:base="http://localhost:4000/2016/06/26/introduction-to-elasticsearch/">&lt;p&gt;&lt;strong&gt;What is Indexing and why do we need it?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h1&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Data is stored on disk as blocks of data. These blocks are accessed in their entirety, making them atomic reads and writes. The structure of these blocks of data is similar to that of a linked list - that contains a block of data and a pointer to the next data block. To find a piece of information, we would have to linearly search through the data which would be expensive, given that it is unsorted.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;The Practical Data Science Cookbook authored by Tony Ojeda, Sean Patrick Murphy, Benjamin Bengfort and Abhijit Dasgupta is an amazing resource for every aspiring data scientist. If you are inclined to understand concepts through hands-on, real world examples, this cookbook is the ideal partner for you.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Indexing is the process of tagging or associating information with a document or a file, so that the process of search and retrieval could be faster. Therefore, creating an index on the data would significantly speed up the process of search and retrieval.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;The authors of the book have followed a methodical approach, to guide the reader through the entire data science pipeline - from acquiring and preparing the dataset to building statistical models to solve problem statements. The book contains eleven chapters, each of which is a data science project in itself. Furthermore, the authors have broken down each project into smaller, solvable problem statements and build it up from there. The cookbook also covers a variety of domains such as - automobile, sports, stock market etc. which gives the reader a great deal of exposure, to apply the concepts he has learnt in different verticals.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Elasticsearch&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The book requires prior knowledge of Python and R, both of which are invaluable for every data scientist and are easy to learn. In addition the recipes in the book, also use a plethora of open source libraries and data sets, which the reader can get acquainted with.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Elasticsearch is an open-source, distributed search and analytics engine, built on top of Apache Lucene. It is able to achieve fast search responses because, it searches an index rather than searching the text directly. This is similar to retrieving pages in a book related to a keyword, by scanning the index at the back of a book, as opposed to searching every word on every page of the book. This type of index is called an Inverted Index.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;To purchase a copy of the book, visit &lt;a href=&quot;https://www.packtpub.com/big-data-and-business-intelligence/practical-data-science-cookbook&quot;&gt;Packt Publishing&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 25 Feb 2015 01:00:00 +0530</pubDate>
-        <link>kartikkannapur.com/2015/02/25/practical_data_science_cookbook.html</link>
-        <guid isPermaLink="true">kartikkannapur.com/2015/02/25/practical_data_science_cookbook.html</guid>
-        
-        
-      </item>
-    
-  </channel>
-</rss>
+&lt;blockquote&gt;
+  &lt;p&gt;Apache Lucene is a high-performance full-text search and information retrieval library. Although it is one of the most robust search libraries, it needs the support of a programming language such as Java or Python, to be integrated into an application. Elasticsearch hides this complexity by providing a convenient RESTful API to interact with the data.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Key Terms in Elasticsearch&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Node : An instance that is running Elasticsearch.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cluster : A cluster consists of two or more nodes. Each cluster has a single master node, which is automatically elected by the cluster and multiple slave nodes. A new master is automatically elected in case of failure.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To draw an analogy between Elasticsearch and RDBMS&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;RDBMS =&amp;gt; Database =&amp;gt; Table =&amp;gt; Rows &amp;amp; Columns
+
+ElasticSearch =&amp;gt; Index =&amp;gt; Type =&amp;gt; Documents &amp;amp; Properties
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Index : The index is the heart of Elasticsearch. Each index contains one or more types and is a logical namespace which maps to one or more primary shards.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Type : Each type contains a list of documents. A mapping in the type defines how each field in the document is analyzed.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Document : A document in Elasticsearch is a JSON document consisting of key-value pairs. Each document has a type and is stored in an index, and  can be uniquely identified by an id.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Field : Fields are the key-value pairs present in the document. The values can either be a scalar such as a string, integer, date or a nested JSON structure with sub key-value pairs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shard : A shard is a low-level worker unit which is managed by Elasticsearch. Elasticsearch distributes these shards amongst all nodes in the cluster and can move shards from one node to another in the case of node failure or the addition of new nodes. 
+ There are two types of Shards - Primary &amp;amp; Replica Shards. 
+ Primary Shard : When a document is indexed it is first stored on the primary shard, then on all replicas of the primary shard. By default, an index has 5 primary shards, but this can be scaled to fewer or more primary shards depending on the application. 
+ Replica Shard : Each primary shard can have zero or more replicas. A replica is a copy of the primary shard, and has two purposes: 1) increase failover: a replica shard can be promoted to a primary shard if the primary fails. 2) increase performance: get and search requests can be handled by primary or replica shards.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;ELK Stack&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Elastic Stack is an end-to-end solution for log management, indexing and visualization of data. The ELK Stack consists of Elasticsearch, Logstash and Kibana, three independent open source projects that can ingest data from any source, any format and search, analyze, and visualize it in real time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Logstash is a pipeline for ingestion and processing of logs. It can handle a variety of logs such as - system logs, web server logs, application logs etc. Data from multiple sources can be normalized via Logstash, rather than the traditional ETL(Extract - Transform - Load) approach, indexed using Elasticsearch and visualized using Kibana as a dashboard.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Elasticsearch - Hadoop&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Elasticsearch for Apache Hadoop (ES-Hadoop) acts as a two-way connector, that connects the real-time search and analytics capability of Elasticsearch to the Hadoop ecosystem. With this native integration, ES-Hadoop allows for seamlessly moving data between Elasticsearch and HDFS. ES-Hadoop ships with security features such as HTTP authentication and support for SSL/TLS. It also works with Kibana for data visualization.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Resources to get started&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Elastic - https://www.elastic.co/&lt;/li&gt;
+  &lt;li&gt;Elasticsearch: The Definitive Guide Book - https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html&lt;/li&gt;
+  &lt;li&gt;Elasticsearch API List - http://elasticsearch-api.info/&lt;/li&gt;
+  &lt;li&gt;Kibana - https://www.elastic.co/products/kibana&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Kartik Kannapur</name></author><summary type="html">What is Indexing and why do we need it? Data is stored on disk as blocks of data. These blocks are accessed in their entirety, making them atomic reads and writes. The structure of these blocks of data is similar to that of a linked list - that contains a block of data and a pointer to the next data block. To find a piece of information, we would have to linearly search through the data which would be expensive, given that it is unsorted. Indexing is the process of tagging or associating information with a document or a file, so that the process of search and retrieval could be faster. Therefore, creating an index on the data would significantly speed up the process of search and retrieval.</summary></entry><entry><title type="html">Competitive Programming</title><link href="http://localhost:4000/2016/05/10/competitive-programming/" rel="alternate" type="text/html" title="Competitive Programming" /><published>2016-05-10T19:00:00-04:00</published><updated>2016-05-10T19:00:00-04:00</updated><id>http://localhost:4000/2016/05/10/competitive-programming</id><content type="html" xml:base="http://localhost:4000/2016/05/10/competitive-programming/">&lt;blockquote&gt;
+  &lt;p&gt;Wikipedia defines Competitive Programming as a ‘Mind Sport’.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Competitive programming revolves around the fundamental idea of hundreds of programmers trying to solve a set of problems, in a given amount of time. The problems themselves involve solving sets of mathematical and algorithmic questions in any programming language. Although the major criteria for judging is the correctness of the answer, some competitions also take into account the performance and elegance of the code written. The duration of these competitions can range from a couple of hours to weeks, sometimes even months and programmers who crack the challenging set of questions, are rewarded with(in order of importance)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Bragging rights&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Goodies/Swags/Monetary benefits and in some cases job offers as well
+My journey with competitive programming began only a few months back and by no means do I consider myself a virtuoso, but here are a couple of reasons why I believe you must get started with competitive programming:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Challenge Yourself&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;In your day job or at your university, you could listen to your favorite song on Spotify and think about the solution to a problem at your own pace and code it line by line. No sweat. But, in a competitive programming scenario, you are pushing yourself - not only are your trying to come up with an algorithm to solve the question and code it in your language of choice, but you are also trying to create the most performance oriented solution, and all this with the timer counting down.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;More often than not in a competitive programming competition, you realize that there could be a better way to solve the problem - an easier, more elegant solution. This helps you pick up new concepts and put them into practice so that you are constantly learning.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;list-of-competitive-programming-websites&quot;&gt;List of Competitive Programming Websites:&lt;/h3&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Topcoder&lt;/li&gt;
+  &lt;li&gt;HackerRank&lt;/li&gt;
+  &lt;li&gt;Codechef&lt;/li&gt;
+  &lt;li&gt;HackerEarth&lt;/li&gt;
+  &lt;li&gt;Google Code Jam&lt;/li&gt;
+  &lt;li&gt;Kaggle - Competitive Data Science&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I started with the challenge - “Intro to Statistics” on HackerRank, where I completed the challenge in the top 15% and then moved on to “Simply SQL”, where I ended up in the top 25%. I have attached a link to the Jupyter Notebooks below:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Intro to Statistics - &lt;a href=&quot;http://nbviewer.jupyter.org/github/KartikKannapur/Programming_Challenges/tree/master/HackerRank/Intro_to_Statistics/&quot;&gt;Jupyter Notebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Simply SQL - &lt;a href=&quot;http://nbviewer.jupyter.org/github/KartikKannapur/Programming_Challenges/blob/master/HackerRank/Simply_SQL_The_Sequel/Questions.ipynb&quot;&gt;Jupyter Notebook&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>Kartik Kannapur</name></author><summary type="html">Wikipedia defines Competitive Programming as a ‘Mind Sport’. Competitive programming revolves around the fundamental idea of hundreds of programmers trying to solve a set of problems, in a given amount of time. The problems themselves involve solving sets of mathematical and algorithmic questions in any programming language. Although the major criteria for judging is the correctness of the answer, some competitions also take into account the performance and elegance of the code written. The duration of these competitions can range from a couple of hours to weeks, sometimes even months and programmers who crack the challenging set of questions, are rewarded with(in order of importance) Bragging rights Goodies/Swags/Monetary benefits and in some cases job offers as well My journey with competitive programming began only a few months back and by no means do I consider myself a virtuoso, but here are a couple of reasons why I believe you must get started with competitive programming: Challenge Yourself In your day job or at your university, you could listen to your favorite song on Spotify and think about the solution to a problem at your own pace and code it line by line. No sweat. But, in a competitive programming scenario, you are pushing yourself - not only are your trying to come up with an algorithm to solve the question and code it in your language of choice, but you are also trying to create the most performance oriented solution, and all this with the timer counting down. Knowledge More often than not in a competitive programming competition, you realize that there could be a better way to solve the problem - an easier, more elegant solution. This helps you pick up new concepts and put them into practice so that you are constantly learning. List of Competitive Programming Websites: Topcoder HackerRank Codechef HackerEarth Google Code Jam Kaggle - Competitive Data Science I started with the challenge - “Intro to Statistics” on HackerRank, where I completed the challenge in the top 15% and then moved on to “Simply SQL”, where I ended up in the top 25%. I have attached a link to the Jupyter Notebooks below: Intro to Statistics - Jupyter Notebook Simply SQL - Jupyter Notebook</summary></entry><entry><title type="html">Practical Data Science Cookbook</title><link href="http://localhost:4000/2015/02/24/practical-data-science-cookbook/" rel="alternate" type="text/html" title="Practical Data Science Cookbook" /><published>2015-02-24T14:30:00-05:00</published><updated>2015-02-24T14:30:00-05:00</updated><id>http://localhost:4000/2015/02/24/practical-data-science-cookbook</id><content type="html" xml:base="http://localhost:4000/2015/02/24/practical-data-science-cookbook/">&lt;blockquote&gt;
+  &lt;p&gt;The Practical Data Science Cookbook, authored by Tony Ojeda, Sean Patrick Murphy, Benjamin Bengfort and Abhijit Dasgupta is an amazing resource for every aspiring data scientist. If you are inclined to understand concepts through hands-on, real world examples, this cookbook is the ideal partner for you.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The authors of the book have followed a methodical approach, to guide the reader through the entire data science pipeline - from acquiring and preparing the dataset to building statistical models to solve problem statements. The book contains eleven chapters, each of which is a data science project in itself. Furthermore, the authors have broken down each project into smaller, solvable problem statements and build it up from there. The cookbook also covers a variety of domains such as - automobile, sports, stock market etc. which gives the reader a great deal of exposure, to apply the concepts he has learnt in different verticals.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The book requires prior knowledge of Python and R, both of which are invaluable for every data scientist and are easy to learn. In addition the recipes in the book, also use a plethora of open source libraries and data sets, which the reader can get acquainted with.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.packtpub.com/sites/default/files/9781783980246.png&quot; alt=&quot;practical-data-science-cookbook&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To purchase a copy of the book, visit &lt;a href=&quot;https://www.packtpub.com/big-data-and-business-intelligence/practical-data-science-cookbook&quot;&gt;Packt Publishing&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Kartik Kannapur</name></author><summary type="html">The Practical Data Science Cookbook, authored by Tony Ojeda, Sean Patrick Murphy, Benjamin Bengfort and Abhijit Dasgupta is an amazing resource for every aspiring data scientist. If you are inclined to understand concepts through hands-on, real world examples, this cookbook is the ideal partner for you. The authors of the book have followed a methodical approach, to guide the reader through the entire data science pipeline - from acquiring and preparing the dataset to building statistical models to solve problem statements. The book contains eleven chapters, each of which is a data science project in itself. Furthermore, the authors have broken down each project into smaller, solvable problem statements and build it up from there. The cookbook also covers a variety of domains such as - automobile, sports, stock market etc. which gives the reader a great deal of exposure, to apply the concepts he has learnt in different verticals. The book requires prior knowledge of Python and R, both of which are invaluable for every data scientist and are easy to learn. In addition the recipes in the book, also use a plethora of open source libraries and data sets, which the reader can get acquainted with.</summary></entry></feed>

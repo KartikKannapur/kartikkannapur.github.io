@@ -1,53 +1,35 @@
-# Build settings
-markdown: kramdown
-highlighter: rouge
-gems:
-  - jemoji
-  
-# Site settings
 title: "Kartik Kannapur"
+author: "Kartik Kannapur"
 description: "Welcome to my corner of the Internet"
-
-email: kartikkannapur@gmail.com
-#blog logo
-logo: "/assets/images/df_logo.jpg"
-# blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
-
-name: 'Kartik Kannapur'
-author: 'Kartik Kannapur'
-author_image: "/assets/images/author.jpg"
-
-paginate:	5
-
+more: "read more »"
 url: "kartikkannapur.github.io" # the base hostname & protocol for your site
 baseurl: ""
-#used to display twitter cards
-twitter_handle: '@KartikKannapur'
+paginate: 2
+permalink: pretty
+excerpt_separator: "\n\n\n" # two blank lines
 
-#fill in disqus shortname to use disqus
+style:
+  minimalist: false
+  dark: false
+
+navigation:
+  - index.html
+  - archive.html
+  - about.md
+  - learning.md
+
 disqus: KartikKannapur
 
-# social icons and sharing options
-social:
+comments:
+  disqus: "disqus-contrast"
+#  isso: "comments.mysite.org"
 
-  - icon: linkedin
-    url:  https://in.linkedin.com/in/kartikkannapur
-    desc: Connect with me on LinkedIn
-    share_url:
-    share_title:
-    share_link:
+links: # see http://fontawesome.io/icons/#brand for all possible icons
+  - linkedin: "https://www.linkedin.com/in/kartikkannapur/"
+  - github: "https://github.com/KartikKannapur"
+  - twitter: "https://twitter.com/KartikKannapur"
+  - envelope: "mailto:kartikkannapur@gmail.com"
 
-  - icon:	github
-    url:	https://github.com/KartikKannapur
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
-
-  - icon: twitter
-    url:  http://twitter.com/KartikKannapur
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=Article by @KartikKannapur 
-    share_link: "&amp;url="
+defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
+sass: {style: expanded}
+plugins: [jekyll-feed, jekyll-paginate]
