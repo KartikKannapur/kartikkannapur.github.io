@@ -4,24 +4,16 @@ title: "Learn"
 
 #### Currently Learning:
 
-- Statistical Inference 2nd edition by Casella and Berger - Read from Notes
-Lecture 15, 16, 17, 18 - Complete
-Other material on CI - Yet to Start
-Lecture 19 - Yet to Start
 
-- Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith - Page 235 of 704
 
-- Categorical Data Analysis 3rd Edition by Alan Agresti
-Chapter 6 - Yet to Start
 
 - Sams Teach Yourself SQL in 24 Hours - Page 136 of 495 - Chapter 8
 
-- Time Series Analysis and Its Applications by Robert H. Shumway • David S. Stoffer - Page 1 of 202
 
+CS 20: Tensorflow for Deep Learning Research by Stanford by Chip Huyen
 
 - The Deep Learning Textbook by Ian Goodfellow, Yoshua Bengio and Aaron Courville - MIT Press book - 185/802 - Chapter 6 - 6.1 - Learning XOR
 
-- CS 20: Tensorflow for Deep Learning Research by Stanford by Chip Huyen - Week 2 - Operations
 
 - How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera - Week 2 - Validation
 
@@ -41,14 +33,13 @@ Chapter 6 - Yet to Start
 
 
 
+
+
+
+### Wishlist:
+- Time Series Analysis and Its Applications by Robert H. Shumway • David S. Stoffer
 - [Coding the Matrix](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/)
 - [Numerical Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
-
-
-
-
-
-
 - [Valuation](https://www.youtube.com/playlist?list=PLUkh9m2BorqkNzSSPrCDkO2jlufVCinVw) by Aswath Damodaran
 - [Valuation Tools Webcasts](https://www.youtube.com/playlist?list=PLUkh9m2BorqmRAGzJb5OIvTAKZZu9HWF-) by Aswath Damodaran
 ___
@@ -57,20 +48,23 @@ ___
 
 **Courses**
 
-1. SQL Basics by Vertablo Academy
-2. Operating on Data in SQL by Vertablo Academy
-3. Creating Tables in SQL by Vertablo Academy
-4. Neural Networks and Deep Learning by deeplearning.ai on Coursera
-5. [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX
+- SQL Basics by Vertablo Academy
+- Operating on Data in SQL by Vertablo Academy
+- Creating Tables in SQL by Vertablo Academy
+- Neural Networks and Deep Learning by deeplearning.ai on Coursera
+- [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX
 
 **Books**:
-1. Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
-2. From Python to Numpy by Nicolas P. Rougier - http://www.labri.fr/perso/nrougier/from-python-to-numpy/
+- Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+- From Python to Numpy by Nicolas P. Rougier - http://www.labri.fr/perso/nrougier/from-python-to-numpy/
+- Statistical Inference 2nd edition by Casella and Berger
+- Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith
+- Categorical Data Analysis 3rd Edition by Alan Agresti
 
 **List of Interesting Papers**:
-1. Bagging Equalizes Influence - Grandvalet, Y. Mach Learn (2004) 55: 251. - https://doi.org/10.1023/B:MACH.0000027783.34431.42
-2. A Few Useful Things to Know about Machine Learning - Pedro Domingos - https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
-3. Random Forests - Leo Breiman, Statistics Department University of California - https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf
+- [Bagging Equalizes Influence - Grandvalet, Y. Mach Learn (2004) 55: 251.](https://doi.org/10.1023/B:MACH.0000027783.34431.42) 
+- [A Few Useful Things to Know about Machine Learning - Pedro Domingos](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+- [Random Forests - Leo Breiman, Statistics Department University of California](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)
 
 
 ___
