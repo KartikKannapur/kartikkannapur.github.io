@@ -2,10 +2,24 @@
 title: "Learn"
 ---
 
-#### Currently Learning:
+### Currently Learning:
 
 
 - Natural Language Processing with Python Book by Edward Loper, Ewan Klein, and Steven Bird ::: Chapter 3 - Page 101 of 504
+
+- [CS 20: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/index.html) by Stanford by Chip Huyen ::: Week 2 - Operations
+
+    + [ ] More about Tensors
+    + [ ] More about Data Flow Graphs
+    + [ ] Neural Style Translation
+    + [ ] Distributed Computation of Graphs/Graph Flow/Tensors
+
+
+    + [Learning TensorFlow - A Guide to Building Deep Learning Systems](http://shop.oreilly.com/product/0636920063698.do) by Itay Lieder, Yehezkel Resheff, Tom Hope - Page 1 of 337
+
+-----
+
+### To be continued ...
 
 - Sams Teach Yourself SQL in 24 Hours ::: Chapter 8 - Page 136 of 495
 - The Deep Learning Textbook by Ian Goodfellow, Yoshua Bengio and Aaron Courville :::  Chapter 6 - 6.1 - Learning XOR - Page - 185 of 802 
@@ -17,7 +31,6 @@ title: "Learn"
 - Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Chapter 3 - Page 183 of 770 
 
 
-- CS 20: Tensorflow for Deep Learning Research by Stanford by Chip Huyen
 - How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera 
 
 
