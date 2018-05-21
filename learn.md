@@ -11,11 +11,19 @@ title: "Learn"
 
     + [ ] More about Tensors
     + [ ] More about Data Flow Graphs
+    + [ ] TensorBoard
     + [ ] Neural Style Translation
     + [ ] Distributed Computation of Graphs/Graph Flow/Tensors
+    + [ ] DistBelief
+    + [ ] AlexNet
+    + [ ] YouTube: [tf.data: Fast, flexible, and easy-to-use input pipelines](https://www.youtube.com/watch?v=uIcqeP7MFH0)
+    + [ ] YouTube: [The Practitioner's Guide with TF High Level APIs](https://www.youtube.com/watch?v=4oNdaQk0Qv4)
+    + [ ] YouTube: [Debugging TensorFlow with TensorBoard plugins](https://www.youtube.com/watch?v=XcHWLsVmHvk)
+    + [ ] TFX - https://www.tensorflow.org/tfx/
 
 
-    + [Learning TensorFlow - A Guide to Building Deep Learning Systems](http://shop.oreilly.com/product/0636920063698.do) by Itay Lieder, Yehezkel Resheff, Tom Hope - Page 1 of 337
+    + [Learning TensorFlow - A Guide to Building Deep Learning Systems](http://shop.oreilly.com/product/0636920063698.do) by Itay Lieder, Yehezkel Resheff, Tom Hope - Page 34 of 337 
+    + Companion Code on GitHub - [Learning TensorFlow GitHub](https://github.com/Hezi-Resheff/Oreilly-Learning-TensorFlow)
 
 -----
 
