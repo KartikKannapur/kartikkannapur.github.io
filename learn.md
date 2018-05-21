@@ -5,7 +5,7 @@ title: "Learn"
 #### Currently Learning:
 
 
-
+- Natural Language Processing with Python Book by Edward Loper, Ewan Klein, and Steven Bird ::: Chapter 3 - Page 101 of 504
 
 - Sams Teach Yourself SQL in 24 Hours ::: Chapter 8 - Page 136 of 495
 - The Deep Learning Textbook by Ian Goodfellow, Yoshua Bengio and Aaron Courville :::  Chapter 6 - 6.1 - Learning XOR - Page - 185 of 802 
