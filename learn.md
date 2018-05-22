@@ -23,7 +23,11 @@ title: "Learn"
 
     + [Learning TensorFlow - A Guide to Building Deep Learning Systems](http://shop.oreilly.com/product/0636920063698.do) by Itay Lieder, Yehezkel Resheff, Tom Hope - Page 34 of 337 
     + Companion Code on GitHub - [Learning TensorFlow GitHub](https://github.com/Hezi-Resheff/Oreilly-Learning-TensorFlow)
-
+    
+- [Speech and Language Processing Book](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky and James H. Martin ::: Chapter 2 - Page 14 of 499
+    
+    + [CS 124: From Languages to Information](https://web.stanford.edu/class/cs124/) ::: Week 0
+    + Add to Notes: http://www.cbs.dtu.dk/courses/27610/regular-expressions-cheat-sheet-v2.pdf
 -----
 
 ### To be continued ...
