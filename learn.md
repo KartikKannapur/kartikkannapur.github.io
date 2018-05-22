@@ -5,8 +5,7 @@ title: "Learn"
 ### Currently Learning:
 
 
-- Natural Language Processing with Python Book by Edward Loper, Ewan Klein, and Steven Bird ::: Chapter 3 - Page 101 of 504
-
+ 
 - [CS 20: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/index.html) by Stanford by Chip Huyen ::: Week 2 - Operations
 
     + [ ] More about Tensors
@@ -79,6 +78,7 @@ ___
 - Applied Regression Analysis, 3rd Edition by Norman R. Draper, Harry Smith
 - Categorical Data Analysis 3rd Edition by Alan Agresti
 - Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce
+- Natural Language Processing with Python Book by Edward Loper, Ewan Klein, and Steven Bird
 
 **List of Interesting Papers**:
 - [Bagging Equalizes Influence - Grandvalet, Y. Mach Learn (2004) 55: 251.](https://doi.org/10.1023/B:MACH.0000027783.34431.42) 
