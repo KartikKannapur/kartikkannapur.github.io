@@ -8,9 +8,8 @@ title: "Learn"
  
 - [CS 20: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/index.html) by Stanford by Chip Huyen ::: Week 2 - Operations
 
-    + [ ] More about Tensors
-    + [ ] More about Data Flow Graphs
     + [ ] TensorBoard
+    + [ ] Matrix Multiplication: tf.matmul(A,B)
     + [ ] Neural Style Translation
     + [ ] Distributed Computation of Graphs/Graph Flow/Tensors
     + [ ] DistBelief
@@ -21,7 +20,7 @@ title: "Learn"
     + [ ] TFX - https://www.tensorflow.org/tfx/
 
 
-    + [Learning TensorFlow - A Guide to Building Deep Learning Systems](http://shop.oreilly.com/product/0636920063698.do) by Itay Lieder, Yehezkel Resheff, Tom Hope - Page 34 of 337 
+    + [Learning TensorFlow - A Guide to Building Deep Learning Systems](http://shop.oreilly.com/product/0636920063698.do) by Itay Lieder, Yehezkel Resheff, Tom Hope - Page 78 of 337 
     + Companion Code on GitHub - [Learning TensorFlow GitHub](https://github.com/Hezi-Resheff/Oreilly-Learning-TensorFlow)
     
 - [Speech and Language Processing Book](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky and James H. Martin ::: Chapter 2 - Page 14 of 499
