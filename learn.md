@@ -31,13 +31,15 @@ title: "Learn"
 
 - [Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale 4th Edition](https://www.amazon.com/Hadoop-Definitive-Storage-Analysis-Internet/dp/1491901632) by Tom White ::: Page 71 of 756 Chapter 3 - Begin
 
-- 
+- The Deep Learning Textbook by Ian Goodfellow, Yoshua Bengio and Aaron Courville :::  Chapter 6 - 6.2 - Gradient Based Learning - Page - 191 of 802 
+
+-
+
 -----
 
 ### To be continued ...
 
 - Sams Teach Yourself SQL in 24 Hours ::: Chapter 8 - Page 136 of 495
-- The Deep Learning Textbook by Ian Goodfellow, Yoshua Bengio and Aaron Courville :::  Chapter 6 - 6.1 - Learning XOR - Page - 185 of 802 
 
 
 
