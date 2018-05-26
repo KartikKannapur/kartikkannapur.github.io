@@ -31,9 +31,12 @@ title: "Learn"
 
 - [Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale 4th Edition](https://www.amazon.com/Hadoop-Definitive-Storage-Analysis-Internet/dp/1491901632) by Tom White ::: Page 71 of 756 Chapter 3 - Begin
 
-- The Deep Learning Textbook by Ian Goodfellow, Yoshua Bengio and Aaron Courville :::  Chapter 6 - 6.2 - Gradient Based Learning - Page - 191 of 802 
+- [The Deep Learning Textbook](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville ::: Chapter 6 - 6.2 - Gradient Based Learning - Page - 191 of 802 
 
--
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) By Michael Nielsen
+    + [ ] Chapter 1: Using neural nets to recognize handwritten digits - The architecture of neural networks
+    + [ ] 
+
 
 -----
 
