@@ -34,10 +34,10 @@ title: "Learn"
 - [The Deep Learning Textbook](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville ::: Chapter 6 - 6.2 - Gradient Based Learning - Page - 191 of 802 
 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) By Michael Nielsen
-    + [ ] Chapter 1: Using neural nets to recognize handwritten digits - The architecture of neural networks
+    + [ ] Chapter 1: Using neural nets to recognize handwritten digits - Learning with gradient descent
     + [ ] 
 
-
+- How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera ::: Week 1 - Software/Hardware requirements >> Pandas Basics Assignment
 -----
 
 ### To be continued ...
@@ -51,7 +51,7 @@ title: "Learn"
 - Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Chapter 3 - Page 183 of 770 
 
 
-- How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera 
+
 
 
 
