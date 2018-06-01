@@ -37,7 +37,10 @@ title: "Learn"
     + [ ] Chapter 1: Using neural nets to recognize handwritten digits - Learning with gradient descent
     + [ ] 
 
-- How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera ::: Week 1 - Software/Hardware requirements >> Pandas Basics Assignment
+- How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera ::: Week 2 - Visualization
+
+
+-
 -----
 
 ### To be continued ...
