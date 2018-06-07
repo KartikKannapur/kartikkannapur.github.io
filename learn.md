@@ -29,7 +29,7 @@ title: "Learn"
     + [ ] [CS 124: From Languages to Information](https://web.stanford.edu/class/cs124/) ::: Week 0
     + [ ]   Add to Notes: http://www.cbs.dtu.dk/courses/27610/regular-expressions-cheat-sheet-v2.pdf  
 
-- [Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale 4th Edition](https://www.amazon.com/Hadoop-Definitive-Storage-Analysis-Internet/dp/1491901632) by Tom White ::: Page 71 of 756 Chapter 3 - Begin
+- [Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale 4th Edition](https://www.amazon.com/Hadoop-Definitive-Storage-Analysis-Internet/dp/1491901632) by Tom White ::: Page 75 of 756 Chapter 3 - Block Caching
 
 - [The Deep Learning Textbook](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville ::: Chapter 6 - 6.2 - Gradient Based Learning - Page - 191 of 802 
 
