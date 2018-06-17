@@ -40,7 +40,7 @@ title: "Learn"
 - How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera ::: Week 2 - Visualization
 
 
--
+- The Elements of Statistical Learning Book by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie - Page 33 of 764 - 2.3.2 Nearest-Neighbor Methods
 -----
 
 ### To be continued ...
