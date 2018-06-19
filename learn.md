@@ -40,7 +40,7 @@ title: "Learn"
 - How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera ::: Week 2 - Visualization
 
 
-- The Elements of Statistical Learning Book by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie - Page 41 of 764 - 2.5 Local Methods in High Dimensions
+- The Elements of Statistical Learning Book by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie - Page 47 of 764 - 2.6 Statistical Models, Supervised Learning and Function Approximation
 -----
 
 ### To be continued ...
