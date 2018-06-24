@@ -6,30 +6,13 @@ title: "Learn"
 
 
  
-- [CS 20: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/index.html) by Stanford by Chip Huyen ::: Week 2 - Linear and Logistic Regression
 
-    + [x] TensorBoard
-    + [ ] Hands-on Tensorboard - [YouTube](https://www.youtube.com/watch?v=eBbEDRsCmv4)
-    + [ ] Matrix Multiplication: tf.matmul(A,B)
-    + [ ] Neural Style Translation
-    + [ ] Distributed Computation of Graphs/Graph Flow/Tensors
-    + [ ] DistBelief
-    + [ ] AlexNet
-    + [ ] YouTube: [tf.data: Fast, flexible, and easy-to-use input pipelines](https://www.youtube.com/watch?v=uIcqeP7MFH0)
-    + [ ] YouTube: [The Practitioner's Guide with TF High Level APIs](https://www.youtube.com/watch?v=4oNdaQk0Qv4)
-    + [ ] YouTube: [Debugging TensorFlow with TensorBoard plugins](https://www.youtube.com/watch?v=XcHWLsVmHvk)
-    + [ ] TFX - https://www.tensorflow.org/tfx/
-
-
-    + [Learning TensorFlow - A Guide to Building Deep Learning Systems](http://shop.oreilly.com/product/0636920063698.do) by Itay Lieder, Yehezkel Resheff, Tom Hope - Page 80 of 337 - Optimization
-    + Companion Code on GitHub - [Learning TensorFlow GitHub](https://github.com/Hezi-Resheff/Oreilly-Learning-TensorFlow)
-    
 - [Speech and Language Processing Book](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky and James H. Martin ::: Chapter 2 - Page 14 of 499
     
     + [ ] [CS 124: From Languages to Information](https://web.stanford.edu/class/cs124/) ::: Week 0
     + [ ]   Add to Notes: http://www.cbs.dtu.dk/courses/27610/regular-expressions-cheat-sheet-v2.pdf  
 
-- [Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale 4th Edition](https://www.amazon.com/Hadoop-Definitive-Storage-Analysis-Internet/dp/1491901632) by Tom White ::: Page 75 of 756 Chapter 3 - Block Caching
+- [Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale 4th Edition](https://www.amazon.com/Hadoop-Definitive-Storage-Analysis-Internet/dp/1491901632) by Tom White ::: Page 107 of 756 Chapter 4 - YARN
 
 - [The Deep Learning Textbook](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville ::: Chapter 6 - 6.2.2.3 - Softmax - Page - 198 of 802 
 
@@ -41,6 +24,10 @@ title: "Learn"
 
 
 - The Elements of Statistical Learning Book by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie - Page 71 of 764 - 3.2.3 Multiple Regression from Simple Univariate Regression
+
+
+-
+
 -----
 
 ### To be continued ...
