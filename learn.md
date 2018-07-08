@@ -7,7 +7,7 @@ title: "Learn"
 
  
 
-- [Speech and Language Processing Book](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky and James H. Martin ::: Chapter 4 - Page 35 of 499 - Language Modeling with Ngrams
+- [Speech and Language Processing Book](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky and James H. Martin ::: Chapter 4 - Page 41 of 499 - 4.2 Evaluating Language Models
     
     + [ ] [CS 124: From Languages to Information](https://web.stanford.edu/class/cs124/) ::: Week 1 - Complete
     + [ ]   Add to Notes: http://www.cbs.dtu.dk/courses/27610/regular-expressions-cheat-sheet-v2.pdf  
