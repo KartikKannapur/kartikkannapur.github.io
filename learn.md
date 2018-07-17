@@ -23,7 +23,7 @@ title: "Learn"
 - How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera ::: Week 2 - Visualization
 
 
-- The Elements of Statistical Learning Book by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie - Page 324 of 764 - 9.2 Tree-Based Methods
+- The Elements of Statistical Learning Book by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie - Page 348 of 764 - 9.5 Hierarchical Mixtures of Experts
 
 - [Practical Deep Learning For Coders, Part 1](http://course.fast.ai) - Lesson 1 - In-Progress
 
