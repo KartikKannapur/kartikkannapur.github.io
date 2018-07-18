@@ -23,7 +23,7 @@ title: "Learn"
 - How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera ::: Week 2 - Visualization
 
 
-- The Elements of Statistical Learning Book by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie - Page 360 of 764 - 10.2 Boosting Fits an Additive Model
+- The Elements of Statistical Learning Book by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie - Page 411 of 764 - 11.3 Neural Networks
 
 - [Practical Deep Learning For Coders, Part 1](http://course.fast.ai) - Lesson 1 - In-Progress
 
