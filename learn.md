@@ -23,8 +23,7 @@ title: "Learn"
 - How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera ::: Week 2 - Visualization
 
 
-- The Elements of Statistical Learning Book by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie - Page 668 of 764 - 18
-High-Dimensional Problems: p ≫ N
+
 
 - [Practical Deep Learning For Coders, Part 1](http://course.fast.ai) - Lesson 1 - In-Progress
 
@@ -84,6 +83,7 @@ ___
 - Categorical Data Analysis 3rd Edition by Alan Agresti
 - Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce
 - Natural Language Processing with Python Book by Edward Loper, Ewan Klein, and Steven Bird
+- The Elements of Statistical Learning Book by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
 
 **List of Interesting Papers**:
 - [Bagging Equalizes Influence - Grandvalet, Y. Mach Learn (2004) 55: 251.](https://doi.org/10.1023/B:MACH.0000027783.34431.42) 
