@@ -28,7 +28,7 @@ Interview Prep
 - SQL Puzzles & Answers 2nd Edition by Joe Celko - Page 0 of 347
 - Algorithms For Interviews by Adnan Aziz and Amit Prakash - Page 0 of 111
 - Heard on the Street: Quantitative Questions from Wall Street Job Interviews by Timothy Crack - Page 0 of 274
-- All of Statistics: A Concise Course in Statistical Inference - Page 0 of 538
+- All of Statistics: A Concise Course in Statistical Inference by Larry Wasserman - Page 17 of 538 - 2.4 Probability on finite sample spaces
 
 - From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science Norm Matloff - Page 0 of 559
 
