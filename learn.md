@@ -20,12 +20,20 @@ title: "Learn"
     + [ ] Chapter 1: Using neural nets to recognize handwritten digits - Learning with gradient descent
     + [ ] 
 
-- How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera ::: Week 2 - Visualization
-
-
-
-
 - [Practical Deep Learning For Coders, Part 1](http://course.fast.ai) - Lesson 1 - In-Progress
+
+
+Interview Prep
+
+- SQL Puzzles & Answers 2nd Edition by Joe Celko - Page 0 of 347
+- Algorithms For Interviews by Adnan Aziz and Amit Prakash - Page 0 of 111
+- Heard on the Street: Quantitative Questions from Wall Street Job Interviews by Timothy Crack - Page 0 of 274
+- All of Statistics: A Concise Course in Statistical Inference - Page 0 of 538
+
+- From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science Norm Matloff - Page 0 of 559
+
+
+- How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera ::: Week 2 - Visualization
 
 -
 
@@ -42,11 +50,6 @@ title: "Learn"
 - Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Chapter 3 - Page 183 of 770 
 
 
-
-
-
-
-- Mastering Apache Spark - GitBook - Page 15 of 1192
 
 
 
