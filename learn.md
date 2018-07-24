@@ -25,7 +25,7 @@ title: "Learn"
 
 Interview Prep
 
-- SQL Puzzles & Answers 2nd Edition by Joe Celko - Page 23 of 347 - Puzzle 2
+- SQL Puzzles & Answers 2nd Edition by Joe Celko - Page 28 of 347 - Puzzle 3
 - Algorithms For Interviews by Adnan Aziz and Amit Prakash - Page 0 of 111
 - Heard on the Street: Quantitative Questions from Wall Street Job Interviews by Timothy Crack - Page 0 of 274
 - All of Statistics: A Concise Course in Statistical Inference by Larry Wasserman - Page 17 of 538 - 2.4 Probability on finite sample spaces
