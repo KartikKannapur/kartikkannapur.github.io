@@ -37,6 +37,7 @@ Interview Prep
 
 - [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) by Prof. David S. Rosenberg, Office of the CTO at Bloomberg - Lecture 9 of 30 - Lagrangian Duality and Convex Optimization
 
+- Sams Teach Yourself SQL in 24 Hours ::: Chapter 1 - Page 1 of 495
 
 -
 
@@ -44,7 +45,7 @@ Interview Prep
 
 ### To be continued ...
 
-- Sams Teach Yourself SQL in 24 Hours ::: Chapter 8 - Page 136 of 495
+
 
 
 
