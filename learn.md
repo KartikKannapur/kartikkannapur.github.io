@@ -37,7 +37,7 @@ Interview Prep
 
 - [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) by Prof. David S. Rosenberg, Office of the CTO at Bloomberg - Lecture 9 of 30 - Lagrangian Duality and Convex Optimization
 
-- Sams Teach Yourself SQL in 24 Hours ::: Page 400 of 495 - Appendix: Common SQL Commands
+
 
 -
 
@@ -91,6 +91,7 @@ ___
 - Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce
 - Natural Language Processing with Python Book by Edward Loper, Ewan Klein, and Steven Bird
 - The Elements of Statistical Learning Book by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
+- Sams Teach Yourself SQL in 24 Hours 
 
 **List of Interesting Papers**:
 - [Bagging Equalizes Influence - Grandvalet, Y. Mach Learn (2004) 55: 251.](https://doi.org/10.1023/B:MACH.0000027783.34431.42) 
