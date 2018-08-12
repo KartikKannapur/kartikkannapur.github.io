@@ -33,7 +33,7 @@ Interview Prep
 - From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science Norm Matloff - Page 0 of 559
 
 
-- How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera ::: Week 2 - Validation - Data Splitting Strategies
+- How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera ::: Week 3 - Classification Metrics
 
 - [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) by Prof. David S. Rosenberg, Office of the CTO at Bloomberg - Lecture 9 of 30 - Lagrangian Duality and Convex Optimization
 
