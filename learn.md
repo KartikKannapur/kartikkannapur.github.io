@@ -38,7 +38,7 @@ Interview Prep
 
 - [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) by Prof. David S. Rosenberg, Office of the CTO at Bloomberg - Lecture 9 of 30 - Lagrangian Duality and Convex Optimization
 
-
+- [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) by Udacity - 14. Confidence Intervals
 
 -
 
