@@ -22,6 +22,7 @@ title: "Learn"
 
 - [Practical Deep Learning For Coders, Part 1](http://course.fast.ai) - Lesson 1 - In-Progress
 
+- [Mining of Massive Datasets Book](http://infolab.stanford.edu/~ullman/mmds/book.pdf) by by Anand Rajaraman and Jeffrey Ullman - Page 28 of 513 - Indexes
 
 Interview Prep
 
