@@ -26,13 +26,8 @@ title: "Learn"
 
 Interview Prep
 
-- SQL Puzzles & Answers 2nd Edition by Joe Celko - Page 35 of 347 - Puzzle 4
 - Algorithms For Interviews by Adnan Aziz and Amit Prakash - Page 11 of 111 - Chapter 1: Searching
 - Heard on the Street: Quantitative Questions from Wall Street Job Interviews by Timothy Crack - Page 0 of 274
-- All of Statistics: A Concise Course in Statistical Inference by Larry Wasserman - Page 26 of 538 - Chapter 2 Q 15
-
-- From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science Norm Matloff - Page 0 of 559
-
 
 - How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera ::: Week 4 - Hyperparameter Optimization - Start
 
@@ -93,6 +88,8 @@ ___
 - Natural Language Processing with Python Book by Edward Loper, Ewan Klein, and Steven Bird
 - The Elements of Statistical Learning Book by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
 - Sams Teach Yourself SQL in 24 Hours 
+- SQL Puzzles & Answers 2nd Edition by Joe Celko
+- All of Statistics: A Concise Course in Statistical Inference by Larry Wasserman
 
 **List of Interesting Papers**:
 - [Bagging Equalizes Influence - Grandvalet, Y. Mach Learn (2004) 55: 251.](https://doi.org/10.1023/B:MACH.0000027783.34431.42) 
