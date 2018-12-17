@@ -5,6 +5,14 @@ title: "Learn"
 ### Currently Learning:
 
 
+
+- [The Deep Learning Textbook](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville ::: Chapter 1 - 1.2.2 Increasing Dataset Sizes - Page 34 of 802 
+- [Coding the Matrix - Linear Algebra through Applications to Computer Science](http://codingthematrix.com/) ::: Chapter 0 The Function - 0.2 Cartesian product - Page 23 of 689
+- [Valuation: An Online Class](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastvalonline.htm) by Aswath Damodaran ::: Session 2 of 25
+- [Investment Valuation: Tools and Techniques for Determining the Value of any Asset] - Yet to Start
+
+
+########################
  
 
 - [Speech and Language Processing Book](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky and James H. Martin ::: Chapter 4 - Page 41 of 499 - 4.2 Evaluating Language Models
@@ -14,7 +22,6 @@ title: "Learn"
 
 - [Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale 4th Edition](https://www.amazon.com/Hadoop-Definitive-Storage-Analysis-Internet/dp/1491901632) by Tom White ::: Page 107 of 756 Chapter 4 - YARN
 
-- [The Deep Learning Textbook](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville ::: Chapter 6 - 6.2.2.3 - Softmax - Page - 198 of 802 
 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) By Michael Nielsen
     + [ ] Chapter 1: Using neural nets to recognize handwritten digits - Learning with gradient descent
@@ -31,9 +38,7 @@ Interview Prep
 
 - How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera ::: Week 4 - Hyperparameter Optimization - Start
 
-- [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) by Prof. David S. Rosenberg, Office of the CTO at Bloomberg - Lecture 9 of 30 - Lagrangian Duality and Convex Optimization
 
-- [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) by Udacity - 14. Confidence Intervals
 
 -
 
@@ -60,11 +65,22 @@ Interview Prep
 
 ### Wishlist:
 - Time Series Analysis and Its Applications by Robert H. Shumway • David S. Stoffer
-- [Coding the Matrix](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/)
+
 - [Numerical Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
 - [Valuation](https://www.youtube.com/playlist?list=PLUkh9m2BorqkNzSSPrCDkO2jlufVCinVw) by Aswath Damodaran
 - [Valuation Tools Webcasts](https://www.youtube.com/playlist?list=PLUkh9m2BorqmRAGzJb5OIvTAKZZu9HWF-) by Aswath Damodaran
 
+___
+
+# 2019
+
+**Technical Books**
+
+
+
+**Other Books**
+
+**List of Interesting Papers**
 
 ___
 
@@ -78,7 +94,8 @@ ___
 - Neural Networks and Deep Learning by deeplearning.ai on Coursera
 - [Introduction to Linux LFS101x](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) by Linux Foundation on edX
 
-**Books**:
+**Books**
+
 - Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 - From Python to Numpy by Nicolas P. Rougier - http://www.labri.fr/perso/nrougier/from-python-to-numpy/
 - Statistical Inference 2nd edition by Casella and Berger
@@ -91,7 +108,8 @@ ___
 - SQL Puzzles & Answers 2nd Edition by Joe Celko
 - All of Statistics: A Concise Course in Statistical Inference by Larry Wasserman
 
-**List of Interesting Papers**:
+**List of Interesting Papers**
+
 - [Bagging Equalizes Influence - Grandvalet, Y. Mach Learn (2004) 55: 251.](https://doi.org/10.1023/B:MACH.0000027783.34431.42) 
 - [A Few Useful Things to Know about Machine Learning - Pedro Domingos](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 - [Random Forests - Leo Breiman, Statistics Department University of California](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)
@@ -102,6 +120,7 @@ ___
 # 2017
 
 **Courses**
+
 - [STAT 100: Statistical Concepts and Reasoning](https://onlinecourses.science.psu.edu/statprogram/stat100) by Penn State
 - [STAT 200: Elementary Statistics](https://onlinecourses.science.psu.edu/statprogram/stat200) by Penn State
 - [STAT 414: Intro Probability Theory](https://onlinecourses.science.psu.edu/stat414/) by Penn State
@@ -121,6 +140,7 @@ ___
 - [The Zen of Saving](https://app.novoed.com/zen-of-saving-1)
 
 **Books**
+
 - [R Programming for Data Science](https://leanpub.com/rprogramming)
 - Linear Algebra and its Applications by Prof. Gilbert Strang, Fourth Edition
 - Support Vector Machine Succinctly by Alexandre Kowalczyk
@@ -137,6 +157,7 @@ ___
 # 2016
 
 **Courses**
+
 - [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) by Johns Hopkins University on Coursera
 - [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) by MITx on edX
 - [CS105x Introduction to Apache Spark](https://courses.edx.org/courses/course-v1:BerkeleyX+CS105x+1T2016) by BerkeleyX on edX
@@ -152,6 +173,7 @@ ___
 - [MongoDB for Python Developers](https://university.mongodb.com/courses/M101P/about) by MongoDB University 
 
 **Books**
+
 - Learning R
 - Lucene in Action by Erik Hatcher and Otis Gospodnetić
 - [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
