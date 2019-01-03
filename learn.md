@@ -10,7 +10,8 @@ title: "Learn"
 - [Coding the Matrix - Linear Algebra through Applications to Computer Science](http://codingthematrix.com/) ::: Chapter 0 The Function - 0.2 Cartesian product - Page 23 of 689
 - [Valuation: An Online Class](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastvalonline.htm) by Aswath Damodaran ::: Session 2 of 25
 - [Investment Valuation: Tools and Techniques for Determining the Value of any Asset] - Yet to Start
-- [Forecasting: Principles and Practice](https://otexts.org/fpp2/) by Rob J Hyndman and George Athanasopoulos - Yet to Start
+- [Forecasting: Principles and Practice](https://otexts.org/fpp2/) by Rob J Hyndman and George Athanasopoulos - Chapter 3 - 3.3 Residual diagnostics
+
 
 ########################
  
