@@ -11,7 +11,7 @@ title: "Learn"
 - [Valuation: An Online Class](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastvalonline.htm) by Aswath Damodaran ::: Session 2 of 25
 - [Investment Valuation: Tools and Techniques for Determining the Value of any Asset] - Yet to Start
 - [Forecasting: Principles and Practice](https://otexts.org/fpp2/) by Rob J Hyndman and George Athanasopoulos - Chapter 3 - 3.3 Residual diagnostics
-
+- [Deep Learning with TensorFlow - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition) by  Giancarlo Zaccone, Md. Rezaul Karim - Neural Network Architectures - Progress: 7%
 
 ########################
  
