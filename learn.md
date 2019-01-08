@@ -9,7 +9,7 @@ title: "Learn"
 - [The Deep Learning Textbook](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville ::: Chapter 1 - 1.2.2 Increasing Dataset Sizes - Page 34 of 802 
 - [Coding the Matrix - Linear Algebra through Applications to Computer Science](http://codingthematrix.com/) ::: Chapter 0 The Function - 0.2 Cartesian product - Page 23 of 689
 - [Valuation: An Online Class](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastvalonline.htm) by Aswath Damodaran ::: Session 2 of 25
-- [Investment Valuation: Tools and Techniques for Determining the Value of any Asset] - Page 42 of 1259 - A Simple Test of Cashflows
+- [Investment Valuation: Tools and Techniques for Determining the Value of any Asset] - Page 49 of 1259 - Asset based valuation models
 - [Forecasting: Principles and Practice](https://otexts.org/fpp2/) by Rob J Hyndman and George Athanasopoulos - Chapter 3 - 3.3 Residual diagnostics
 - [Deep Learning with TensorFlow - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition) by  Giancarlo Zaccone, Md. Rezaul Karim - Chapter 3: Feed Forward Neural Networks with TF - Progress: 19%
 
