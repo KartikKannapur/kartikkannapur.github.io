@@ -14,6 +14,12 @@ title: "Learn"
 - [Deep Learning with TensorFlow - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition) by  Giancarlo Zaccone, Md. Rezaul Karim - Chapter 3: Feed Forward Neural Networks with TF - Progress: 19%
 - [Dive into Deep Learning An interactive deep learning book for students, engineers, and researchers](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola - A Taste of Deep Learning > Automatic Differentiation
 
+
+- [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/) by James Clear
+- [Own the Day, Own Your Life](https://www.amazon.com/dp/B072HLS5QJ/) by Aubrey Marcus
+- [The Daily Stoic](https://www.amazon.com/dp/B01HNJIJB2/) by Ryan Holiday and Stephen Hanselman
+- [The 4-Hour Chef - Audiobook](https://tim.blog/2013/09/10/free-4-hour-chef-audiobook-download/) by Tim Ferriss
+
 ########################
  
 
