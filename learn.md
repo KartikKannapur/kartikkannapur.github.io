@@ -15,8 +15,9 @@ title: "Learn"
 - [Dive into Deep Learning An interactive deep learning book for students, engineers, and researchers](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola - A Taste of Deep Learning > Sampling
 
 
-- [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/) by James Clear
+
 - [Own the Day, Own Your Life](https://www.amazon.com/dp/B072HLS5QJ/) by Aubrey Marcus
+- [Hit Refresh](https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone-ebook/dp/B01HOT5SQA) by Satya Nadella
 - [The Daily Stoic](https://www.amazon.com/dp/B01HNJIJB2/) by Ryan Holiday and Stephen Hanselman
 - [The 4-Hour Chef - Audiobook](https://tim.blog/2013/09/10/free-4-hour-chef-audiobook-download/) by Tim Ferriss
 
@@ -87,8 +88,11 @@ ___
 
 
 **Other Books**
+- [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/) by James Clear
 
 **List of Interesting Papers**
+
+**List of Interesting Blogs**
 
 ___
 
