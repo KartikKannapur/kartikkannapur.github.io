@@ -7,7 +7,7 @@ title: "Learn"
 
 
 - [The Deep Learning Textbook](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville ::: Chapter 1 - 1.2.2 Increasing Dataset Sizes - Page 34 of 802 
-- [Coding the Matrix - Linear Algebra through Applications to Computer Science](http://codingthematrix.com/) ::: Chapter 0 The Function - 0.2 Cartesian product - Page 23 of 689
+- [Coding the Matrix - Linear Algebra through Applications to Computer Science](http://codingthematrix.com/) ::: 1.4.2 Adding complex numbers - Page 78 of 689
 
 - [Valuation Spring 2019: Online Course](http://people.stern.nyu.edu/adamodar/New_Home_Page/webcasteqspr19.htm) by Aswath Damodaran ::: 
 Resources: http://people.stern.nyu.edu/adamodar/New_Home_Page/equityUG.html
