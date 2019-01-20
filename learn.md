@@ -15,7 +15,7 @@ Resources: http://people.stern.nyu.edu/adamodar/New_Home_Page/equityUG.html
 
 - [Forecasting: Principles and Practice](https://otexts.org/fpp2/) by Rob J Hyndman and George Athanasopoulos - Chapter 3 - 3.3 Residual diagnostics
 - [Deep Learning with TensorFlow - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition) by  Giancarlo Zaccone, Md. Rezaul Karim - Chapter 3: Feed Forward Neural Networks with TF - Progress: 19%
-- [Dive into Deep Learning An interactive deep learning book for students, engineers, and researchers](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola - Deep Learning Basics > Softmax Regression > Softmax Operation
+- [Dive into Deep Learning An interactive deep learning book for students, engineers, and researchers](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola - Deep Learning Basics > 3.6. Softmax Regression from Scratch
 
 
 
