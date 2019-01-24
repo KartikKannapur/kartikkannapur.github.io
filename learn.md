@@ -20,7 +20,7 @@ Resources: http://people.stern.nyu.edu/adamodar/New_Home_Page/equityUG.html
 
 
 - [Own the Day, Own Your Life](https://www.amazon.com/dp/B072HLS5QJ/) by Aubrey Marcus
-- [Hit Refresh](https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone-ebook/dp/B01HOT5SQA) by Satya Nadella
+- [Deep Work](https://www.amazon.com/dp/B00X47ZVXM/) by Cal Newport
 - [The Daily Stoic](https://www.amazon.com/dp/B01HNJIJB2/) by Ryan Holiday and Stephen Hanselman
 - [The 4-Hour Chef - Audiobook](https://tim.blog/2013/09/10/free-4-hour-chef-audiobook-download/) by Tim Ferriss
 
@@ -92,11 +92,12 @@ ___
 
 **Other Books**
 - [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/) by James Clear
+- [Hit Refresh](https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone-ebook/dp/B01HOT5SQA) by Satya Nadella
 
 **List of Interesting Papers**
+- [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://sebastianraschka.com/pdf/manuscripts/model-eval.pdf) by Sebastian Raschka
 
 **List of Interesting Articles**
-
 - [The Power of Habit Investments](https://zenhabits.net/bank/) by Leo Babauta
 ___
 
