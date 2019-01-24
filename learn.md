@@ -99,6 +99,7 @@ ___
 
 **List of Interesting Articles**
 - [The Power of Habit Investments](https://zenhabits.net/bank/) by Leo Babauta
+- [What does your desk say about you?](https://www.mrporter.com/journal/the-tribes/what-does-your-desk-say-about-you/462) Words by Mr Justin Quirk, Illustrations by Mr Joe McKendry
 ___
 
 # 2018
