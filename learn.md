@@ -69,19 +69,6 @@ Interview Prep
 
 
 
-
-
-
-
-
-
-### Wishlist:
-- Time Series Analysis and Its Applications by Robert H. Shumway • David S. Stoffer
-
-- [Numerical Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
-- [Valuation](https://www.youtube.com/playlist?list=PLUkh9m2BorqkNzSSPrCDkO2jlufVCinVw) by Aswath Damodaran
-- [Valuation Tools Webcasts](https://www.youtube.com/playlist?list=PLUkh9m2BorqmRAGzJb5OIvTAKZZu9HWF-) by Aswath Damodaran
-
 ___
 
 # 2019
