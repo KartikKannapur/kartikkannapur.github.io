@@ -10,7 +10,7 @@ title: "Learn"
 - [Coding the Matrix - Linear Algebra through Applications to Computer Science](http://codingthematrix.com/) ::: 1.4.2 Adding complex numbers - Page 78 of 689
 
 - [Valuation Spring 2019: Online Course](http://people.stern.nyu.edu/adamodar/New_Home_Page/webcasteqspr19.htm) by Aswath Damodaran ::: 
-Resources: http://people.stern.nyu.edu/adamodar/New_Home_Page/equityUG.html
+Resources: http://people.stern.nyu.edu/adamodar/New_Home_Page/equityUG.html - Week 1 - In Progress
 - [Investment Valuation: Tools and Techniques for Determining the Value of any Asset] - Page 49 of 1259 - Asset based valuation models
 
 - [Forecasting: Principles and Practice](https://otexts.org/fpp2/) by Rob J Hyndman and George Athanasopoulos - Chapter 3 - 3.3 Residual diagnostics
