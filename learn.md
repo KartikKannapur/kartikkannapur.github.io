@@ -96,6 +96,7 @@ ___
 
 **List of Interesting Papers**
 - [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://sebastianraschka.com/pdf/manuscripts/model-eval.pdf) by Sebastian Raschka
+- [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) by N Srivastava, G Hinton, A Krizhevsky, I Sutskever, R Salakhutdinov
 
 **List of Interesting Articles**
 - [The Power of Habit Investments](https://zenhabits.net/bank/) by Leo Babauta
