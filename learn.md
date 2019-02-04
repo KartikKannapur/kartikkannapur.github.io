@@ -11,7 +11,7 @@ title: "Learn"
 
 - [Valuation Spring 2019: Online Course](http://people.stern.nyu.edu/adamodar/New_Home_Page/webcasteqspr19.htm) by Aswath Damodaran ::: 
 Resources: http://people.stern.nyu.edu/adamodar/New_Home_Page/equityUG.html - Valuation Tools Webcast #1
-- [Investment Valuation: Tools and Techniques for Determining the Value of any Asset] - Page 36 of 1259 - Chapter 2 Approaches to Valuation
+- [Investment Valuation: Tools and Techniques for Determining the Value of any Asset] - Page 36 of 1259 - Chapter 2 Categorizing Discounted Cash flow models
 
 - [Forecasting: Principles and Practice](https://otexts.org/fpp2/) by Rob J Hyndman and George Athanasopoulos - Chapter 5 > 5.8 Nonlinear regression
 - [Deep Learning with TensorFlow - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition) by  Giancarlo Zaccone, Md. Rezaul Karim - Chapter 3: Feed Forward Neural Networks with TF - Progress: 19%
