@@ -92,6 +92,8 @@ ___
 **List of Interesting Articles**
 - [The Power of Habit Investments](https://zenhabits.net/bank/) by Leo Babauta
 - [What does your desk say about you?](https://www.mrporter.com/journal/the-tribes/what-does-your-desk-say-about-you/462) Words by Mr Justin Quirk, Illustrations by Mr Joe McKendry
+- [What do neural networks learn?](https://brohrer.github.io/what_nns_learn.html) by Brandon Rohrer
+
 ___
 
 # 2018
