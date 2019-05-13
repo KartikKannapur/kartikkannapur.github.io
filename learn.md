@@ -5,16 +5,26 @@ title: "Learn"
 ### Currently Learning:
 
 
+- Sagemaker
 
-- [The Deep Learning Textbook](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville ::: Chapter 1 - 1.2.2 Increasing Dataset Sizes - Page 34 of 802 
-- [Coding the Matrix - Linear Algebra through Applications to Computer Science](http://codingthematrix.com/) ::: 1.4.2 Adding complex numbers - Page 78 of 689
+- CS224N:
+https://web.stanford.edu/class/cs224n/index.html#schedule
+https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
+
+
+
+- Deep Learning UC Berkeley STAT-157 2019 - https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW
+- [Dive into Deep Learning An interactive deep learning book for students, engineers, and researchers](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola - 5. Convolutional Neural Networks
+
+
 
 - [Valuation Spring 2019: Online Course](http://people.stern.nyu.edu/adamodar/New_Home_Page/webcasteqspr19.htm) by Aswath Damodaran ::: 
-Resources: http://people.stern.nyu.edu/adamodar/New_Home_Page/equityUG.html - Valuation Tools Webcast #1
-- [Investment Valuation: Tools and Techniques for Determining the Value of any Asset] - Page 36 of 1259 - Chapter 2 Contingent Claim Valuation
-- [Forecasting: Principles and Practice](https://otexts.org/fpp2/) by Rob J Hyndman and George Athanasopoulos - Chapter 5 > 5.8 Nonlinear regression
-- [Deep Learning with TensorFlow - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition) by  Giancarlo Zaccone, Md. Rezaul Karim - Chapter 3: Feed Forward Neural Networks with TF - Progress: 19%
-- [Dive into Deep Learning An interactive deep learning book for students, engineers, and researchers](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola - 5. Convolutional Neural Networks
+
+
+
+- http://u.cs.biu.ac.il/~yogo/nnlp.pdf
+
+- https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf
 
 
 
@@ -30,32 +40,18 @@ Resources: http://people.stern.nyu.edu/adamodar/New_Home_Page/equityUG.html - Va
 ########################
  
 
-- [Speech and Language Processing Book](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky and James H. Martin ::: Chapter 4 - Page 41 of 499 - 4.2 Evaluating Language Models
-    
-    + [ ] [CS 124: From Languages to Information](https://web.stanford.edu/class/cs124/) ::: Week 1 - Complete
-    + [ ]   Add to Notes: http://www.cbs.dtu.dk/courses/27610/regular-expressions-cheat-sheet-v2.pdf  
 
-- [Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale 4th Edition](https://www.amazon.com/Hadoop-Definitive-Storage-Analysis-Internet/dp/1491901632) by Tom White ::: Page 107 of 756 Chapter 4 - YARN
+- [Mining of Massive Datasets Book](http://infolab.stanford.edu/~ullman/mmds/book.pdf) by by Anand Rajaraman and Jeffrey Ullman
 
-
-- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) By Michael Nielsen
-    + [ ] Chapter 1: Using neural nets to recognize handwritten digits - Learning with gradient descent
-    + [ ] 
-
-- [Practical Deep Learning For Coders, Part 1](http://course.fast.ai) - Lesson 1 - In-Progress
-
-- [Mining of Massive Datasets Book](http://infolab.stanford.edu/~ullman/mmds/book.pdf) by by Anand Rajaraman and Jeffrey Ullman - Page 28 of 513 - Indexes
-
-Interview Prep
-
-- Algorithms For Interviews by Adnan Aziz and Amit Prakash - Page 11 of 111 - Chapter 1: Searching
-- Heard on the Street: Quantitative Questions from Wall Street Job Interviews by Timothy Crack - Page 0 of 274
-
-- How to Win a Data Science Competition: Learn from Top Kagglers by National Research University Higher School of Economics on Coursera ::: Week 4 - Hyperparameter Optimization - Start
+- [The Deep Learning Textbook](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville ::: Chapter 1 - 1.2.2 Increasing Dataset Sizes - Page 34 of 802 
+- [Coding the Matrix - Linear Algebra through Applications to Computer Science](http://codingthematrix.com/) ::: 1.4.2 Adding complex numbers - Page 78 of 689
 
 
+Resources: http://people.stern.nyu.edu/adamodar/New_Home_Page/equityUG.html - Valuation Tools Webcast #1
+- [Investment Valuation: Tools and Techniques for Determining the Value of any Asset] - Page 36 of 1259 - Chapter 2 Contingent Claim Valuation
+- [Forecasting: Principles and Practice](https://otexts.org/fpp2/) by Rob J Hyndman and George Athanasopoulos - Chapter 5 > 5.8 Nonlinear regression
 
--
+
 
 -----
 
