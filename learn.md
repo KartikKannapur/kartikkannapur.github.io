@@ -20,6 +20,7 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
 - [Valuation Spring 2019: Online Course](http://people.stern.nyu.edu/adamodar/New_Home_Page/webcasteqspr19.htm) by Aswath Damodaran ::: 
 
+- Pattern Recognition and Machine Learning - https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 
 
 - http://u.cs.biu.ac.il/~yogo/nnlp.pdf
