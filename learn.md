@@ -38,7 +38,7 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
 ########################
  
-
+- Machine Learning Yearning
 
 - [Mining of Massive Datasets Book](http://infolab.stanford.edu/~ullman/mmds/book.pdf) by by Anand Rajaraman and Jeffrey Ullman
 
