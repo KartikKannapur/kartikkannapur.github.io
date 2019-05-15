@@ -7,9 +7,6 @@ title: "Learn"
 
 - Sagemaker
 
-
-- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher Bishop - 1.5. Decision Theory
-
 - CS224N:
 https://web.stanford.edu/class/cs224n/index.html#schedule
 https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
