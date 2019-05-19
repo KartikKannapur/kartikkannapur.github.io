@@ -14,7 +14,9 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 - [Natural Language Processing with Dan Jurafsky and Chris Manning](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ) - 4.1 Spelling Correction Task
 - Slides: https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html
 
-- Deep Learning UC Berkeley STAT-157 2019 - https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW
+- Deep Learning UC Berkeley STAT-157 2019 - https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW - 2.1 NDArrays
+
+
 - [Dive into Deep Learning An interactive deep learning book for students, engineers, and researchers](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola - 5. Convolutional Neural Networks
 
 
