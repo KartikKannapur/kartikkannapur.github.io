@@ -31,13 +31,12 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
 
 
-- [Deep Work](https://www.amazon.com/dp/B00X47ZVXM/) by Cal Newport
+
 - [The 4-Hour Workweek - Audiobook](https://www.amazon.com/4-Hour-Workweek-Anywhere-Expanded-Updated/dp/B0031KN6T8) by Tim Ferriss
 - [The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://www.amazon.com/dp/B00C1BHQXK) by Gary Keller
 
 
 - [The Daily Stoic](https://www.amazon.com/dp/B01HNJIJB2/) by Ryan Holiday and Stephen Hanselman
-- [The 4-Hour Chef - Audiobook](https://tim.blog/2013/09/10/free-4-hour-chef-audiobook-download/) by Tim Ferriss
 
 ########################
  
@@ -75,6 +74,7 @@ ___
 # 2019
 
 **Technical Books**
+- [AWS Certified Solutions Architect Official Study Guide](https://www.amazon.com/Certified-Solutions-Architect-Official-Study-ebook/dp/B01M6W6WYD/)
 
 
 
@@ -82,6 +82,10 @@ ___
 - [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/) by James Clear
 - [Hit Refresh](https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone-ebook/dp/B01HOT5SQA) by Satya Nadella
 - [Own the Day, Own Your Life](https://www.amazon.com/dp/B072HLS5QJ/) by Aubrey Marcus
+- [The 4-Hour Chef - Audiobook](https://tim.blog/2013/09/10/free-4-hour-chef-audiobook-download/) by Tim Ferriss
+- [Deep Work](https://www.amazon.com/dp/B00X47ZVXM/) by Cal Newport
+- [Moneyball: The Art of Winning an Unfair Game](https://www.amazon.com/dp/B000RH0C8G) by Michael Lewis
+- [The Fine Art of Small Talk](https://www.amazon.com/dp/B000JMKSGK/) by Debra Fine
 
 **List of Interesting Papers**
 - [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://sebastianraschka.com/pdf/manuscripts/model-eval.pdf) by Sebastian Raschka
