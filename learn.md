@@ -21,9 +21,8 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
 - [Dive into Deep Learning An interactive deep learning book for students, engineers, and researchers](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola - 5. Convolutional Neural Networks
 
+- Speech and Language Processing - https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
 
-
-- [Valuation Spring 2019: Online Course](http://people.stern.nyu.edu/adamodar/New_Home_Page/webcasteqspr19.htm) by Aswath Damodaran ::: 
 
 
 - http://u.cs.biu.ac.il/~yogo/nnlp.pdf
@@ -49,9 +48,6 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 - [The Deep Learning Textbook](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville ::: Chapter 1 - 1.2.2 Increasing Dataset Sizes - Page 34 of 802 
 - [Coding the Matrix - Linear Algebra through Applications to Computer Science](http://codingthematrix.com/) ::: 1.4.2 Adding complex numbers - Page 78 of 689
 
-
-Resources: http://people.stern.nyu.edu/adamodar/New_Home_Page/equityUG.html - Valuation Tools Webcast #1
-- [Investment Valuation: Tools and Techniques for Determining the Value of any Asset] - Page 36 of 1259 - Chapter 2 Contingent Claim Valuation
 - [Forecasting: Principles and Practice](https://otexts.org/fpp2/) by Rob J Hyndman and George Athanasopoulos - Chapter 5 > 5.8 Nonlinear regression
 
 
