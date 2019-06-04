@@ -14,12 +14,21 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 - [Natural Language Processing with Dan Jurafsky and Chris Manning](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ) - 4.1 Spelling Correction Task
 - Slides: https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html
 
-- Deep Learning UC Berkeley STAT-157 2019 - https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW - 2.1 NDArrays
+- Deep Learning:
+   - Deep Learning UC Berkeley STAT-157 2019 - https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW - 
+        * 2.6 Naive Bayes & https://courses.d2l.ai/berkeley-stat-157/slides/1_24/naive-bayes.pdf
+        * Sequence Models and Language - L18 - https://courses.d2l.ai/berkeley-stat-157/units/sequence.html
+   - [Dive into Deep Learning An interactive deep learning book for students, engineers, and researchers](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola - 5. Convolutional Neural Networks
+        * 2. The Preliminaries: A Crashcourse
+        * 8. Recurrent Neural Networks
+        
+        
+        
 
 - Docker on Linux Academy - Networking and Storage section
 
 
-- [Dive into Deep Learning An interactive deep learning book for students, engineers, and researchers](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola - 5. Convolutional Neural Networks
+- 
 
 - Speech and Language Processing - https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
 
