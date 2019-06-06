@@ -19,10 +19,10 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
         * L7/1 Model Evaluation, Overfitting and Underfitting
         * Sequence Models and Language - L18 - https://courses.d2l.ai/berkeley-stat-157/units/sequence.html
    - [Dive into Deep Learning An interactive deep learning book for students, engineers, and researchers](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola - 5. Convolutional Neural Networks
-        * 3. Linear Networks - https://d2l.ai/chapter_linear-networks/index.html
+        * 4. Multilayer Perceptron - https://d2l.ai/chapter_multilayer-perceptrons/index.html
         * 8. Recurrent Neural Networks
    - Code - TBD
-        * Linear Networks - https://courses.d2l.ai/berkeley-stat-157/units/linear.html 
+        * Multilayer Perceptrons - https://courses.d2l.ai/berkeley-stat-157/units/mlp.html 
         
         
         
