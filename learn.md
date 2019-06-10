@@ -16,10 +16,10 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
 - Deep Learning:
    - Deep Learning UC Berkeley STAT-157 2019 - https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW - 
-        * L7/1 Model Evaluation, Overfitting and Underfitting
+        * L10/3 Managing Parameters
         * Sequence Models and Language - L18 - https://courses.d2l.ai/berkeley-stat-157/units/sequence.html
    - [Dive into Deep Learning An interactive deep learning book for students, engineers, and researchers](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola - 5. Convolutional Neural Networks
-        * 4. Multilayer Perceptron - https://d2l.ai/chapter_multilayer-perceptrons/index.html
+        * 4.9 Considering the Environment
         * 8. Recurrent Neural Networks
    - Code - TBD
         * Multilayer Perceptrons - https://courses.d2l.ai/berkeley-stat-157/units/mlp.html 
