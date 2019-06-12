@@ -16,7 +16,7 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
 - Deep Learning:
    - Deep Learning UC Berkeley STAT-157 2019 - https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW - 
-        * L10/3 Managing Parameters
+        * L11/1 Logistics
         * Sequence Models and Language - L18 - https://courses.d2l.ai/berkeley-stat-157/units/sequence.html
    - [Dive into Deep Learning An interactive deep learning book for students, engineers, and researchers](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola - 5. Convolutional Neural Networks
         * 4.9 Considering the Environment
