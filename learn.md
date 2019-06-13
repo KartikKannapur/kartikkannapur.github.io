@@ -5,8 +5,6 @@ title: "Learn"
 ### Currently Learning:
 
 
-- Sagemaker
-
 - CS224N:
 https://web.stanford.edu/class/cs224n/index.html#schedule
 https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
@@ -95,6 +93,10 @@ ___
 - [Deep Work](https://www.amazon.com/dp/B00X47ZVXM/) by Cal Newport
 - [Moneyball: The Art of Winning an Unfair Game](https://www.amazon.com/dp/B000RH0C8G) by Michael Lewis
 - [The Fine Art of Small Talk](https://www.amazon.com/dp/B000JMKSGK/) by Debra Fine
+
+**Courses**
+
+- Amazon SageMaker: Simplifying Machine Learning Application Development on edX
 
 **List of Interesting Papers**
 - [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://sebastianraschka.com/pdf/manuscripts/model-eval.pdf) by Sebastian Raschka
