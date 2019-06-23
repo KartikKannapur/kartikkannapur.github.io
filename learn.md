@@ -42,7 +42,6 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
 
 
-- [The 4-Hour Workweek - Audiobook](https://www.amazon.com/4-Hour-Workweek-Anywhere-Expanded-Updated/dp/B0031KN6T8) by Tim Ferriss
 - [The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://www.amazon.com/dp/B00C1BHQXK) by Gary Keller
 
 
@@ -93,6 +92,8 @@ ___
 - [Deep Work](https://www.amazon.com/dp/B00X47ZVXM/) by Cal Newport
 - [Moneyball: The Art of Winning an Unfair Game](https://www.amazon.com/dp/B000RH0C8G) by Michael Lewis
 - [The Fine Art of Small Talk](https://www.amazon.com/dp/B000JMKSGK/) by Debra Fine
+- [The 4-Hour Workweek - Audiobook](https://www.amazon.com/4-Hour-Workweek-Anywhere-Expanded-Updated/dp/B0031KN6T8) by Tim Ferriss
+- [The smartest investment book you'll ever read](https://www.amazon.com/dp/B00389UV5E) by Daniel R. Solin
 
 **Courses**
 
