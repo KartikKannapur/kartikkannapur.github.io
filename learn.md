@@ -73,7 +73,21 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 - Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Chapter 3 - Page 183 of 770 
 
 
+___
 
+
+# 2020
+
+**Technical Books**
+
+**Other Books**
+- [Awareness: Conversations with the Masters](https://www.amazon.com/Awareness-Conversations-SJ-Anthony-Mello-ebook/dp/B005GFBP6W) by Anthony de Mello, SJ 
+
+**Courses**
+
+**List of Interesting Papers**
+
+**List of Interesting Articles**
 
 ___
 
@@ -94,6 +108,10 @@ ___
 - [The Fine Art of Small Talk](https://www.amazon.com/dp/B000JMKSGK/) by Debra Fine
 - [The 4-Hour Workweek - Audiobook](https://www.amazon.com/4-Hour-Workweek-Anywhere-Expanded-Updated/dp/B0031KN6T8) by Tim Ferriss
 - [The smartest investment book you'll ever read](https://www.amazon.com/dp/B00389UV5E) by Daniel R. Solin
+- [The McKinsey Way](https://www.amazon.com/dp/B000FA5KX2) by Ethan M. Rasiel
+- [So Good They Can't Ignore You](https://www.amazon.com/dp/B0076DDBJ6) by Cal Newport
+- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.amazon.com/dp/B00KVI76ZS) by Ashlee Vance
+- [The Subtle Art of Not Giving a Fck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/dp/B019MMUA8S) by Mark Manson
 
 **Courses**
 
