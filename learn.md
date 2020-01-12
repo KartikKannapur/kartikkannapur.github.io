@@ -81,7 +81,7 @@ ___
 **Technical Books**
 
 **Other Books**
-- [Awareness: Conversations with the Masters](https://www.amazon.com/Awareness-Conversations-SJ-Anthony-Mello-ebook/dp/B005GFBP6W) by Anthony de Mello, SJ 
+- [Awareness: Conversations with the Masters](https://www.amazon.com/Awareness-Conversations-SJ-Anthony-Mello-ebook/dp/B005GFBP6W) by Anthony de Mello, SJ - Recommend
 
 **Courses**
 
