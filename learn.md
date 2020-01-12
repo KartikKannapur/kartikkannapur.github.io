@@ -4,75 +4,12 @@ title: "Learn"
 
 ### Currently Learning:
 
-
-- CS224N:
-https://web.stanford.edu/class/cs224n/index.html#schedule
-https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
-
-- [Natural Language Processing with Dan Jurafsky and Chris Manning](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ) - 4.1 Spelling Correction Task
-- Slides: https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html
-
-- Deep Learning:
-   - Deep Learning UC Berkeley STAT-157 2019 - https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW - 
-        * L11/4
-        * L19/5 Truncated Backprop through Time
-   - [Dive into Deep Learning An interactive deep learning book for students, engineers, and researchers](http://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola - 5. Convolutional Neural Networks
-        * 4.9 Considering the Environment
-        * 8. Recurrent Neural Networks
-   - Code - TBD
-        * Multilayer Perceptrons - https://courses.d2l.ai/berkeley-stat-157/units/mlp.html 
-        
-        
-        
-
-- Docker on Linux Academy - Networking and Storage section
-
-
-- 
-
-- Speech and Language Processing - https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
+- [CMU Neural Networks for NLP 2019](https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs) - Video 1
 
 
 
-- http://u.cs.biu.ac.il/~yogo/nnlp.pdf
-
-- https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf
-
-
-
-
-
-- [The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://www.amazon.com/dp/B00C1BHQXK) by Gary Keller
-
-
-- [The Daily Stoic](https://www.amazon.com/dp/B01HNJIJB2/) by Ryan Holiday and Stephen Hanselman
-
-########################
- 
-- Machine Learning Yearning
-
-- [Mining of Massive Datasets Book](http://infolab.stanford.edu/~ullman/mmds/book.pdf) by by Anand Rajaraman and Jeffrey Ullman
-
-- [The Deep Learning Textbook](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville ::: Chapter 1 - 1.2.2 Increasing Dataset Sizes - Page 34 of 802 
-- [Coding the Matrix - Linear Algebra through Applications to Computer Science](http://codingthematrix.com/) ::: 1.4.2 Adding complex numbers - Page 78 of 689
-
-- [Forecasting: Principles and Practice](https://otexts.org/fpp2/) by Rob J Hyndman and George Athanasopoulos - Chapter 5 > 5.8 Nonlinear regression
-
-
-
------
-
-### To be continued ...
-
-
-
-
-
-- Cracking the Coding Interview by Gayle Laakmann McDowell, 5th Edition - Interview Questions - 1.1 - Page 82 of 510
-- The Algorithm Design Manual by Steven Skiena - Dictionaries - Page 84 of 739
-- Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia - Chapter 3 - Page 183 of 770 
-
-
+- [NLP by Jacob Eisenstein](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+- https://christophm.github.io/interpretable-ml-book/
 ___
 
 
