@@ -19,6 +19,7 @@ ___
 
 **Other Books**
 - [Awareness: Conversations with the Masters](https://www.amazon.com/Awareness-Conversations-SJ-Anthony-Mello-ebook/dp/B005GFBP6W) by Anthony de Mello, SJ - Recommend
+- [Modern Man in Search of a Soul](https://www.amazon.com/dp/B005KK7VEI) by Carl Gustav Jung 
 
 **Courses**
 
