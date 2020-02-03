@@ -4,7 +4,7 @@ title: "Learn"
 
 ### Currently Learning:
 
-- [CMU Neural Networks for NLP 2019](https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs) - Video 2
+- [CMU Neural Networks for NLP 2019](https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs) - Video 4 19:00 mins
 
 
 
