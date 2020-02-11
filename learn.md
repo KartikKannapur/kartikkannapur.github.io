@@ -8,6 +8,9 @@ title: "Learn"
 
 
 
+
+- [ http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html]
+
 - [NLP by Jacob Eisenstein](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 - https://christophm.github.io/interpretable-ml-book/
 ___
