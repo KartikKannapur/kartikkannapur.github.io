@@ -24,6 +24,7 @@ ___
 - [Awareness: Conversations with the Masters](https://www.amazon.com/Awareness-Conversations-SJ-Anthony-Mello-ebook/dp/B005GFBP6W) by Anthony de Mello, SJ - Recommend
 - [Modern Man in Search of a Soul](https://www.amazon.com/dp/B005KK7VEI) by Carl Gustav Jung
 - [Alexander the Great](https://www.amazon.com/dp/B004UJ08MW) by Jacob Abbott
+- [I Will Teach You to Be Rich](https://www.amazon.com/Will-Teach-You-Be-Rich/dp/0761147489) by Ramit Sethi
 
 **Courses**
 
