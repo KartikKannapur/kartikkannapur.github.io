@@ -31,6 +31,7 @@ ___
 **List of Interesting Papers**
 
 **List of Interesting Articles**
+- [How I Got My Attention Back](https://www.wired.com/2017/01/how-i-got-my-attention-back/) by Craig Mod
 
 ___
 
